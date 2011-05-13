@@ -1,0 +1,3311 @@
+info_begin
+format: 1
+mpd_version: 0.16.2
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Foo Fighters
+mtime: 1302748636
+begin: Foo Fighters
+song_begin: Foo Fighters - All My Life.mp3
+Time: 284
+Artist: Foo Fighters
+Title: All My Life
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Best Of You.mp3
+Time: 256
+Artist: Foo Fighters
+Title: Best Of You
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Big Me.mp3
+Time: 132
+Artist: Foo Fighters
+Title: Big Me
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Down In The Park.mp3
+Time: 245
+Artist: Foo Fighters
+Title: Down In The Park
+mtime: 1302748500
+song_end
+song_begin: Foo Fighters - Everlong.mp3
+Time: 289
+Artist: Foo Fighters
+Title: Everlong
+mtime: 1302748500
+song_end
+song_begin: Foo Fighters - Learn To Fly.mp3
+Time: 276
+Artist: Foo Fighters
+Title: Learn To Fly
+mtime: 1302748500
+song_end
+song_begin: Foo Fighters - Long Road To Ruin.mp3
+Time: 225
+Artist: Foo Fighters
+Title: Long Road To Ruin
+Genre: Alternative
+mtime: 1302748502
+song_end
+song_begin: Foo Fighters - Miracle.mp3
+Time: 210
+Artist: Foo Fighters
+Title: Miracle
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - Stairway to Heaven (Led Zeppelin Cover - Live).mp3
+Time: 334
+Artist: Foo Fighters
+Title: Stairway to Heaven (Led Zeppelin Cover - Live)
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - Summers End.mp3
+Time: 275
+Artist: Foo Fighters
+Title: Summers End
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - The Pretender.mp3
+Time: 270
+Artist: Foo Fighters
+Title: The Pretender
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - Tired Of You.mp3
+Time: 311
+Artist: Foo Fighters
+Title: Tired Of You
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - Wheels.mp3
+Time: 281
+Artist: Foo Fighters
+Title: Wheels
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - White Limo.mp3
+Time: 215
+Artist: Foo Fighters
+Title: White Limo
+Genre: Other
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - On The Mend.mp3
+Time: 272
+Artist: Foo Fighters
+Title: On The Mend
+Track: 07
+Date: 2005
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - Resolve.mp3
+Time: 289
+Artist: Foo Fighters
+Title: Resolve
+Track: 08
+Date: 2005
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - Times Like These.mp3
+Time: 268
+Artist: Foo Fighters
+Title: Times Like These
+Album: American Wedding-OST
+Track: 01
+Date: 2003
+Genre: Rock
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - Let It Die.mp3
+Time: 245
+Artist: Foo Fighters
+Title: Let It Die
+Album: Echoes, Silence, Patience & Gr
+Track: 02
+Date: 2007
+Genre: Alternative
+mtime: 1302748500
+song_end
+song_begin: Foo Fighters - EraseReplace.mp3
+Time: 253
+Artist: Foo Fighters
+Title: Erase/Replace
+Album: Echoes, Silence, Patience And Grace
+Date: 2007
+Genre: www.mp3-ogg.ru
+mtime: 1302748500
+song_end
+song_begin: Foo Fighters - Low.mp3
+Time: 268
+Artist: Foo Fighters
+Title: Low
+Album: Foo Fighters
+Track: 03
+mtime: 1302748506
+song_end
+song_begin: Foo Fighters - No Way Back.mp3
+Time: 196
+Artist: Foo Fighters
+Title: No Way Back
+Album: In Your Honor
+Track: 02
+Date: 2005
+Genre: Rock
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - Still.mp3
+Time: 313
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: Still
+Album: In Your Honor
+Track: 11
+Date: 2005
+Genre: Rock
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - DOA.mp3
+Time: 252
+Artist: Foo Fighters
+Title: DOA
+Album: In Your Honor
+Track: 04
+Genre: Rock
+Disc: 1/2
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Another Round.mp3
+Time: 266
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: Another Round
+Album: In Your Honour (Disc 2)
+Track: 04
+Date: 2005
+Genre: Alternative Rock
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Walking After You.mp3
+Time: 304
+Artist: Foo Fighters
+Title: Walking After You
+Album: The Color And The Shape
+Track: 12
+Genre: Alternative
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - My Hero.mp3
+Time: 260
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: My Hero
+Album: The Colour And The Shape
+Track: 07
+Date: 1997
+Genre: Rock
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - See You.mp3
+Time: 147
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: See You
+Album: The Colour And The Shape
+Track: 08
+Date: 1997
+Genre: Rock
+Composer: Foo Fighters
+mtime: 1302748512
+song_end
+song_begin: Foo Fighters - Monkey Wrench.mp3
+Time: 230
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: Monkey Wrench
+Album: The Colour and the Shape
+Track: 02
+Date: 1997
+Genre: Rock
+Composer: Dave Grohl/Mendel N./P. Smear/W. Goldsmith
+mtime: 1302748510
+song_end
+song_begin: Foo Fighters - Breakout.mp3
+Time: 203
+Artist: Foo Fighters
+Title: Breakout
+Album: There Is Nothing Left To Lose
+Date: 1999
+Genre: Alt. Rock
+mtime: 1302748498
+song_end
+song_begin: Foo Fighters - Generator.mp3
+Time: 230
+Artist: Foo Fighters
+AlbumArtist: Foo Fighters
+Title: Generator
+Album: There Is Nothing Left To Lose
+Track: 05
+Date: 1999
+Genre: Rock
+mtime: 1302748500
+song_end
+end: Foo Fighters
+directory: Megadeth
+mtime: 1304262658
+begin: Megadeth
+song_begin: Megadeth - A Tout Le Monde.mp3
+Time: 268
+Artist: Megadeth
+Title: A Tout Le Monde
+Genre: Metal
+mtime: 1297891686
+song_end
+song_begin: Megadeth - Paranoid.mp3
+Time: 153
+Artist: Megadeth
+Title: Paranoid
+mtime: 1304262370
+song_end
+song_begin: Megadeth - Trust.mp3
+Time: 313
+Artist: Megadeth
+Title: Trust
+mtime: 1297891708
+song_end
+song_begin: Megadeth - Skin O' My Teeth.mp3
+Time: 196
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Skin O' My Teeth
+Album: Countdown To Extinction (Remastered)
+Track: 01
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891698
+song_end
+song_begin: Megadeth - Symphony Of Destruction.mp3
+Time: 247
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Symphony Of Destruction
+Album: Countdown To Extinction (Remastered)
+Track: 02
+Date: 1992
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891702
+song_end
+song_begin: Megadeth - Architecture Of Aggression.mp3
+Time: 220
+Artist: Megadeth
+Title: Architecture Of Aggression
+Album: Countdown To Extinction (Remastered)
+Track: 03
+Date: 1992
+Genre: Metal
+mtime: 1297891686
+song_end
+song_begin: Megadeth - Foreclosure Of A Dream.mp3
+Time: 263
+Artist: Megadeth
+Title: Foreclosure Of A Dream
+Album: Countdown To Extinction (Remastered)
+Track: 04
+Date: 1992
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Sweating Bullets.mp3
+Time: 327
+Artist: Megadeth
+Title: Sweating Bullets
+Album: Countdown To Extinction (Remastered)
+Track: 05
+Date: 1992
+Genre: Metal
+mtime: 1297891700
+song_end
+song_begin: Megadeth - This Was My Life.mp3
+Time: 223
+Artist: Megadeth
+Title: This Was My Life
+Album: Countdown To Extinction (Remastered)
+Track: 06
+Date: 1992
+Genre: Metal
+mtime: 1297891708
+song_end
+song_begin: Megadeth - Countdown To Extinction.mp3
+Time: 259
+Artist: Megadeth
+Title: Countdown To Extinction
+Album: Countdown To Extinction (Remastered)
+Track: 07
+Date: 1992
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Psychotron.mp3
+Time: 282
+Artist: Megadeth
+Title: Psychotron
+Album: Countdown To Extinction (Remastered)
+Track: 09
+Date: 1992
+Genre: Metal
+mtime: 1297891696
+song_end
+song_begin: Megadeth - Captive Honour.mp3
+Time: 255
+Artist: Megadeth
+Title: Captive Honour
+Album: Countdown To Extinction (Remastered)
+Track: 10
+Date: 1992
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Ashes In Your Mouth.mp3
+Time: 375
+Artist: Megadeth
+Title: Ashes In Your Mouth
+Album: Countdown To Extinction (Remastered)
+Track: 11
+Date: 1992
+Genre: Metal
+mtime: 1297891686
+song_end
+song_begin: Megadeth - Crown Of Worms.mp3
+Time: 198
+Artist: Megadeth
+Title: Crown Of Worms
+Album: Countdown To Extinction (Remastered)
+Track: 12
+Date: 1992
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Countdown To Extinction [Demo].mp3
+Time: 235
+Artist: Megadeth
+Title: Countdown To Extinction [Demo]
+Album: Countdown To Extinction (Remastered)
+Track: 13
+Date: 1992
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Symphony Of Destruction [Demo].mp3
+Time: 330
+Artist: Megadeth
+Title: Symphony Of Destruction [Demo]
+Album: Countdown To Extinction (Remastered)
+Track: 14
+Date: 1992
+Genre: Metal
+mtime: 1297891702
+song_end
+song_begin: Megadeth - Psychotron [Demo].mp3
+Time: 328
+Artist: Megadeth
+Title: Psychotron [Demo]
+Album: Countdown To Extinction (Remastered)
+Track: 15
+Date: 1992
+Genre: Metal
+mtime: 1297891696
+song_end
+song_begin: Megadeth - Dialectic Chaos.mp3
+Time: 146
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Dialectic Chaos
+Album: Endgame
+Track: 01
+Date: 2009
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - This Day We Fight!.mp3
+Time: 208
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: This Day We Fight!
+Album: Endgame
+Track: 02
+Date: 2009
+Genre: Metal
+mtime: 1297891706
+song_end
+song_begin: Megadeth - 44 Minutes.mp3
+Time: 277
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: 44 Minutes
+Album: Endgame
+Track: 03
+Date: 2009
+Genre: Metal
+mtime: 1297891684
+song_end
+song_begin: Megadeth - 1,320.mp3
+Time: 230
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: 1,320
+Album: Endgame
+Track: 04
+Date: 2009
+Genre: Metal
+mtime: 1297891682
+song_end
+song_begin: Megadeth - Bite the Hand.mp3
+Time: 241
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Bite the Hand
+Album: Endgame
+Track: 05
+Date: 2009
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Bodies.mp3
+Time: 214
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Bodies
+Album: Endgame
+Track: 06
+Date: 2009
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Endgame.mp3
+Time: 357
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Endgame
+Album: Endgame
+Track: 07
+Date: 2009
+Genre: Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - The Hardest Part of Letting Go...Sealed With a Kiss.mp3
+Time: 282
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: The Hardest Part of Letting Go...Sealed With a Kiss
+Album: Endgame
+Track: 08
+Date: 2009
+Genre: Metal
+mtime: 1297891704
+song_end
+song_begin: Megadeth - Head Crusher.mp3
+Time: 206
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Head Crusher
+Album: Endgame
+Track: 09
+Date: 2009
+Genre: Metal
+mtime: 1297891690
+song_end
+song_begin: Megadeth - How the Story Ends.mp3
+Time: 269
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: How the Story Ends
+Album: Endgame
+Track: 10
+Date: 2009
+Genre: Metal
+mtime: 1297891690
+song_end
+song_begin: Megadeth - The Right to Go Insane.mp3
+Time: 258
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: The Right to Go Insane
+Album: Endgame
+Track: 11
+Date: 2009
+Genre: Metal
+mtime: 1297891704
+song_end
+song_begin: Megadeth - Last Rites Loved To Death.mp3
+Time: 275
+Artist: Megadeth
+Title: Last Rites Loved To Death
+Album: Killing Is My Business
+Track: 01
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891692
+song_end
+song_begin: Megadeth - Killing Is My Business... And Business Is Good.mp3
+Time: 183
+Artist: Megadeth
+Title: Killing Is My Business... And Business Is Good!
+Album: Killing Is My Business
+Track: 02
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891690
+song_end
+song_begin: Megadeth - Skull Beneath The Skin.mp3
+Time: 225
+Artist: Megadeth
+Title: Skull Beneath The Skin
+Album: Killing Is My Business
+Track: 03
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891700
+song_end
+song_begin: Megadeth - These Boots.mp3
+Time: 223
+Artist: Megadeth
+Title: These Boots
+Album: Killing Is My Business
+Track: 04
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891704
+song_end
+song_begin: Megadeth - Rattlehead.mp3
+Time: 221
+Artist: Megadeth
+Title: Rattlehead
+Album: Killing Is My Business
+Track: 05
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891696
+song_end
+song_begin: Megadeth - Chosen Ones.mp3
+Time: 173
+Artist: Megadeth
+Title: Chosen Ones
+Album: Killing Is My Business
+Track: 06
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891688
+song_end
+song_begin: Megadeth - Looking Down The Cross.mp3
+Time: 299
+Artist: Megadeth
+Title: Looking Down The Cross
+Album: Killing Is My Business
+Track: 07
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891692
+song_end
+song_begin: Megadeth - Mechanix.mp3
+Time: 261
+Artist: Megadeth
+Title: Mechanix
+Album: Killing Is My Business
+Track: 08
+Date: 1985
+Genre: Thrash Speed Metal
+mtime: 1297891694
+song_end
+song_begin: Megadeth - Lucretia.mp3
+Time: 238
+Artist: Megadeth
+Title: Lucretia
+Album: Rust In Peace
+Track: 06
+Date: 1990
+Genre: Metal
+mtime: 1297891692
+song_end
+song_begin: Megadeth - Hangar 18.mp3
+Time: 315
+Artist: Megadeth
+Title: Hangar 18
+Album: Rust In Peace
+Track: 02/09
+Date: 1990
+Genre: Metal
+Disc: 1/1
+mtime: 1297891688
+song_end
+song_begin: Megadeth  - Holy Wars The Punishment Due.mp3
+Time: 393
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Holy Wars...The Punishment Due
+Album: Rust in Peace [Bonus Tracks]
+Track: 01
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891680
+song_end
+song_begin: Megadeth - Holy Wars... Punishment Due.mp3
+Time: 392
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Holy Wars...The Punishment Due
+Album: Rust in Peace [Bonus Tracks]
+Track: 01
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891690
+song_end
+song_begin: Megadeth  - Hangar 18.mp3
+Time: 311
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Hangar 18
+Album: Rust in Peace [Bonus Tracks]
+Track: 02
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891680
+song_end
+song_begin: Megadeth - Take no prisoners.mp3
+Time: 207
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Take No Prisoners
+Album: Rust in Peace [Bonus Tracks]
+Track: 03
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891704
+song_end
+song_begin: Megadeth - 04 - Five Magics.mp3
+Time: 340
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Five Magics
+Album: Rust in Peace [Bonus Tracks]
+Track: 04
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891680
+song_end
+song_begin: Megadeth - 05 - Poison was the cure.mp3
+Time: 177
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Poison Was the Cure
+Album: Rust in Peace [Bonus Tracks]
+Track: 05
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891682
+song_end
+song_begin: Megadeth - 06 - Lucretia.mp3
+Time: 236
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Lucretia
+Album: Rust in Peace [Bonus Tracks]
+Track: 06
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine/David Ellefson
+mtime: 1297891682
+song_end
+song_begin: Megadeth - Tornado of souls.mp3
+Time: 319
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Tornado of Souls
+Album: Rust in Peace [Bonus Tracks]
+Track: 07
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine/David Ellefson
+mtime: 1297891708
+song_end
+song_begin: Megadeth - 08 - Dawn patrol.mp3
+Time: 112
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Dawn Patrol
+Album: Rust in Peace [Bonus Tracks]
+Track: 08
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine/David Ellefson
+mtime: 1297891682
+song_end
+song_begin: Megadeth - 09 - Rust in peace polaris.mp3
+Time: 344
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Rust in Peace...Polaris
+Album: Rust in Peace [Bonus Tracks]
+Track: 09
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891682
+song_end
+song_begin: Megadeth - 10 - My creation.mp3
+Time: 97
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: My Creation [#][*]
+Album: Rust in Peace [Bonus Tracks]
+Track: 10
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine/Nick Menza
+mtime: 1297891682
+song_end
+song_begin: Megadeth - 11 - Rust in peace polaris (demo).mp3
+Time: 326
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Rust in Peace...Polaris [#][*]
+Album: Rust in Peace [Bonus Tracks]
+Track: 11
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891684
+song_end
+song_begin: Megadeth - 12 - Holy wars the punishment due (demo).mp3
+Time: 377
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Holy Wars...The Punishment Due [#][*]
+Album: Rust in Peace [Bonus Tracks]
+Track: 12
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891684
+song_end
+song_begin: Megadeth - 13 - Take no prisoners (demo).mp3
+Time: 204
+Artist: Megadeth
+AlbumArtist: Megadeth
+Title: Take No Prisoners [#][*][Demo Version]
+Album: Rust in Peace [Bonus Tracks]
+Track: 13
+Date: 2004
+Genre: Metal
+Composer: Dave Mustaine
+mtime: 1297891684
+song_end
+song_begin: 01 - Into The Lungs Of Hell.mp3
+Time: 210
+Artist: Megadeth
+Title: Into The Lungs Of Hell
+Album: So Far, So Good... So What!
+Track: 1
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 02 - Set The World Afire.mp3
+Time: 349
+Artist: Megadeth
+Title: Set The World Afire
+Album: So Far, So Good... So What!
+Track: 2
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 03 - Anarchy In The U.K..mp3
+Time: 181
+Artist: Megadeth
+Title: Anarchy In The U.K.
+Album: So Far, So Good... So What!
+Track: 3
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 04 - Mary Jane.mp3
+Time: 266
+Artist: Megadeth
+Title: Mary Jane
+Album: So Far, So Good... So What!
+Track: 4
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 05 - 502.mp3
+Time: 208
+Artist: Megadeth
+Title: 502
+Album: So Far, So Good... So What!
+Track: 5
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 06 - In My Darkest Hour.mp3
+Time: 377
+Artist: Megadeth
+Title: In My Darkest Hour
+Album: So Far, So Good... So What!
+Track: 6
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 07 - Liar.mp3
+Time: 201
+Artist: Megadeth
+Title: Liar
+Album: So Far, So Good... So What!
+Track: 7
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: 08 - Hook In Mouth.mp3
+Time: 280
+Artist: Megadeth
+Title: Hook In Mouth
+Album: So Far, So Good... So What!
+Track: 8
+Date: 1988
+mtime: 1109095374
+song_end
+song_begin: Megadeth - Peace Sells, but who is buying.mp3
+Time: 241
+Artist: Megadeth
+Title: Peace Sells, But Who Is Buying
+Album: V-Rock
+mtime: 1297891694
+song_end
+end: Megadeth
+directory: Nirvana
+mtime: 1287935220
+begin: Nirvana
+song_begin: Nirvana - About A Girl.mp3
+Time: 168
+Artist: Nirvana
+Title: About A Girl
+Genre: Other
+mtime: 1284767906
+song_end
+song_begin: Nirvana - Cocaine Girl .mp3
+Time: 117
+Artist: Nirvana
+Title: Cocaine Girl
+Genre: Other
+mtime: 1284767926
+song_end
+song_begin: Nirvana - Come As You Are.mp3
+Time: 220
+Artist: Nirvana
+Title: Come As You Are
+Genre: Other
+mtime: 1284767940
+song_end
+song_begin: Nirvana - Do you Love Me.mp3
+Time: 207
+Artist: Nirvana
+Title: Do You Love Me?
+Date: 1989
+Genre: Grunge
+mtime: 1284768916
+song_end
+song_begin: Nirvana - Dumb.mp3
+Time: 173
+Artist: Nirvana
+Title: Dumb
+Genre: Other
+mtime: 1287188138
+song_end
+song_begin: Nirvana - In Bloom.mp3
+Time: 255
+Artist: Nirvana
+Title: In Bloom
+Genre: Other
+mtime: 1286685484
+song_end
+song_begin: Nirvana - Lithium.mp3
+Time: 256
+Artist: Nirvana
+Title: Lithium
+Genre: Grunge
+mtime: 1286685268
+song_end
+song_begin: Nirvana - Marijuana.mp3
+Time: 212
+Artist: Nirvana
+Title: Marijuana
+mtime: 1271734116
+song_end
+song_begin: Nirvana - Polly.mp3
+Time: 177
+Artist: Nirvana
+Title: Polly
+Genre: Other
+mtime: 1286683278
+song_end
+song_begin: Nirvana - Sappy.mp3
+Time: 203
+Artist: Nirvana
+Title: Sappy
+mtime: 1286683650
+song_end
+song_begin: Nirvana - The Man Who Sold The World.mp3
+Time: 261
+Artist: Nirvana
+Title: The Man Who Sold The World
+Disc: 0
+mtime: 1284767354
+song_end
+song_begin: Nirvana - Twist And Shout.mp3
+Time: 161
+Artist: Nirvana
+Title: Twist And Shout (Beatles Cover)
+Genre: Outras
+mtime: 1277474740
+song_end
+song_begin: Nirvana - You Know You're Right.mp3
+Time: 216
+Artist: Nirvana
+Title: You Know You're Right
+Genre: Other
+mtime: 1284768008
+song_end
+song_begin: seasons_in_the_sun.mp3
+Time: 203
+Artist: Nirvana
+Title: Seasons In The Sun
+Date: 1993
+Genre: Grunge
+mtime: 1142510330
+song_end
+song_begin: Nirvana - Molly's Lips.mp3
+Time: 114
+Artist: Nirvana
+Title: Molly's Lips
+Track: 06
+Genre: Grunge
+mtime: 1286682852
+song_end
+song_begin: Nirvana - Negative Creep.mp3
+Time: 193
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Negative Creep
+Album: 9.21.1991 Montreal
+Track: 12
+Date: 1991
+Genre: Alternative
+Composer: Kurt Cobain
+Disc: 1 / 1
+mtime: 1286685478
+song_end
+song_begin: Nirvana - Half The Man I Used To Be.mp3
+Time: 333
+Artist: Nirvana
+Title: Half The Man I Used To Be
+Album: Desconocido
+Track: 00
+Genre: Grunge
+Disc: 0
+mtime: 1286686962
+song_end
+song_begin: Nirvana - Milk It.mp3
+Time: 232
+Artist: Nirvana
+Title: Milk It (lp version)
+Album: Heart-Shaped Box
+Date: 1993
+Genre: Grunge
+mtime: 1286685476
+song_end
+song_begin: Nirvana - All Apologies.mp3
+Time: 228
+Artist: Nirvana
+Title: All Apologies
+Album: In Utero
+Date: 1993
+Genre: Rock
+mtime: 1271734100
+song_end
+song_begin: Nirvana - Rape Me.mp3
+Time: 170
+Artist: Nirvana
+Title: Rape Me
+Album: In Utero
+Date: 1994
+Genre: Grunge
+mtime: 1271734094
+song_end
+song_begin: Nirvana - Scentless Apprentice.mp3
+Time: 219
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Scentless Apprentice
+Album: In Utero
+Track: 02
+Date: 1993
+Genre: Grunge
+Composer: Dave Grohl/Krist Novoselic/Kurt Cobain
+mtime: 1271734094
+song_end
+song_begin: Nirvana - Heart Shaped Box.mp3
+Time: 282
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Heart-Shaped Box
+Album: In Utero
+Track: 03
+Date: 1998
+Genre: Other
+Composer: Kurt Cobain
+mtime: 1286686102
+song_end
+song_begin: Nirvana - Very ape.mp3
+Time: 116
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Very ape
+Album: In utero
+Track: 07
+Date: 1993
+Genre: Rock
+mtime: 1287180862
+song_end
+song_begin: Nirvana - Been A Son.mp3
+Time: 116
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Been A Son
+Album: Incesticide
+Track: 04
+Date: 1990
+Genre: Grunge
+Composer: Kurt Cobain
+mtime: 1271734114
+song_end
+song_begin: Nirvana - school.mp3
+Time: 162
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: School
+Album: Incesticide
+Track: 04
+Date: 1992
+Genre: Rock
+Composer: Kurt Cobain
+mtime: 1271734110
+song_end
+song_begin: Nirvana - Son Of A Gun.mp3
+Time: 168
+Artist: Nirvana
+Title: Son Of A Gun
+Album: Incesticide
+Track: 07
+Date: 1992
+mtime: 1271734108
+song_end
+song_begin: Nirvana - Downer.mp3
+Time: 102
+Artist: Nirvana
+Title: Downer
+Album: Incesticide
+Track: 10/15
+Date: 1992
+mtime: 1287188142
+song_end
+song_begin: Nirvana - Love Buzz.mp3
+Time: 198
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Love Buzz
+Album: Love Buzz CD
+Track: 04
+Date: 1990
+Genre: Grunge
+mtime: 1210905628
+song_end
+song_begin: Nirvana - Jesus Don't Want Me For a Sunbeam.mp3
+Time: 277
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Jesus Doesn't Want Me for a Sunbeam
+Album: MTV Unplugged In New York
+Track: 03
+Date: 1994
+Genre: Grunge
+Composer: Eugene Kelly/Frances McKee
+Disc: 0
+mtime: 1286685012
+song_end
+song_begin: Nirvana - Something In The Way.mp3
+Time: 241
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Something In The Way
+Album: MTV Unplugged In New York
+Track: 09
+Date: 1994
+Genre: Grunge
+Composer: Kurt Cobain/Nirvana
+mtime: 1271734112
+song_end
+song_begin: Nirvana - Breed.mp3
+Time: 184
+Artist: Nirvana
+Title: Breed
+Album: Nervermind
+Track: 04/13
+mtime: 1271734096
+song_end
+song_begin: Nirvana - Territorial Pissings.mp3
+Time: 143
+Artist: Nirvana
+Title: Territorial Pissings
+Album: Nervermind
+Track: 07/13
+mtime: 1271734108
+song_end
+song_begin: Nirvana - Endless, Nameless.mp3
+Time: 404
+Artist: Nirvana
+Title: Endless, Nameless
+Album: Nervermind
+Track: 13/13
+mtime: 1271734104
+song_end
+song_begin: Nirvana - Smells Like A Teen Spirit.mp3
+Time: 302
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Smells Like A Teen Spirit
+Album: Nevermind
+Track: 01
+Date: 1991
+Composer: Dave Grohl/Krist Novoselic/Kurt Cobain
+mtime: 1271734094
+song_end
+song_begin: Nirvana - Drain You.mp3
+Time: 224
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Drain You
+Album: Nevermind
+Track: 02
+Date: 1991
+Genre: Alternative
+Composer: Kurt Cobain/Nirvana
+mtime: 1271734102
+song_end
+song_begin: Nirvana - Stay Away.mp3
+Time: 213
+Artist: Nirvana
+Title: Stay Away
+Album: Nevermind
+Track: 10
+Genre: Grunge
+mtime: 1287180746
+song_end
+song_begin: Seether - Fuck It.mp3
+Time: 205
+Artist: Seether
+Title: Fuck It
+Album: Seether
+Date: 2001
+Genre: Hard Rock
+mtime: 1271734098
+song_end
+song_begin: Nirvana - Aneurysm.mp3
+Time: 275
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Aneurysm
+Album: The Complete Radio Sessions
+Track: 14
+Date: 1990
+Genre: Grunge
+Composer: Dave Grohl/Krist Novoselic/Kurt Cobain
+Disc: 0
+mtime: 1271734106
+song_end
+song_begin: Nirvana -Help Me I Am Hungry.mp3
+Time: 183
+Artist: Nirvana
+Title: Help Me I'm Hungry
+Album: Unrelease(2)
+Genre: Grunge
+mtime: 1284769468
+song_end
+song_begin: Nirvana - Where Did You Sleep Last Night.mp3
+Time: 238
+Artist: Nirvana
+AlbumArtist: Mark Lanegan
+Title: Where Did You Sleep Last Night?
+Album: Where Did You Sleep Last Night
+Track: 11
+Date: 1990
+Genre: Grunge
+Composer: Leadbelly
+Disc: 0
+mtime: 1271734118
+song_end
+song_begin: Nirvana - Where Do Bad Folks Go When They Die.mp3
+Time: 176
+Artist: Nirvana
+Title: Where do bad folks go when they die
+Album: title
+Track: 12
+Genre: genre
+mtime: 1271734112
+song_end
+end: Nirvana
+directory: Rock,Punk,Etc
+mtime: 1302748636
+begin: Rock,Punk,Etc
+song_begin: 'Oye Mi Amor'  Maná.mp3
+Time: 270
+Artist: Mana
+Title: Oye Mi Amor
+mtime: 1304742226
+song_end
+song_begin: +44 - Baby Come On.mp3
+Time: 166
+Artist: (+44)
+Title: Baby Come On
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: ACDC - Back In Black.mp3
+Time: 244
+Artist: AC/DC
+Title: Back In Black
+mtime: 1304742226
+song_end
+song_begin: ACDC - Dirty Deeds Done Dirty Cheaps.mp3
+Time: 237
+Artist: AC/DC
+Title: Dirty Deeds Done Dirty Deeds
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: ACDC - Highway To Hell.mp3
+Time: 223
+Artist: AC/DC
+Title: Highway To Hell
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: ACDC - Is a long way to the top is you wanna rock and roll.mp3
+Time: 308
+Artist: AC/DC
+Title: Its A Long Way To The Top If Ya Wanna Rock And Roll
+mtime: 1304742226
+song_end
+song_begin: ACDC - You Shook Me Al Night Long.mp3
+Time: 212
+Artist: AC/DC
+Title: You Shook Me All Night Long
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Cachito - Mana.mp3
+Time: 256
+Artist: Mana
+Title: Cachito
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Calle 13 - John, El Esquizofrenico.mp3
+Time: 277
+Artist: Calle 13
+Title: John, El Esquizofrenico
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Caramelos De Cianuro - Sanitarios.mp3
+Time: 216
+Artist: Caramelos de Cianuro
+Title: Sanitarios
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - La Vinotinto.mp3
+Time: 186
+Artist: Caramelos de Cianuro
+Title: La Vinotinto
+Genre: Other
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Veronica.mp3
+Time: 257
+Artist: Caramelos de Cianuro
+Title: Veronica
+mtime: 1304742226
+song_end
+song_begin: Carl Douglas - Kung Fu Fighting.mp3
+Time: 197
+Artist: Carl Douglas
+Title: Kung Fu Fighting
+Genre: Other
+mtime: 1304742226
+song_end
+song_begin: Deep Purple - Smoke On The Water w_ lyrics.mp3
+Time: 341
+Artist: Deep Purple
+Title: Smoke On The Water
+mtime: 1304742226
+song_end
+song_begin: El Cuarteto de Nos - Ya no se que hacer conmigo .mp3
+Time: 241
+Artist: El Cuarteto De Nos
+Title: Ya no se que hacer conmigo
+mtime: 1304742226
+song_end
+song_begin: Guns N' Roses - Sweet Child O' Mine.mp3
+Time: 316
+Artist: Guns N' Roses
+Title: Sweet Child O' Mine
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Guns N' Roses - Welcome to the Jungle.mp3
+Time: 276
+Artist: Guns N' Roses
+Title: Welcome to the Jungle
+mtime: 1304742226
+song_end
+song_begin: Juan Luis Guerra - Bachata en Fukuoka.mp3
+Time: 188
+Artist: Juan Luis Guerra  2010 By ElPir@ta47
+Title: Bachata en Fukuoka
+Date: 2010
+Genre: Bachata
+mtime: 1304742226
+song_end
+song_begin: Los Chabelos - El Quinto teletubi.mp3
+Time: 216
+Artist: Los Chabelos
+Title: El Quinto Teletubie
+mtime: 1304742226
+song_end
+song_begin: Mana - Cuando Los Angeles Lloran .mp3
+Time: 307
+Artist: Mana
+Title: Cuando Los Angeles Lloran
+mtime: 1304742226
+song_end
+song_begin: Mana - Hechicera(1).mp3
+Time: 298
+Artist: Mana
+Title: Hechicera
+mtime: 1304742226
+song_end
+song_begin: Scorpions - No one like You.mp3
+Time: 256
+Artist: Scorpions
+Title: No One Like You
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Scorpions - Rock You Like A Hurricane.mp3
+Time: 254
+Artist: Scorpions
+Title: Rock You Like A Hurricane
+mtime: 1304742226
+song_end
+song_begin: Soda Stereo - De Música Ligera.mp3
+Time: 217
+Artist: Soda Stereo
+Title: De Música Ligera
+mtime: 1304742226
+song_end
+song_begin: Soda Stereo - Persiana Americana.mp3
+Time: 344
+Artist: Soda Stereo
+Title: Persiana Americana
+mtime: 1304742226
+song_end
+song_begin: The Monkees - I'm a Believer.mp3
+Time: 155
+Artist: The Monkeys
+Title: I'm a Believer
+mtime: 1304742226
+song_end
+song_begin: The Romantics - What I Like About You.mp3
+Time: 184
+Artist: The Romantics
+Title: What I Like About You
+mtime: 1304742226
+song_end
+song_begin: Twisted Sister - I Wanna Rock.mp3
+Time: 356
+Artist: Twisted Sister
+Title: I Wana Rock
+mtime: 1304742226
+song_end
+song_begin: Twisted Sister - We Aren't Gonne Take It Anymore.mp3
+Time: 331
+Artist: Twisted Sister
+Title: We Ain't Not Gonna Take It
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: dancing-with-myself.mp3
+Time: 200
+Artist: Billy Idol
+Title: Dancing With Myself
+Genre: Other
+mtime: 1304742226
+song_end
+song_begin: el cuarteto de nos - Me amo.mp3
+Time: 189
+Artist: El Cuarteto De Nos
+Title: Me Amo
+mtime: 1304742226
+song_end
+song_begin: levitico - amigo(2).mp3
+Time: 180
+Artist: Levitico
+Title: Amigo
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: te solte la rienda maná.mp3
+Time: 210
+Artist: Mana
+Title: te solte la rienda
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Flor de Fuego.mp3
+Time: 192
+Artist: Caramelos de Cianuro
+Title: Flor de Fuego
+Track: 01
+Genre: Other
+mtime: 1304742226
+song_end
+song_begin: Mana y Juan Luis Guerra bendita- la luz.mp3
+Time: 264
+Artist: Mana
+Title: Bendita la Luz
+Album: Amar es Combatir
+Track: 07
+Date: 2006
+Genre: Rock
+Composer: Juan Luis Guerra
+mtime: 1304742226
+song_end
+song_begin: Caramelos_De_Cianuro_-_Rubia_S_-_[MundoAres.com].mp3
+Time: 175
+Artist: Caramelos de Cianuro
+Title: Rubia Sol Morena Luna
+Album: Caramelos De Cianuro
+Track: 03
+Date: 2010
+Genre: Rock
+mtime: 1304742226
+song_end
+song_begin: Martillo.mp3
+Time: 137
+Artist: Caramelos de Cianuro
+Title: Martillo
+Album: Caramelos de Cianuro (Varios)
+Track: 07
+Genre: Rock
+mtime: 1304742226
+song_end
+song_begin: 01 Livin' On A Prayer.mp3
+Time: 251
+Artist: Bon Jovi
+AlbumArtist: Bon Jovi
+Title: Livin' On A Prayer
+Album: Cross Road
+Track: 01
+Date: 1994
+Genre: Rock
+Composer: Desmond Child/Jon Bon Jovi/Richie Sambora
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - First Date.mp3
+Time: 171
+Artist: Blink 182
+Title: Blink 182 - First Date.mp3
+Album: Desconocido
+Genre: Other
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - Girl At The Rock Show.mp3
+Time: 168
+Artist: Blink 182
+Title: Girl At The Rock Show
+Album: Desconocido
+Genre: Other
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Asunto Sexual.mp3
+Time: 266
+Artist: Caramelos de Cianuro
+Title: Asunto Sexual
+Album: Desconocido
+Genre: Desconocido
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - La Terraza.mp3
+Time: 201
+Artist: Caramelos de Cianuro
+Title: La Terraza
+Album: Desconocido
+Genre: Desconocido
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Caramelos de cianuro - El ultimo polvo.mp3
+Time: 283
+Artist: Caramelos de Cianuro
+Title: El ultimo polvo
+Album: Desconocido
+Genre: Desconocido
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: De Pies A Cabeza maná.mp3
+Time: 205
+Artist: Mana
+Title: De Pies A Cabeza maná
+Album: Desconocido
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - Adams Song.mp3
+Time: 249
+Artist: Blink 182
+Title: Adam's Song
+Album: Enema Of The State
+Date: 1999
+Genre: Punk
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - What's My Age Again.mp3
+Time: 147
+Artist: Blink 182
+Title: What's My Age Again?
+Album: Enema Of The State
+Date: 1999
+Genre: Punk
+mtime: 1304742226
+song_end
+song_begin: Mana - En El Muelle De San Blas.mp3
+Time: 351
+Artist: Mana
+AlbumArtist: Maná
+Title: En El Muelle De San Blas
+Album: Esencials: Eclipse
+Date: 2003
+Genre: Blues
+Composer: Fher Olvera/González, Alex "El Animal"
+mtime: 1304742226
+song_end
+song_begin: caramelos de cianuro - no eres tu.mp3
+Time: 171
+Artist: Caramelos de Cianuro
+Title: No Eres Tu
+Album: Flor De Fuego
+Track: 02/10
+Date: 2006
+Genre: Rock
+Composer: Asier Cazalis
+Disc: 1/1
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Baby cohete .mp3
+Time: 187
+Artist: Caramelos de Cianuro
+AlbumArtist: Caramelos de Cianuro
+Title: Baby Cohete
+Album: Flor De Fuego
+Track: 03
+Date: 2006
+Genre: Rock
+Composer: Asier Cazalis
+Disc: 1/1
+mtime: 1304742226
+song_end
+song_begin: caramelos de cianuro - Así.mp3
+Time: 263
+Artist: Caramelos de Cianuro
+AlbumArtist: Caramelos de Cianuro
+Title: Así
+Album: Flor De Fuego
+Track: 06
+Date: 2006
+Genre: Rock
+Composer: Asier Cazalis
+Disc: 1/1
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Guerra lenta.mp3
+Time: 241
+Artist: Caramelos de Cianuro
+Title: Guerra Lenta
+Album: Flor De Fuego
+Track: 07
+Date: 2006
+Genre: Rock
+Composer: Asier Cazalis
+Disc: 1/1
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - una foto de tu ombligo.mp3
+Time: 253
+Artist: Caramelos de Cianuro
+AlbumArtist: Caramelos de Cianuro
+Title: Una Foto De Tu Ombligo
+Album: Frisbee
+Track: 01
+Genre: Rock
+mtime: 1304742226
+song_end
+song_begin: stairway.mp3
+Time: 482
+Artist: Led Zeppelin
+AlbumArtist: Led Zeppelin
+Title: Stairway to Heaven
+Album: Greatest Hits
+Track: 13
+Genre: Íåèçâåñòíûé
+Composer: Led Zeppelin
+mtime: 1304742226
+song_end
+song_begin: liquits - chicharos magicos.mp3
+Time: 171
+Artist: Liquits
+Title: chicharos magicos
+Album: Karaoke
+Track: 08
+Genre: genre
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - Feeling This.mp3
+Time: 174
+Artist: Blink 182
+AlbumArtist: blink-182
+Title: Feeling This
+Album: Madden 2004 PS2 (Digital Rip)
+Track: 01
+Date: 2003
+Genre: Punk Rock
+Composer: blink-182
+mtime: 1304742226
+song_end
+song_begin: Mana   me vale.mp3
+Time: 271
+Artist: Mana
+Title: Me vale
+Album: Mana
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Mana  No ha parado de llover.mp3
+Time: 341
+Artist: Mana
+Title: No ha parado de llover
+Album: Mana
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Maná   Clavado en un Bar.mp3
+Time: 441
+Artist: Mana
+Title: Clavado en un Bar
+Album: Mana
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Maná   Rayando el Sol.mp3
+Time: 376
+Artist: Mana
+Title: Rayando el Sol
+Album: Mana
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: mana como diablos.mp3
+Time: 235
+Artist: Mana
+Title: Como Diablos
+Album: Mana
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: mana-angel de amor.mp3
+Time: 299
+Artist: Mana
+Title: Angel de amor
+Album: Mana
+Date: 2002
+Genre: Blues
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - La Llama.mp3
+Time: 251
+Artist: Caramelos de Cianuro
+Title: La Llama
+Album: Miss Mujerzuela
+Track: 02
+Genre: default
+mtime: 1304742226
+song_end
+song_begin: Caramelos de cianuro - Las Estrellas.mp3
+Time: 192
+Artist: Caramelos de Cianuro
+AlbumArtist: Caramelos de Cianuro
+Title: Las Estrellas
+Album: Miss Mujerzuela
+Track: 04
+Genre: misc
+mtime: 1304742226
+song_end
+song_begin: Gorillaz - On Melancholy Hill.mp3
+Time: 233
+Artist: Gorillaz
+AlbumArtist: Gorillaz
+Title: On Melancholy Hill
+Album: Plastic Beach
+Track: 10
+Date: 2010
+mtime: 1304742226
+song_end
+song_begin: Gorillaz - Cloud of Unknowing.mp3
+Time: 189
+Artist: Gorillaz
+AlbumArtist: Gorillaz
+Title: Cloud of Unknowing
+Album: Plastic Beach
+Track: 15
+Date: 2010
+mtime: 1304742226
+song_end
+song_begin: 04 Yendo a la casa de Damián.mp3
+Time: 256
+Artist: El Cuarteto De Nos
+Title: Yendo a la casa de Damián
+Album: Raro
+Track: 04
+Genre: Latin
+mtime: 1304742226
+song_end
+song_begin: 08 Invierno del 92.mp3
+Time: 242
+Artist: El Cuarteto De Nos
+AlbumArtist: EL CUARTETO DE NOS
+Title: Invierno del 92
+Album: Raro
+Track: 08
+Genre: Rock
+Composer: El Cuarteto de Nos
+mtime: 1304742226
+song_end
+song_begin: Mana - Mariposa Traicionera(1).mp3
+Time: 263
+Artist: Mana
+Title: Mariposa traicionera
+Album: Revolucion De Amor
+Date: 2002
+Genre: Latin
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - Shut up.mp3
+Time: 200
+Artist: Blink 182
+Title: Shut Up
+Album: Take Off Your Pants & Jacket
+Track: 12
+Date: 2001
+Genre: AlternRock
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - You Fucked Up My Life.mp3
+Time: 193
+Artist: Blink 182
+Title: You Fucked Up My Life
+Album: Take Off Your Pants And Jacket
+Track: 14
+Genre: General Punk
+mtime: 1304742226
+song_end
+song_begin: Nine Days - Story Of A Girl.mp3
+Time: 186
+Artist: Nine Days
+AlbumArtist: Nine Days
+Title: Absolutely [Story Of A Girl]
+Album: The Madding Crowd
+Track: 02
+Date: 2000
+Genre: Rock
+Composer: John Hampson
+mtime: 1304742226
+song_end
+song_begin: Blink 182 - 03 - I Miss You.mp3
+Time: 227
+Artist: Blink 182
+AlbumArtist: blink-182
+Title: I Miss You
+Album: Untitled
+Track: 03
+Date: 2003
+Genre: Punk Rock
+Composer: blink-182
+mtime: 1304742226
+song_end
+song_begin: +44 - Lillian.mp3
+Time: 279
+Artist: (+44)
+AlbumArtist: +44
+Title: Lillian
+Album: When Your Heart Stops Beating
+Track: 06
+Date: 2006
+Genre: Rock
+mtime: 1304742226
+song_end
+song_begin: +44 - When Your Heart Stops Beating.mp3
+Time: 182
+Artist: (+44)
+AlbumArtist: Soundtrack
+Title: When Your Heart Stops Beating
+Album: When Your Heart Stops Beating
+Track: 16
+Date: 2006
+Genre: Blues
+mtime: 1304742226
+song_end
+song_begin: Caramelos de Cianuro - Retrovisor.mp3
+Time: 225
+Artist: Caramelos de Cianuro
+Title: Retrovisor
+Album: frisbee
+Track: 32
+Date: 2002
+Genre: Rock
+Disc: 0
+mtime: 1304742226
+song_end
+song_begin: Caramelos de cianuro -  Las notas.mp3
+Time: 182
+Artist: Caramelos de Cianuro
+Title: Las Notas
+Album: frisbee
+Track: 32
+Date: 2002
+Genre: Rock
+Disc: 0
+mtime: 1304742226
+song_end
+end: Rock,Punk,Etc
+directory: Slayer
+mtime: 1304716486
+begin: Slayer
+song_begin: Slayer - Americon.mp3
+Time: 205
+Artist: Slayer
+Title: Americon
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595726
+song_end
+song_begin: Slayer - Beauty Through Order.mp3
+Time: 279
+Artist: Slayer
+Title: Beauty Through Order
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595726
+song_end
+song_begin: Slayer - Hate Worldwide.mp3
+Time: 174
+Artist: Slayer
+Title: Hate Worldwide
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595728
+song_end
+song_begin: Slayer - Human Strain.mp3
+Time: 191
+Artist: Slayer
+Title: Human Strain
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595728
+song_end
+song_begin: Slayer - Not Of This God.mp3
+Time: 260
+Artist: Slayer
+Title: Not Of This God
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595732
+song_end
+song_begin: Slayer - Playing With Dolls.mp3
+Time: 256
+Artist: Slayer
+Title: Playing With Dolls
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595732
+song_end
+song_begin: Slayer - Psycopathy Red.mp3
+Time: 149
+Artist: Slayer
+Title: Psycopathy Red
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595734
+song_end
+song_begin: Slayer - Public Display Of Dismemberment.mp3
+Time: 157
+Artist: Slayer
+Title: Public Display Of Dismemberment
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595734
+song_end
+song_begin: Slayer - Snuff.mp3
+Time: 224
+Artist: Slayer
+Title: Snuff
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595738
+song_end
+song_begin: Slayer - Unit 731.mp3
+Time: 162
+Artist: Slayer
+Title: Unit 731
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595738
+song_end
+song_begin: Slayer - World Painted Blood.mp3
+Time: 355
+Artist: Slayer
+Title: World Painted Blood
+Album: Blood Painted World
+Date: 2009
+mtime: 1298595740
+song_end
+song_begin: Slayer - Angel of Death.mp3
+Time: 291
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Angel of Death
+Album: Reign in Blood
+Track: 01
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman
+mtime: 1298595726
+song_end
+song_begin: Slayer - Piece by Piece.mp3
+Time: 122
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Piece by Piece
+Album: Reign in Blood
+Track: 02
+Date: 1986
+Genre: Thrash Metal
+Composer: Kerry King
+mtime: 1298595732
+song_end
+song_begin: Slayer - Necrophobic.mp3
+Time: 100
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Necrophobic
+Album: Reign in Blood
+Track: 03
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595730
+song_end
+song_begin: Slayer - Altar of Sacrifice.mp3
+Time: 170
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Altar of Sacrifice
+Album: Reign in Blood
+Track: 04
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595724
+song_end
+song_begin: Slayer - Jesus Saves.mp3
+Time: 174
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Jesus Saves
+Album: Reign in Blood
+Track: 05
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595728
+song_end
+song_begin: Slayer - Criminally Insane.mp3
+Time: 143
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Criminally Insane
+Album: Reign in Blood
+Track: 06
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595728
+song_end
+song_begin: Slayer - Reborn.mp3
+Time: 131
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Reborn
+Album: Reign in Blood
+Track: 07
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595736
+song_end
+song_begin: Slayer - Epidemic.mp3
+Time: 143
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Epidemic
+Album: Reign in Blood
+Track: 08
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595728
+song_end
+song_begin: Slayer - Postmortem.mp3
+Time: 207
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Postmortem
+Album: Reign in Blood
+Track: 09
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman
+mtime: 1298595734
+song_end
+song_begin: Slayer - Raining Blood.mp3
+Time: 257
+Artist: Slayer
+AlbumArtist: Slayer
+Title: Raining Blood
+Album: Reign in Blood
+Track: 10
+Date: 1986
+Genre: Thrash Metal
+Composer: Jeff Hanneman/Kerry King
+mtime: 1298595736
+song_end
+song_begin: 01 War Ensemble.mp3
+Time: 292
+Artist: Slayer
+Title: War Ensemble
+Album: Seasons In The Abyss
+Track: 1
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237144096
+song_end
+song_begin: 02 Blood Red.mp3
+Time: 168
+Artist: Slayer
+Title: Blood Red
+Album: Seasons In The Abyss
+Track: 2
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143932
+song_end
+song_begin: 03 Spirit In Black.mp3
+Time: 247
+Artist: Slayer
+Title: Spirit In Black
+Album: Seasons In The Abyss
+Track: 3
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143914
+song_end
+song_begin: 04 Expendable Youth.mp3
+Time: 250
+Artist: Slayer
+Title: Expendable Youth
+Album: Seasons In The Abyss
+Track: 4
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143722
+song_end
+song_begin: 05 Dead Skin Mask.mp3
+Time: 321
+Artist: Slayer
+Title: Dead Skin Mask
+Album: Seasons In The Abyss
+Track: 5
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237144054
+song_end
+song_begin: 06 Hallowed Point.mp3
+Time: 204
+Artist: Slayer
+Title: Hallowed Point
+Album: Seasons In The Abyss
+Track: 6
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143984
+song_end
+song_begin: 07 Skeletons Of Society.mp3
+Time: 280
+Artist: Slayer
+Title: Skeletons Of Society
+Album: Seasons In The Abyss
+Track: 7
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143784
+song_end
+song_begin: 08 Temptation.mp3
+Time: 206
+Artist: Slayer
+Title: Temptation
+Album: Seasons In The Abyss
+Track: 8
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237144078
+song_end
+song_begin: 09 Born Of Fire.mp3
+Time: 188
+Artist: Slayer
+Title: Born Of Fire
+Album: Seasons In The Abyss
+Track: 9
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143774
+song_end
+song_begin: 10 Seasons In the Abyss.mp3
+Time: 396
+Artist: Slayer
+Title: Seasons In The Abyss
+Album: Seasons In The Abyss
+Track: 10
+Date: 1990
+Genre: Thrash Metal
+mtime: 1237143944
+song_end
+end: Slayer
+song_begin: Amon Amarth - Runes to My Memory.mp3
+Time: 2416
+Artist: Amon Amarth
+Title: Rnes To My Memory
+Genre: Death Metal
+mtime: 1298595666
+song_end
+song_begin: Amon Amarth - Valhalla Awaits Me.mp3
+Time: 2491
+Artist: Amon Amarth
+Title: Valhalla Awaits Me
+Genre: Death Metal
+mtime: 1298595668
+song_end
+song_begin: As I Lay Dying - 94 hours.mp3
+Time: 191
+Artist: As I Lay Dying
+Title: 94 Hours
+Genre: Metalcore
+mtime: 1298595668
+song_end
+song_begin: As I Lay Dying - An Ocean Between Us.mp3
+Time: 255
+Artist: As I Lay Dying
+Title: An Ocean Between Us
+Genre: Metalcore
+mtime: 1298595670
+song_end
+song_begin: As I Lay Dying - Bury Us All.mp3
+Time: 146
+Artist: As I Lay Dying
+Title: Bury Us All
+Genre: Metalcore
+mtime: 1298595670
+song_end
+song_begin: As I Lay Dying - Comfort Betrays.mp3
+Time: 172
+Artist: As I Lay Dying
+Title: Comfort Betrays
+Genre: Metalcore
+mtime: 1298595670
+song_end
+song_begin: As I Lay Dying - Forsaken.mp3
+Time: 320
+Artist: As I Lay Dying
+Title: Forsaken
+Genre: Metalcore
+mtime: 1298595670
+song_end
+song_begin: As I Lay Dying - I Never Wanted.mp3
+Time: 286
+Artist: As I Lay Dying
+Title: I Never Wanted
+Genre: Metalcore
+mtime: 1298595672
+song_end
+song_begin: As I Lay Dying - Nothing Left.mp3
+Time: 226
+Artist: As I Lay Dying
+Title: Nothing Left
+Genre: Metalcore
+mtime: 1298595672
+song_end
+song_begin: As I Lay Dying - Within Destruction.mp3
+Time: 237
+Artist: As I Lay Dying
+Title: Within Destruction
+Genre: Metalcore
+mtime: 1298595672
+song_end
+song_begin: As I Lay Dying - Wrath Upon Ourselves.mp3
+Time: 243
+Artist: As I Lay Dying
+Title: Wrath Upon Ourselves
+Genre: Metalcore
+mtime: 1298595672
+song_end
+song_begin: Cannibal Corpse -  Unleashing The Bloodthirsty.mp3
+Time: 255
+Artist: Cannibal Corpse
+Title: Unleashing The Bloodthirsty
+mtime: 1298595674
+song_end
+song_begin: Cannibal Corpse - A Skull Full Of Maggots.mp3
+Time: 154
+Artist: Cannibal Corpse
+Title: S Skull Full Of Maggots
+mtime: 1298595674
+song_end
+song_begin: Cannibal Corpse - Dead Human Collection.mp3
+Time: 161
+Artist: Cannibal Corpse
+Title: Dead Human Collection
+mtime: 1298595674
+song_end
+song_begin: Cannibal Corpse - Devoured By Vermin.mp3
+Time: 221
+Artist: Cannibal Corpse
+Title: Devoured By Vermin
+mtime: 1298595676
+song_end
+song_begin: Cannibal Corpse - Ecstacy In Decay.mp3
+Time: 193
+Artist: Cannibal Corpse
+Title: Ecstacy In Decay
+mtime: 1298595676
+song_end
+song_begin: Cannibal Corpse - Gallery Of Suicide.mp3
+Time: 254
+Artist: Cannibal Corpse
+Title: Gallery Of Suicide
+mtime: 1298595678
+song_end
+song_begin: Cannibal Corpse - Grotesque.mp3
+Time: 225
+Artist: Cannibal Corpse
+Title: Grotesque
+mtime: 1298595678
+song_end
+song_begin: Cannibal Corpse - Hammer Smashed Face.mp3
+Time: 286
+Artist: Cannibal Corpse
+Title: Hammer Smashed Face
+mtime: 1298595678
+song_end
+song_begin: Cannibal Corpse - Hatchet To The Head.mp3
+Time: 216
+Artist: Cannibal Corpse
+Title: Hatchet To The Head
+mtime: 1298595678
+song_end
+song_begin: Cannibal Corpse - I Will Kill You.mp3
+Time: 169
+Artist: Cannibal Corpse
+Title: I Will Kill You
+mtime: 1298595680
+song_end
+song_begin: Cannibal Corpse - No Remorse (Bonus Track).mp3
+Time: 376
+Artist: Cannibal Corpse
+Title: No Remorse (Metallica Cove - Bonus Track)
+mtime: 1298595682
+song_end
+song_begin: Cannibal Corpse - Pounded Into Dust.mp3
+Time: 138
+Artist: Cannibal Corpse
+Title: Pounded Into Dust
+mtime: 1298595682
+song_end
+song_begin: Cannibal Corpse - Raped By The Beast.mp3
+Time: 154
+Artist: Cannibal Corpse
+Title: Raped By The Beast
+mtime: 1298595682
+song_end
+song_begin: Cannibal Corpse - Savage Butchery.mp3
+Time: 113
+Artist: Cannibal Corpse
+Title: Savage Butchery
+mtime: 1298595682
+song_end
+song_begin: Cannibal Corpse - Sickening Metamorphosis.mp3
+Time: 225
+Artist: Cannibal Corpse
+Title: Sickening Metamorphosis
+mtime: 1298595682
+song_end
+song_begin: Cannibal Corpse - When Death Replaces Life.mp3
+Time: 301
+Artist: Cannibal Corpse
+Title: When Death Replaces Life
+mtime: 1298595684
+song_end
+song_begin: Dark Tranquility - Blind At Heart.mp3
+Time: 263
+Artist: Dark Tranquility
+Title: Blind At Heart
+mtime: 1298595684
+song_end
+song_begin: Dark Tranquility - Damage Done.mp3
+Time: 207
+Artist: Dark Tranquility
+Title: Damage Done
+mtime: 1298595684
+song_end
+song_begin: Dark Tranquility - Empty Me.mp3
+Time: 301
+Artist: Dark Tranquility
+Title: Empty Me
+mtime: 1298595686
+song_end
+song_begin: Dark Tranquility - Icipher.mp3
+Time: 282
+Artist: Dark Tranquility
+Title: Icipher
+mtime: 1298595686
+song_end
+song_begin: Dark Tranquility - Nothing To No One.mp3
+Time: 252
+Artist: Dark Tranquility
+Title: Nothing To No One
+mtime: 1298595686
+song_end
+song_begin: Dark Tranquility - Terminus (Where Death Is Most Alive).mp3
+Time: 266
+Artist: Dark Tranquility
+Title: Terminus (Where Death Is Most Alive)
+mtime: 1298595688
+song_end
+song_begin: Dark Tranquility - The Lesser Faith.mp3
+Time: 280
+Artist: Dark Tranquility
+Title: The Lesser Faith
+mtime: 1298595688
+song_end
+song_begin: Dark Tranquility - The Mundane And The Magic.mp3
+Time: 318
+Artist: Dark Tranquility
+Title: The Mundane And The Magic
+mtime: 1298595688
+song_end
+song_begin: Hatebreed - Another Day Another Vendetta.mp3
+Time: 186
+Artist: Hatebreed
+Title: Another Day Another Vendetta
+mtime: 1298595700
+song_end
+song_begin: Hatebreed - Choose Or Be Chosen.mp3
+Time: 101
+Artist: Hatebreed
+Title: Choose Or Be Choosen
+mtime: 1298595702
+song_end
+song_begin: Hatebreed - Doomsayer.mp3
+Time: 205
+Artist: Hatebreed
+Title: Doomsayer
+mtime: 1298595702
+song_end
+song_begin: Hatebreed - Facing What Consumes You.mp3
+Time: 212
+Artist: Hatebreed
+Title: Facing What Consumes You
+mtime: 1298595702
+song_end
+song_begin: Hatebreed - Live For This .mp3
+Time: 172
+Artist: Hatebreed
+Title: Live For This
+mtime: 1298595702
+song_end
+song_begin: Hatebreed - Straight To Your Face.mp3
+Time: 140
+Artist: Hatebreed
+Title: Straight To Your Face
+mtime: 1298595704
+song_end
+song_begin: Hatebreed - Tear It Down.mp3
+Time: 110
+Artist: Hatebreed
+Title: Tear It Down
+mtime: 1298595704
+song_end
+song_begin: Iron Maiden - 22 Acacia Avenue.mp3
+Time: 398
+Artist: Iron Maiden
+Title: 22 Acacia Avenue
+mtime: 1298595704
+song_end
+song_begin: Iron Maiden - Die With Your Boots On.mp3
+Time: 327
+Artist: Iron Maiden
+Title: Die With Your Boots On
+mtime: 1298595704
+song_end
+song_begin: Iron Maiden - Hallowed Be Thy Name.mp3
+Time: 433
+Artist: Iron Maiden
+Title: Hallowed Be Thy Name
+mtime: 1298595706
+song_end
+song_begin: Iron Maiden - Invaders.mp3
+Time: 204
+Artist: Iron Maiden
+Title: Invaders
+mtime: 1298595706
+song_end
+song_begin: Iron Maiden - Murders In The Rue Morgue.mp3
+Time: 258
+Artist: Iron Maiden
+Title: Murders In The Rue Morgue
+mtime: 1298595706
+song_end
+song_begin: Iron Maiden - Run To The Hills.mp3
+Time: 234
+Artist: Iron Maiden
+Title: Run To The Hills
+mtime: 1298595708
+song_end
+song_begin: Iron Maiden - The Evil That Men Do.mp3
+Time: 276
+Artist: Iron Maiden
+Title: The Evil That Men Do
+mtime: 1298595708
+song_end
+song_begin: Iron Maiden - The Final Frontier.mp3
+Time: 242
+Artist: Iron Maiden
+Title: Satellite 15... The Final Frontier
+mtime: 1298595708
+song_end
+song_begin: Iron Maiden - The Number Of The Beast.mp3
+Time: 291
+Artist: Iron Maiden
+Title: The Number Of The Beast
+mtime: 1298595708
+song_end
+song_begin: Iron Maiden - The Prisoner.mp3
+Time: 363
+Artist: Iron Maiden
+Title: The Prisoner
+mtime: 1298595710
+song_end
+song_begin: Iron Maiden - The Trooper.mp3
+Time: 253
+Artist: Iron Maiden
+Title: The Trooper
+mtime: 1298595710
+song_end
+song_begin: Kraken - No Me Hables De Amor.mp3
+Time: 302
+Artist: Kraken
+Title: No Me Hables de Amor
+Genre: ..................
+mtime: 1298595710
+song_end
+song_begin: Metalium - Fight.mp3
+Time: 192
+Artist: Metalium
+Title: Fight
+mtime: 1298595714
+song_end
+song_begin: Metalium - Free Forever.mp3
+Time: 250
+Artist: Metalium
+Title: Free Forever
+mtime: 1298595714
+song_end
+song_begin: Metalium - Heroes Failed.mp3
+Time: 225
+Artist: Metalium
+Title: Heroes Failed
+mtime: 1298595714
+song_end
+song_begin: Metalium - Pain crawles in the Night.mp3
+Time: 274
+Artist: Metalium
+Title: Pain crawles in the Night
+mtime: 1298595716
+song_end
+song_begin: Metalium - Spirits.mp3
+Time: 223
+Artist: Metalium
+Title: Spirits
+mtime: 1298595716
+song_end
+song_begin: Metalium- Revenge of Tizona.mp3
+Time: 235
+Artist: Metalium
+Title: Revenge of Tizona
+mtime: 1298595716
+song_end
+song_begin: Noche sin sueÃ±os (Rata Blanca.mp3
+Time: 372
+Artist: Rata Blanca
+Title: Noche sin sueños
+mtime: 1298595718
+song_end
+song_begin: Ozzy Osbourne - Let Me Hear You Scream.mp3
+Time: 208
+Artist: Ozzy Osbourne
+Title: Let Me Hear You
+mtime: 1298595718
+song_end
+song_begin: RATA BLANCA - ANGEL.mp3
+Time: 237
+Artist: Rata Blanca
+Title: Angel
+mtime: 1298595718
+song_end
+song_begin: RATA BLANCA-AUN ESTAS EN MIS SUEÃOS.mp3
+Time: 295
+Artist: Rata Blanca
+Title: Aun Estas En Mis Sueños
+mtime: 1298595720
+song_end
+song_begin: Rata Blanca - Lluvia Púrpura.mp3
+Time: 327
+Artist: Rata Blanca
+Title: Lluvia Púrpura
+mtime: 1303603110
+song_end
+song_begin: Rata Blanca - Mujer Amante.mp3
+Time: 364
+Artist: Rata Blanca
+Title: Mujer Amante
+mtime: 1298595720
+song_end
+song_begin: Rata Blanca - Solo Para Amarte.mp3
+Time: 348
+Artist: Rata Blanca
+Title: Solo Para Amarte
+mtime: 1298595720
+song_end
+song_begin: Rata blanca - el sueño de la gitana.mp3
+Time: 432
+Artist: Rata Blanca
+Title: El Sueño de La Gitana
+mtime: 1298595718
+song_end
+song_begin: Sodom - Ausgebombt.mp3
+Time: 193
+Artist: Sodom
+Title: Ausgebombt
+mtime: 1298595740
+song_end
+song_begin: Te Visitara La Muerte.mp3
+Time: 220
+Artist: Obus
+Title: Te Visitara La Muerte
+mtime: 1298595742
+song_end
+song_begin: Trivium - A Gunshot To The Head Of Trepidation.mp3
+Time: 357
+Artist: Trivium
+Title: A Gunshot To The Head Of Trepidation
+mtime: 1298595742
+song_end
+song_begin: Trivium - Ascendancy.mp3
+Time: 268
+Artist: Trivium
+Title: Ascendancy
+mtime: 1298595742
+song_end
+song_begin: Trivium - Dying In Your Arms.mp3
+Time: 175
+Artist: Trivium
+Title: Dying In Your Arms
+mtime: 1298595746
+song_end
+song_begin: Trivium - Pull Harder On The Strings Of Your Martyr.mp3
+Time: 293
+Artist: Trivium
+Title: Pull Harder On The Strings Of Your Martyr
+mtime: 1298595746
+song_end
+song_begin: Trivium - Rain.mp3
+Time: 254
+Artist: Trivium
+Title: Rain
+mtime: 1298595748
+song_end
+song_begin: Trivium - The Deceived.mp3
+Time: 314
+Artist: Trivium
+Title: The Deceived
+mtime: 1298595748
+song_end
+song_begin: rata blanca - la leyenda del hada y el mago.mp3
+Time: 321
+Artist: Rata Blanca
+Title: La Leyenda Del Hada Y El Mago
+mtime: 1298595718
+song_end
+song_begin: Divine Heresy - Bleed The Fifth.mp3
+Time: 188
+Artist: Divine Heresy
+Title: Bleed The Fifth
+Track: 01/10
+mtime: 1298595696
+song_end
+song_begin: Divine Heresy - Failed Creation.mp3
+Time: 219
+Artist: Divine Heresy
+Title: Failed Creation
+Track: 02/10
+mtime: 1298595696
+song_end
+song_begin: Divine Heresy - Savior Self.mp3
+Time: 200
+Artist: Divine Heresy
+Title: Savior Self
+Track: 05/10
+mtime: 1298595698
+song_end
+song_begin: Divine Heresy - Rise Of The Scorned.mp3
+Time: 296
+Artist: Divine Heresy
+Title: Rise Of The Scorned
+Track: 06/10
+mtime: 1298595696
+song_end
+song_begin: Divine Heresy - Royal Blood Heresy.mp3
+Time: 284
+Artist: Divine Heresy
+Title: Royal Blood Heresy
+Track: 09/10
+mtime: 1298595698
+song_end
+song_begin: Cannibal Corpse - Unleashing The Bloodthirsty.mp3
+Time: 231
+Artist: Cannibal Corpse
+AlbumArtist: Cannibal Corpse
+Title: Unleashing The Bloodthirsty
+Album: Bloodthirst
+Track: 03
+Date: 1999
+Genre: Death Metal
+mtime: 1298595684
+song_end
+song_begin: Six Feet Under - Bastard.mp3
+Time: 208
+Artist: Six Feet Under
+Title: Bastard
+Album: Death Rituals
+Date: 2009
+mtime: 1298595722
+song_end
+song_begin: Six Feet Under - Death By Machete.mp3
+Time: 227
+Artist: Six Feet Under
+Title: Death By Machete
+Album: Death Rituals
+Date: 2009
+mtime: 1298595722
+song_end
+song_begin: Six Feet Under - Into The Crematorium.mp3
+Time: 225
+Artist: Six Feet Under
+Title: Into The Crematoriun
+Album: Death Rituals
+Date: 2009
+mtime: 1298595722
+song_end
+song_begin: Six Feet Under - Involuntary Movement Of Dead Flesh.mp3
+Time: 211
+Artist: Six Feet Under
+Title: Involuntary Movement Of Dead Flesh
+Album: Death Rituals
+Date: 2009
+mtime: 1298595722
+song_end
+song_begin: Six Feet Under - Killed In Your Sleep.mp3
+Time: 280
+Artist: Six Feet Under
+Title: Kllied In Your Sleep
+Album: Death Rituals
+Date: 2009
+mtime: 1298595722
+song_end
+song_begin: Six Feet Under - None Will Escape.mp3
+Time: 206
+Artist: Six Feet Under
+Title: None Will Escape
+Album: Death Rituals
+Date: 2009
+mtime: 1298595724
+song_end
+song_begin: Six Feet Under - Seed Of Filth.mp3
+Time: 300
+Artist: Six Feet Under
+Title: Seed Of Filth
+Album: Death Rituals
+Date: 2009
+mtime: 1298595724
+song_end
+song_begin: Six Feet Under - Shot In The Head.mp3
+Time: 304
+Artist: Six Feet Under
+Title: Shot In The Head
+Album: Death Rituals
+Date: 2009
+mtime: 1298595724
+song_end
+song_begin: Kreator - Enemy Of God.mp3
+Time: 344
+Artist: Kreator
+Title: Enemy Of God
+Album: Enemy Of God
+Track: 01/12
+mtime: 1298595710
+song_end
+song_begin: Kreator - Impossible Brutality.mp3
+Time: 271
+Artist: Kreator
+Title: Impossible Brutality
+Album: Enemy Of God
+Track: 02/12
+mtime: 1298595712
+song_end
+song_begin: Kreator - World Anarchy.mp3
+Time: 235
+Artist: Kreator
+Title: World Anarchy
+Album: Enemy Of God
+Track: 04/12
+mtime: 1298595714
+song_end
+song_begin: Kreator - Voices Of The Dead.mp3
+Time: 273
+Artist: Kreator
+Title: Voices Of The Dead
+Album: Enemy Of God
+Track: 06/12
+mtime: 1298595712
+song_end
+song_begin: Kreator - Murder Fantasies.mp3
+Time: 290
+Artist: Kreator
+Title: Murder Fantasies
+Album: Enemy Of God
+Track: 07/12
+mtime: 1298595712
+song_end
+song_begin: Kreator - When Death Takes It's Dominion.mp3
+Time: 339
+Artist: Kreator
+Title: When Death Takes It's Dominion
+Album: Enemy Of God
+Track: 08/12
+mtime: 1298595714
+song_end
+song_begin: Kreator - One Evil Comes (A Million Follow).mp3
+Time: 200
+Artist: Kreator
+Title: One Evil Comes (A Million Follow)
+Album: Enemy Of God
+Track: 09/12
+mtime: 1298595712
+song_end
+song_begin: Cannibal Corpse - Mutation Of The Cadaver.mp3
+Time: 190
+Artist: Cannibal Corpse
+AlbumArtist: Cannibal Corpse
+Title: Mutation Of The Cadaver
+Album: Gore Obsessed
+Track: 09
+Date: 2002
+Genre: Death Metal
+Composer: Alex Webster
+mtime: 1298595680
+song_end
+song_begin: Vader -  Red Code.mp3
+Time: 152
+Artist: Vader
+Title: Red Code
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595748
+song_end
+song_begin: Vader - As The Heavens Collide.mp3
+Time: 163
+Artist: Vader
+Title: As Heavens Collide
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595748
+song_end
+song_begin: Vader - Fields Of Heads.mp3
+Time: 248
+Artist: Vader
+Title: Fields Of Heads
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595750
+song_end
+song_begin: Vader - Helleluyah, God Is Dead.mp3
+Time: 184
+Artist: Vader
+Title: Helleluyah, God Is Dead
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595750
+song_end
+song_begin: Vader - Shadowfear.mp3
+Time: 293
+Artist: Vader
+Title: Shadowfear
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595752
+song_end
+song_begin: Vader - They Live.mp3
+Time: 136
+Artist: Vader
+Title: They Live
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595752
+song_end
+song_begin: Vader - Warlords.mp3
+Time: 166
+Artist: Vader
+Title: Warlords
+Album: Impressions Of Blood
+Date: 2006
+mtime: 1298595754
+song_end
+song_begin: Cannibal Corpse - Five Nails Through The Neck.mp3
+Time: 226
+Artist: Cannibal Corpse
+AlbumArtist: Cannibal Corpse
+Title: Five Nails Through The Neck
+Album: Kill
+Track: 05
+Date: 2006
+Genre: Death Metal
+Composer: Alex Webster
+mtime: 1298595676
+song_end
+song_begin: Cannibal Corpse - Death Walking Terror.mp3
+Time: 212
+Artist: Cannibal Corpse
+AlbumArtist: Cannibal Corpse
+Title: Death Walking Terror
+Album: Kill
+Track: 07
+Date: 2006
+Genre: Death Metal
+Composer: Alex Webster
+mtime: 1298595674
+song_end
+song_begin: Cannibal Corpse - I Cum Blood.mp3
+Time: 252
+Artist: Cannibal Corpse
+AlbumArtist: Cannibal Corpse
+Title: I Cum Blood
+Album: Live Cannibalism
+Track: 04
+Date: 2000
+Genre: Death Metal
+Composer: Alex Webster/Bob Rusay/Chris Barnes/Jack Owen/Paul Mazurkiewicz
+mtime: 1298595680
+song_end
+song_begin: Devildriver - Pray for Villains.mp3
+Time: 245
+Artist: Devildriver
+Title: Pray for Villains
+Album: Pray For Villains
+Track: 01/13
+Genre: Death Metal
+mtime: 1298595692
+song_end
+song_begin: Devildriver - Pure Sincerity.mp3
+Time: 280
+Artist: Devildriver
+Title: Pure Sincerity
+Album: Pray For Villains
+Track: 02/13
+Genre: Death Metal
+mtime: 1298595694
+song_end
+song_begin: Devildriver - Fate Stepped In.mp3
+Time: 313
+Artist: Devildriver
+Title: Fate Stepped In
+Album: Pray For Villains
+Track: 03/13
+Genre: Death Metal
+mtime: 1298595690
+song_end
+song_begin: Devildriver - Back with a Vengence.mp3
+Time: 223
+Artist: Devildriver
+Title: Back with a Vengence
+Album: Pray For Villains
+Track: 04/13
+Genre: Death Metal
+mtime: 1298595688
+song_end
+song_begin: Devildriver - I've Been Sober.mp3
+Time: 319
+Artist: Devildriver
+Title: I've Been Sober
+Album: Pray For Villains
+Track: 05/13
+Genre: Death Metal
+mtime: 1298595692
+song_end
+song_begin: Devildriver - Resurrection BLVD.mp3
+Time: 241
+Artist: Devildriver
+Title: Resurrection BLVD
+Album: Pray For Villains
+Track: 06/13
+Genre: Death Metal
+mtime: 1298595694
+song_end
+song_begin: Devildriver - Forgiveness is a Six Gun.mp3
+Time: 276
+Artist: Devildriver
+Title: Forgiveness is a Six Gun
+Album: Pray For Villains
+Track: 07/13
+Genre: Death Metal
+mtime: 1298595690
+song_end
+song_begin: Devildriver - Waiting for November.mp3
+Time: 309
+Artist: Devildriver
+Title: Waiting for November
+Album: Pray For Villains
+Track: 08/13
+Genre: Death Metal
+mtime: 1298595696
+song_end
+song_begin: Devildriver - It's in the Cards.mp3
+Time: 267
+Artist: Devildriver
+Title: It's in the Cards
+Album: Pray For Villains
+Track: 09/13
+Genre: Death Metal
+mtime: 1298595692
+song_end
+song_begin: Devildriver - Another Night in London.mp3
+Time: 188
+Artist: Devildriver
+Title: Another Night in London
+Album: Pray For Villains
+Track: 10/13
+Genre: Death Metal
+mtime: 1298595688
+song_end
+song_begin: Devildriver - Bitter Pill.mp3
+Time: 266
+Artist: Devildriver
+Title: Bitter Pill
+Album: Pray For Villains
+Track: 11/13
+Genre: Death Metal
+mtime: 1298595690
+song_end
+song_begin: Devildriver - Teach Me to Whisper.mp3
+Time: 243
+Artist: Devildriver
+Title: Teach Me to Whisper
+Album: Pray For Villains
+Track: 12/13
+Genre: Death Metal
+mtime: 1298595694
+song_end
+song_begin: Devildriver - I See Belief.mp3
+Time: 235
+Artist: Devildriver
+Title: I See Belief
+Album: Pray For Villains
+Track: 13/13
+Genre: Death Metal
+mtime: 1298595692
+song_end
+song_begin: DevilDriver - Digging Up The Corpses.mp3
+Time: 234
+Artist: Devildriver
+Title: Digging Up The Corpses
+Album: Resident Evil Apocalypse Soundtrack
+Track: 08
+Date: 2004
+Genre: Metal
+mtime: 1298595690
+song_end
+song_begin: Black Sabbath - Paranoid.mp3
+Time: 270
+Artist: Black Sabbath
+AlbumArtist: Black Sabbath
+Title: Paranoid
+Album: Reunion - Disc 2
+Track: 07
+Date: 1998
+Genre: Rock
+Composer: Bill Ward/Geezer Butler/Ozzy Osbourne/Tony Iommi
+Disc: 1/1
+mtime: 1298595674
+song_end
+song_begin: As I Lay Dying - The Darkest Nights.mp3
+Time: 232
+Artist: As I Lay Dying
+Title: The Darkest Nights
+Album: Shadows Are Security
+Track: 04/12
+Date: 2005
+Genre: Metalcore
+mtime: 1298595672
+song_end
+song_begin: As I Lay Dying  - Through Struggle.mp3
+Time: 238
+Artist: As I Lay Dying
+AlbumArtist: As I Lay Dying
+Title: Through Struggle
+Album: Shadows Are Security
+Track: 08
+Date: 2005
+Genre: Metalcore
+Composer: As I Lay Dying
+mtime: 1298595668
+song_end
+song_begin: Trivium - Down From The Sky.mp3
+Time: 328
+Artist: Trivium
+Title: Down From The Sky
+Album: Shogun
+Date: 2008
+Genre: Metal
+mtime: 1298595744
+song_end
+song_begin: Trivium - Kirisute Gomen.mp3
+Time: 403
+Artist: Trivium
+Title: Kirisute Gomen
+Album: Shogun
+Track: 01/11
+Date: 2008
+Genre: Metal
+mtime: 1298595746
+song_end
+song_begin: Trivium - Becoming The Dragon.mp3
+Time: 284
+Artist: Trivium
+AlbumArtist: Trivium
+Title: Becoming the Dragon
+Album: The Crusade
+Track: 07
+Date: 2006
+Genre: Other
+Composer: Matthew K. Heafy
+mtime: 1298595744
+song_end
+song_begin: Devildriver - Clouds over california.mp3
+Time: 250
+Artist: Devildriver
+AlbumArtist: DevilDriver
+Title: Clouds Over California
+Album: The Last Kind Words
+Track: 02
+Date: 2007
+Genre: Metal
+Composer: DevilDriver/Dez Fafara
+Disc: 0
+mtime: 1298595690
+song_end
+song_begin: Dark Tranquility - The Mind's Eye.mp3
+Time: 190
+Artist: Dark Tranquility
+Title: The Mind's Eye
+Album: The Mind's I
+mtime: 1298595688
+song_end
+song_begin: Amon Amarth - Embrace Of The Endless Ocean.mp3
+Time: 404
+Artist: Amon Amarth
+Title: Embrace Of The Endless Ocean
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595664
+song_end
+song_begin: Amon Amarth - Free Will Sacrifice.mp3
+Time: 251
+Artist: Amon Amarth
+Title: Free Will Sacrifice
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595664
+song_end
+song_begin: Amon Amarth - Guardians Of Asgaard.mp3
+Time: 265
+Artist: Amon Amarth
+Title: Guardians Of Asgaards
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595664
+song_end
+song_begin: Amon Amarth - Live For The Kill.mp3
+Time: 254
+Artist: Amon Amarth
+Title: Live For The Kill
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595664
+song_end
+song_begin: Amon Amarth - No Fear For The Setting Sun.mp3
+Time: 236
+Artist: Amon Amarth
+Title: No Fear For The Setting Sun
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595666
+song_end
+song_begin: Amon Amarth - Tattered Banners And Bloody Flags.mp3
+Time: 272
+Artist: Amon Amarth
+Title: Tattered Banners And Bloody Flags
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595666
+song_end
+song_begin: Amon Amarth - The Hero.mp3
+Time: 246
+Artist: Amon Amarth
+Title: The Hero
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595666
+song_end
+song_begin: Amon Amarth - Twilight Of The Thunder God.mp3
+Time: 251
+Artist: Amon Amarth
+Title: Twilight Of The Thunder God
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595666
+song_end
+song_begin: Amon Amarth - Varyags of Miklagaard.mp3
+Time: 260
+Artist: Amon Amarth
+Title: Varyags Of Miklagaard
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595668
+song_end
+song_begin: Amon Amarth - Where Is Your God.mp3
+Time: 193
+Artist: Amon Amarth
+Title: Where Is Your God
+Album: Twilight Of The Thunder God
+Genre: Death Metal
+mtime: 1298595668
+song_end
+song_begin: Amon Amarth - Death In Fire.mp3
+Time: 294
+Artist: Amon Amarth
+Title: Death in Fire
+Album: Versus The World
+Date: 2002
+Genre: Death Metal
+mtime: 1298595664
+song_end
+song_begin: Amon Amarth - Cry Of The Black Birds.mp3
+Time: 230
+Artist: Amon Amarth
+AlbumArtist: Amon Amarth
+Title: Runes To My Memory
+Album: With Oden On Our Side
+Track: 07
+Date: 2006
+Genre: Death Metal
+Composer: Amon Amarth
+Disc: 1/1
+mtime: 1298595664
+song_end
