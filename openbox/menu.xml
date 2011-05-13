@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/ file:///usr/X11R6/share/openbox/menu.xsd">
+	<menu id="root-menu" label="openbox3">
+		<item label="Administrador de Archivos">
+			<action name="Execute">
+				<execute>
+					thunar
+				</execute>
+			</action>
+		</item>
+		<item label="Cliente Twitter">
+			<action name="Execute">
+				<execute>
+					hotot
+				</execute>
+			</action>
+		</item>
+		<item label="Editor">
+			<action name="Execute">
+				<execute>
+					gedit
+				</execute>
+			</action>
+		</item>
+		<item label="Navegador Web">
+			<action name="Execute">
+				<execute>
+					firefox
+				</execute>
+			</action>
+		</item>
+		<item label="Libreoffice">
+			<action name="Execute">
+				<execute>
+					soffice
+				</execute>
+			</action>
+		</item>
+		<separator/>
+		<menu execute="sh mpcob.sh" id="pipe-804612" label="MPD"/>
+		<menu execute="/usr/bin/obdevicemenu" id="pipe-253338" label="USB"/>
+		<menu execute="perl .config/openbox/scripts/tunar.pl" id="pipe-54172" label="Marcadores"/>
+		<separator label="Aplicaciones"/>
+		<menu id="root-menu-752713" label="Programas">
+			<menu id="Accesorios" label="Accesorios">
+				<item label="ADesk Bar">
+					<action name="Execute">
+						<execute>
+						adeskbar
+						</execute>
+					</action>
+				</item>
+				<item label="Administrador de archivos">
+					<action name="Execute">
+						<execute>
+						exo-open --launch FileManager
+						</execute>
+					</action>
+				</item>
+				<item label="Calculadora">
+					<action name="Execute">
+						<execute>
+						gcalctool
+						</execute>
+					</action>
+				</item>
+				<item label="ClipIt">
+					<action name="Execute">
+						<execute>
+						clipit
+						</execute>
+					</action>
+				</item>
+				<item label="Emulador de terminal">
+					<action name="Execute">
+						<execute>
+						exo-open --launch TerminalEmulator
+						</execute>
+					</action>
+				</item>
+				<item label="Gestor de archivos">
+					<action name="Execute">
+						<execute>
+						pcmanfm
+						</execute>
+					</action>
+				</item>
+				<item label="HP Device Manager">
+					<action name="Execute">
+						<execute>
+						hp-toolbox
+						</execute>
+					</action>
+				</item>
+				<item label="NotifyOSD Configuration">
+					<action name="Execute">
+						<execute>
+						notifyconf
+						</execute>
+					</action>
+				</item>
+				<item label="Sakura">
+					<action name="Execute">
+						<execute>
+						sakura
+						</execute>
+					</action>
+				</item>
+				<item label="Utilidad de discos">
+					<action name="Execute">
+						<execute>
+						palimpsest
+						</execute>
+					</action>
+				</item>
+				<item label="WbarConf">
+					<action name="Execute">
+						<execute>
+						wbarconf
+						</execute>
+					</action>
+				</item>
+				<item label="Xarchiver">
+					<action name="Execute">
+						<execute>
+						xarchiver
+						</execute>
+					</action>
+				</item>
+				<item label="gVim">
+					<action name="Execute">
+						<execute>
+						gvim
+						</execute>
+					</action>
+				</item>
+				<item label="gedit">
+					<action name="Execute">
+						<execute>
+						gedit
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Gráficos" label="Gráficos">
+				<item label="Fonty Python Font Manager">
+					<action name="Execute">
+						<execute>
+						fontypython
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Draw">
+					<action name="Execute">
+						<execute>
+						lodraw
+						</execute>
+					</action>
+				</item>
+				<item label="Programa de manipulación de imágenes de GNU">
+					<action name="Execute">
+						<execute>
+						gimp-2.6
+						</execute>
+					</action>
+				</item>
+				<item label="Scribus">
+					<action name="Execute">
+						<execute>
+						scribus
+						</execute>
+					</action>
+				</item>
+				<item label="Visor de documentos">
+					<action name="Execute">
+						<execute>
+						evince
+						</execute>
+					</action>
+				</item>
+				<item label="XSane - Scanning">
+					<action name="Execute">
+						<execute>
+						xsane
+						</execute>
+					</action>
+				</item>
+				<item label="gscreenshot">
+					<action name="Execute">
+						<execute>
+						gscreenshot
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Audio y Video" label="Audio y Video">
+				<item label="AcetoneISO">
+					<action name="Execute">
+						<execute>
+						acetoneiso
+						</execute>
+					</action>
+				</item>
+				<item label="Audacious">
+					<action name="Execute">
+						<execute>
+						audacious2
+						</execute>
+					</action>
+				</item>
+				<item label="Audacity">
+					<action name="Execute">
+						<execute>
+						audacity
+						</execute>
+					</action>
+				</item>
+				<item label="AutoZen (colorbox)">
+					<action name="Execute">
+						<execute>
+						autozen -colorbox
+						</execute>
+					</action>
+				</item>
+				<item label="AutoZen">
+					<action name="Execute">
+						<execute>
+						autozen
+						</execute>
+					</action>
+				</item>
+				<item label="Cheese">
+					<action name="Execute">
+						<execute>
+						cheese
+						</execute>
+					</action>
+				</item>
+				<item label="Cliente de reproducción de música de GNOME">
+					<action name="Execute">
+						<execute>
+						gmpc
+						</execute>
+					</action>
+				</item>
+				<item label="Goggles Music Manager">
+					<action name="Execute">
+						<execute>
+						gogglesmm
+						</execute>
+					</action>
+				</item>
+				<item label="Grabadora de sonidos">
+					<action name="Execute">
+						<execute>
+						gnome-sound-recorder
+						</execute>
+					</action>
+				</item>
+				<item label="OpenShot Video Editor">
+					<action name="Execute">
+						<execute>
+						openshot
+						</execute>
+					</action>
+				</item>
+				<item label="PulseAudio Volume Control">
+					<action name="Execute">
+						<execute>
+						pavucontrol
+						</execute>
+					</action>
+				</item>
+				<item label="Reproductor de películas">
+					<action name="Execute">
+						<execute>
+						totem
+						</execute>
+					</action>
+				</item>
+				<item label="SMPlayer">
+					<action name="Execute">
+						<execute>
+						smplayer
+						</execute>
+					</action>
+				</item>
+				<item label="puddletag">
+					<action name="Execute">
+						<execute>
+						puddletag
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Oficina" label="Oficina">
+				<item label="LibreOffice Base">
+					<action name="Execute">
+						<execute>
+						lobase
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Calc">
+					<action name="Execute">
+						<execute>
+						localc
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Extension Manager">
+					<action name="Execute">
+						<execute>
+						unopkg gui
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Impress">
+					<action name="Execute">
+						<execute>
+						loimpress
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Math">
+					<action name="Execute">
+						<execute>
+						lomath
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Quickstarter">
+					<action name="Execute">
+						<execute>
+						libreoffice -quickstart -nologo -nodefault
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Writer">
+					<action name="Execute">
+						<execute>
+						lowriter
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice">
+					<action name="Execute">
+						<execute>
+						libreoffice
+						</execute>
+					</action>
+				</item>
+				<item label="Plantillas LibreOffice">
+					<action name="Execute">
+						<execute>
+							lofromtemplate
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Juegos" label="Juegos">
+				<item label="AisleRiot Solitaire">
+					<action name="Execute">
+						<execute>
+						jasperj
+						</execute>
+					</action>
+				</item>
+				<item label="Battalion 2004">
+					<action name="Execute">
+						<execute>
+						battalion2004.sh
+						</execute>
+					</action>
+				</item>
+				<item label="Extreme Tux Racer">
+					<action name="Execute">
+						<execute>
+						etracer
+						</execute>
+					</action>
+				</item>
+				<item label="Lincity-NG">
+					<action name="Execute">
+						<execute>
+						lincity-ng
+						</execute>
+					</action>
+				</item>
+				<item label="Megaglest">
+					<action name="Execute">
+						<execute>
+							megaglest
+						</execute>
+					</action>
+				</item>
+				<item label="Metal Blob Solid">
+					<action name="Execute">
+						<execute>
+						blobwars
+						</execute>
+					</action>
+				</item>
+				<item label="OpenArena">
+					<action name="Execute">
+						<execute>
+						openarena
+						</execute>
+					</action>
+				</item>
+				<item label="PainTown">
+					<action name="Execute">
+						<execute>
+						paintown
+						</execute>
+					</action>
+				</item>
+				<item label="Redeclipse">
+					<action name="Execute">
+						<execute>
+						redeclipse
+						</execute>
+					</action>
+				</item>
+				<item label="SuperTux 2">
+					<action name="Execute">
+						<execute>
+						supertux2
+						</execute>
+					</action>
+				</item>
+				<item label="Supertuxkart">
+					<action name="Execute">
+						<execute>
+						/usr/bin/supertuxkart --log
+						</execute>
+					</action>
+				</item>
+				<item label="Xonotic (GLX)">
+					<action name="Execute">
+						<execute>
+						/usr/bin/xonotic-glx
+						</execute>
+					</action>
+				</item>
+				<item label="Xonotic (SDL)">
+					<action name="Execute">
+						<execute>
+						/usr/bin/xonotic-sdl
+						</execute>
+					</action>
+				</item>
+				<item label="Zaz">
+					<action name="Execute">
+						<execute>
+						zaz
+						</execute>
+					</action>
+				</item>
+				<item label="nPush">
+					<action name="Execute">
+						<execute>
+							sakura -e npush
+						</execute>
+					</action>
+				</item>
+				<item label="vitetris">
+					<action name="Execute">
+						<execute>
+							sakura -e tetris -w 80
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Redes" label="Redes">
+				<item label="Blogtk2">
+					<action name="Execute">
+						<execute>
+							blogtk2
+						</execute>
+					</action>
+				</item>
+				<item label="Chromium">
+					<action name="Execute">
+						<execute>
+						chromium
+						</execute>
+					</action>
+				</item>
+				<item label="Claws Mail">
+					<action name="Execute">
+						<execute>
+						claws-mail
+						</execute>
+					</action>
+				</item>
+				<item label="Cliente de mensajería de Internet Pidgin">
+					<action name="Execute">
+						<execute>
+						pidgin
+						</execute>
+					</action>
+				</item>
+				<item label="Dropbox">
+					<action name="Execute">
+						<execute>
+						/opt/dropbox/dropboxd
+						</execute>
+					</action>
+				</item>
+				<item label="Emesene2">
+					<action name="Execute">
+						<execute>
+						emesene2
+						</execute>
+					</action>
+				</item>
+				<item label="Examinador de servidores VNC de Avahi">
+					<action name="Execute">
+						<execute>
+						/usr/bin/bvnc
+						</execute>
+					</action>
+				</item>
+				<item label="Firefox - Safe Mode">
+					<action name="Execute">
+						<execute>
+						firefox -safe-mode
+						</execute>
+					</action>
+				</item>
+				<item label="Firefox">
+					<action name="Execute">
+						<execute>
+						firefox
+						</execute>
+					</action>
+				</item>
+				<item label="Hotot">
+					<action name="Execute">
+						<execute>
+						hotot
+						</execute>
+					</action>
+				</item>
+				<item label="JDownloader">
+					<action name="Execute">
+						<execute>
+						/usr/bin/jdownloader
+						</execute>
+					</action>
+				</item>
+				<item label="LibreOffice Writer/Web">
+					<action name="Execute">
+						<execute>
+						loweb
+						</execute>
+					</action>
+				</item>
+				<item label="Skype">
+					<action name="Execute">
+						<execute>
+						skype
+						</execute>
+					</action>
+				</item>
+				<item label="TeamViewer">
+					<action name="Execute">
+						<execute>
+						/opt/teamviewer/teamviewer/6/bin/teamviewer
+						</execute>
+					</action>
+				</item>
+				<item label="Visor de escritorios remotos">
+					<action name="Execute">
+						<execute>
+						vinagre
+						</execute>
+					</action>
+				</item>
+				<item label="Wicd">
+					<action name="Execute">
+						<execute>
+						/usr/bin/wicd-client
+						</execute>
+					</action>
+				</item>
+				<item label="aMSN">
+					<action name="Execute">
+						<execute>
+						amsn
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Configuración" label="Configuración">
+				<item label="Administrador de archivos">
+					<action name="Execute">
+						<execute>
+						thunar-settings
+						</execute>
+					</action>
+				</item>
+				<item label="Awn Settings">
+					<action name="Execute">
+						<execute>
+						awn-settings
+						</execute>
+					</action>
+				</item>
+				<item label="Dispositivos y soportes extraíbles">
+					<action name="Execute">
+						<execute>
+						thunar-volman-settings
+						</execute>
+					</action>
+				</item>
+				<item label="Monitor Settings">
+					<action name="Execute">
+						<execute>
+						lxrandr
+						</execute>
+					</action>
+				</item>
+				<item label="NVIDIA X Server Settings">
+					<action name="Execute">
+						<execute>
+						/usr/bin/nvidia-settings
+						</execute>
+					</action>
+				</item>
+				<item label="Openbox Configuration Manager">
+					<action name="Execute">
+						<execute>
+						obconf
+						</execute>
+					</action>
+				</item>
+				<item label="Orta Settings Manager">
+					<action name="Execute">
+						<execute>
+						orta-settings-manager
+						</execute>
+					</action>
+				</item>
+				<item label="Panel tint2">
+					<action name="Execute">
+						<execute>
+						tint2conf
+						</execute>
+					</action>
+				</item>
+				<item label="Personalizar apariencia y comportamiento">
+					<action name="Execute">
+						<execute>
+						lxappearance
+						</execute>
+					</action>
+				</item>
+				<item label="Qt Config">
+					<action name="Execute">
+						<execute>
+						/usr/bin/qtconfig
+						</execute>
+					</action>
+				</item>
+				<item label="Salvapantallas">
+					<action name="Execute">
+						<execute>
+						xscreensaver-demo
+						</execute>
+					</action>
+				</item>
+				<item label="Selector de sistemas multimedia">
+					<action name="Execute">
+						<execute>
+						gstreamer-properties
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="Herramientas de Sistema" label="Herramientas de Sistema">
+				<item label="Abrir carpeta con Thunar">
+					<action name="Execute">
+						<execute>
+						Thunar
+						</execute>
+					</action>
+				</item>
+				<item label="Administrador de archivos Thunar">
+					<action name="Execute">
+						<execute>
+						Thunar
+						</execute>
+					</action>
+				</item>
+				<item label="Administrar impresión">
+					<action name="Execute">
+						<execute>
+						/usr/bin/xdg-open http://localhost:631/
+						</execute>
+					</action>
+				</item>
+				<item label="Analizador de uso de disco">
+					<action name="Execute">
+						<execute>
+						baobab
+						</execute>
+					</action>
+				</item>
+				<item label="Cairo Composite Manager">
+					<action name="Execute">
+						<execute>
+						cairo-compmgr
+						</execute>
+					</action>
+				</item>
+				<item label="Editor de configuración">
+					<action name="Execute">
+						<execute>
+						gconf-editor
+						</execute>
+					</action>
+				</item>
+				<item label="GParted">
+					<action name="Execute">
+						<execute>
+						gksu /usr/sbin/gparted
+						</execute>
+					</action>
+				</item>
+				<item label="Htop">
+					<action name="Execute">
+						<execute>
+						xterm -e htop
+						</execute>
+					</action>
+				</item>
+				<item label="Navegador Zeroconf de Avahi">
+					<action name="Execute">
+						<execute>
+						/usr/bin/avahi-discover
+						</execute>
+					</action>
+				</item>
+				<item label="Oracle VM VirtualBox">
+					<action name="Execute">
+						<execute>
+						VirtualBox
+						</execute>
+					</action>
+				</item>
+				<item label="Renombrador masivo">
+					<action name="Execute">
+						<execute>
+						/usr/lib/Thunar/ThunarBulkRename
+						</execute>
+					</action>
+				</item>
+				<item label="Visor de archivos de sucesos">
+					<action name="Execute">
+						<execute>
+						gnome-system-log
+						</execute>
+					</action>
+				</item>
+				<item label="XSensors">
+					<action name="Execute">
+						<execute>
+						/usr/bin/xsensors
+						</execute>
+					</action>
+				</item>
+				<item label="dconf Editor">
+					<action name="Execute">
+						<execute>
+						dconf-editor
+						</execute>
+					</action>
+				</item>
+				<item label="rxvt-unicode">
+					<action name="Execute">
+						<execute>
+						urxvt
+						</execute>
+					</action>
+				</item>
+			</menu>
+			<separator/>
+		</menu>
+		<menu id="Configuración de Openbox" label="Configuración de Openbox">
+			<item label="Reconfigurar Openbox">
+				<action name="Reconfigure"/>
+			</item>
+			<item label="Openbox Configuration Manager">
+				<action name="Execute">
+					<execute>
+						obconf
+					</execute>
+				</action>
+			</item>
+			<item label="Configurar aplicaciones de autoinicio">
+				<action name="Execute">
+					<execute>
+						sakura -e nano /home/diegoxter//.config/openbox/autostart.sh
+					</execute>
+				</action>
+			</item>
+			<item label="Editar fichero rc.xml">
+				<action name="Execute">
+					<execute>
+						sakura -e nano /home/diegoxter//.config/openbox/rc.xml
+					</execute>
+				</action>
+			</item>
+			<separator label="Configuración de obmenugen"/>
+			<item label="Editar configuración de obmenugen">
+				<action name="Execute">
+					<execute>
+						sakura -e nano /home/diegoxter//.config/obmenugen/obmenugen.cfg
+					</execute>
+				</action>
+			</item>
+			<item label="Editar exclusiones de obmenugen">
+				<action name="Execute">
+					<execute>
+						sakura -e nano /home/diegoxter//.config/obmenugen/exclusions
+					</execute>
+				</action>
+			</item>
+			<item label="Editar esquema de menú de obmenugen">
+				<action name="Execute">
+					<execute>
+						sakura -e nano /home/diegoxter//.config/obmenugen/obmenugen.schema
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<item label="Bloquear pantalla">
+			<action name="Execute">
+				<execute>
+					xscreensaver-command -lock
+				</execute>
+			</action>
+		</item>
+		<item label="Salir">
+			<action name="Execute">
+				<execute>
+					sudo oblogout
+				</execute>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>
