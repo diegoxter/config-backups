@@ -1,4 +1,4 @@
-<openbox_config xmlns="http://openbox.org/3.4/rc">
+<?xml version="1.0" ?><openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
     <screen_edge_strength>20</screen_edge_strength>
@@ -800,7 +800,7 @@
       <skip_taskbar>yes</skip_taskbar>
       <position force="yes">
         <x>center</x>
-        <y>0</y>
+        <y>35</y>
       </position>
       <layer>normal</layer>
       <maximized>horizontal</maximized>
@@ -810,7 +810,7 @@
     <application class="URxvt" name="urxvtq" type="normal">
       <position force="yes">
         <x>center</x>
-        <y>20</y>
+        <y>35</y>
       </position>
       <desktop>All</desktop>
       <skip_pager>yes</skip_pager>
