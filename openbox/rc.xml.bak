@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<openbox_config xmlns="http://openbox.org/3.4/rc">
+<?xml version="1.0" ?><openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
     <screen_edge_strength>20</screen_edge_strength>
@@ -40,7 +39,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Onyx-black</name>
+    <name>Fog-mine</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -109,12 +108,12 @@
 
        use obconf if you want to change these without having to log out
        and back in -->
-    <number>3</number>
+    <number>4</number>
     <firstdesk>1</firstdesk>
     <names>
-      <name>Web</name>
-      <name>Tarea</name>
-      <name>Edici&#xF3;n</name>
+      <name>Abstracto</name>
+      <name>Inexistente</name>
+      <name>Realista</name>
       <name>Semidios</name>
     </names>
     <popupTime>875</popupTime>
@@ -170,11 +169,6 @@
     <keybind key="C-A-Left">
       <action name="DesktopLeft">
         <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="A-W-m">
-      <action name="ShowMenu">
-        <menu>root-menu</menu>
       </action>
     </keybind>
     <keybind key="C-A-k">
@@ -871,11 +865,7 @@
       </position>
       <skip_pager>yes</skip_pager>
     </application>
-    <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal">
-      <desktop>2</desktop>
-    </application>
-    <application class="Skype" name="skype" type="normal">
-      <desktop>2</desktop>
-    </application>
-  </applications>
+  <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal"><desktop>2</desktop></application>
+<application class="Skype" name="skype" type="normal"><desktop>2</desktop></application>
+</applications>
 </openbox_config>

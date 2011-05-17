@@ -26,7 +26,7 @@ sleep 5s && urxvtd -f &
 #sleep 4s && kiba-dock &
 #sleep 3s && conky -c .conkyplacid &
 #sleep 3s && tint2 -c .config/tint2/tinthotd &
-sleep 3s && bmpanel2 &
+sleep 3s && bmpanel2 --theme=/usr/share/bmpanel2/themes/Kupo-dark-red/ &
 sleep 2s && cairo-compmgr &
 sleep 4s && thunar --daemon &
 #nitrogen --restore &

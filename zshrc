@@ -26,7 +26,7 @@ zmodload -a zsh/zprof zprof
 MPD_HOST=192.168.1.250
 MPD_PORT=6600
 XDG_CONFIG_HOME='/home/diegoxter/.config/'
-PATH="/usr/local/bin:/usr/local/sbin/:/bin:/sbin:/usr/bin:/usr/sbin:$PATH"
+PATH="/usr/local/bin:/usr/local/sbin/:/bin:/sbin:/usr/bin:/sbin:/usr/sbin:$PATH"
 TZ="America/Caracas"
 HISTFILE=$XDG_CONFIG_HOME/.zhistory
 HISTSIZE=1000
