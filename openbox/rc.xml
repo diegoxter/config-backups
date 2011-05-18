@@ -794,31 +794,8 @@
       <skip_taskbar>no</skip_taskbar>
       <skip_pager>yes</skip_pager>
     </application>
-    <application class="URxvt" name="urxvt" type="normal">
-      <skip_pager>yes</skip_pager>
-      <skip_taskbar>yes</skip_taskbar>
-      <position force="yes">
-        <x>center</x>
-        <y>35</y>
-      </position>
-      <layer>normal</layer>
-      <maximized>horizontal</maximized>
-      <decor>no</decor>
-      <focus>yes</focus>
-    </application>
-    <application class="URxvt" name="urxvtq" type="normal">
-      <position force="yes">
-        <x>center</x>
-        <y>35</y>
-      </position>
-      <desktop>All</desktop>
-      <skip_pager>yes</skip_pager>
-      <skip_taskbar>yes</skip_taskbar>
-      <focus>yes</focus>
-      <decor>no</decor>
-      <maximized>horizontal</maximized>
-      <layer>normal</layer>
-    </application>
+    
+    
     <application class="Firefox" name="firefox" role="browser" type="normal">
       <position force="yes">
         <x>0</x>
@@ -866,5 +843,6 @@
     </application>
   <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal"><desktop>2</desktop></application>
 <application class="Skype" name="skype" type="normal"><desktop>2</desktop></application>
+<application class="URxvt" name="urxvtq" type="normal"><focus>yes</focus><decor>no</decor><position force="yes"><x>0</x><y>10</y></position><maximized>horizontal</maximized><skip_pager>yes</skip_pager><skip_taskbar>yes</skip_taskbar><desktop>All</desktop></application>
 </applications>
 </openbox_config>

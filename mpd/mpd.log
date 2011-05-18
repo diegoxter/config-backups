@@ -21688,3 +21688,9 @@ May 17 21:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission de
 May 17 21:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
 May 17 21:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
 May 17 21:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 22:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 22:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 22:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
