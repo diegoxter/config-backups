@@ -21569,3 +21569,122 @@ May 16 20:54 : state_file: failed to create /var/lib/mpd/mpdstate: Permission de
 May 16 20:59 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
 May 16 21:04 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
 May 16 21:09 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:14 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:19 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:24 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:29 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:34 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:39 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:44 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:49 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:54 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 21:59 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 22:04 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 22:09 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 16 22:14 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 05:15 : state_file: failed to open /var/lib/mpd/mpdstate: No such file or directory
+May 17 05:15 : inotify: inotify_add_watch() has failed: No such file or directory
+May 17 05:17 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 05:20 : state_file: failed to open /var/lib/mpd/mpdstate: No such file or directory
+May 17 05:20 : inotify: inotify_add_watch() has failed: No such file or directory
+May 17 05:25 : state_file: failed to create /var/lib/mpd/mpdstate: Read-only file system
+May 17 05:30 : state_file: failed to create /var/lib/mpd/mpdstate: Read-only file system
+May 17 05:35 : state_file: failed to create /var/lib/mpd/mpdstate: Read-only file system
+May 17 05:40 : state_file: failed to create /var/lib/mpd/mpdstate: Read-only file system
+May 17 05:41 : state_file: failed to create /var/lib/mpd/mpdstate: Read-only file system
+May 17 05:45 : state_file: failed to open /var/lib/mpd/mpdstate: No such file or directory
+May 17 05:45 : inotify: inotify_add_watch() has failed: No such file or directory
+May 17 05:50 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 05:55 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 06:00 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 06:05 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 06:06 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:28 : state_file: failed to open /var/lib/mpd/mpdstate: No such file or directory
+May 17 14:28 : inotify: inotify_add_watch() has failed: No such file or directory
+May 17 14:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 14:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 15:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 16:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 17:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 18:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 19:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:48 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:53 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 20:58 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:03 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:08 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:13 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:18 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:23 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:28 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:33 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:38 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied
+May 17 21:43 : state_file: failed to create /var/lib/mpd/mpdstate: Permission denied

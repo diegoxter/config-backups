@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<openbox_config xmlns="http://openbox.org/3.4/rc">
+<?xml version="1.0" ?><openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
     <screen_edge_strength>20</screen_edge_strength>
@@ -114,8 +113,7 @@
     <names>
       <name>Web</name>
       <name>Tarea</name>
-      <name>Edici&#xF3;n</name>
-      <name>Semidios</name>
+      <name>Varios</name>
     </names>
     <popupTime>875</popupTime>
     <!-- The number of milliseconds to show the popup for when switching
@@ -170,11 +168,6 @@
     <keybind key="C-A-Left">
       <action name="DesktopLeft">
         <wrap>no</wrap>
-      </action>
-    </keybind>
-    <keybind key="A-W-m">
-      <action name="ShowMenu">
-        <menu>root-menu</menu>
       </action>
     </keybind>
     <keybind key="C-A-k">
@@ -871,11 +864,7 @@
       </position>
       <skip_pager>yes</skip_pager>
     </application>
-    <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal">
-      <desktop>2</desktop>
-    </application>
-    <application class="Skype" name="skype" type="normal">
-      <desktop>2</desktop>
-    </application>
-  </applications>
+  <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal"><desktop>2</desktop></application>
+<application class="Skype" name="skype" type="normal"><desktop>2</desktop></application>
+</applications>
 </openbox_config>

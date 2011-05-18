@@ -39,7 +39,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Fog-mine</name>
+    <name>Onyx-black</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -108,13 +108,12 @@
 
        use obconf if you want to change these without having to log out
        and back in -->
-    <number>4</number>
+    <number>3</number>
     <firstdesk>1</firstdesk>
     <names>
-      <name>Abstracto</name>
-      <name>Inexistente</name>
-      <name>Realista</name>
-      <name>Semidios</name>
+      <name>Web</name>
+      <name>Tarea</name>
+      <name>Varios</name>
     </names>
     <popupTime>875</popupTime>
     <!-- The number of milliseconds to show the popup for when switching
