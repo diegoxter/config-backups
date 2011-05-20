@@ -129,5 +129,5 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:*:kill:*:processes' command 'ps --forest -A -o pid,user,cmd'
 zstyle ':completion:*:processes-names' command 'ps axho command' 
 
-export CDPATH="$HOME/Descargas/:$HOME/Dropbox/"
+export CDPATH="$HOME/Descargas/:$HOME/Dropbox/:$HOME/builds/"
 export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
