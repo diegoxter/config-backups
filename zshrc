@@ -34,6 +34,7 @@ SAVEHIST=1000
 HOSTNAME="`hostname`"
 PAGER='less'
 EDITOR='vim'
+BROWSER='chromium'
 #Prompt
 autoload -U colors && colors
 PS1="%{$fg[red]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
