@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/diegoxter/.echinus'
+let g:netrw_dirhist_2='/home/diegoxter/.vim'
+let g:netrw_dirhist_3='/home/diegoxter/.config/wmfs'

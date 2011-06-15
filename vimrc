@@ -35,3 +35,6 @@ set smartcase
 set mouse=a
 set complete+=k 
 set clipboard+=unnamed
+filetype plugin on
+ let g:pydiction_location = '~/.vim/complete-dict'
+ let g:pydiction_menu_height = 20
