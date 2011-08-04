@@ -1,6 +1,6 @@
-modprobe output 
-modprobe svgalib 
-modprobe vgastate
+#modprobe output 
+#modprobe svgalib 
+#modprobe vgastate
 modprobe autofs4
 /etc/rc.d/autofs start
 /etc/rc.d/gpm start
@@ -16,7 +16,6 @@ zork1
 Internet:
 elinks
 mutt
-muttela
 ------------
 Gadgets
 tbclock -dap"

@@ -19,7 +19,7 @@ set incsearch
 set ignorecase         
 set smartcase           
 set textwidth=79
-set expandtab
+" set expandtab
 set tabstop=8
 set softtabstop=4
 set autoindent
@@ -43,6 +43,8 @@ set shiftwidth=4
 autocmd FileType python set nospell
 autocmd FileType python set omnifunc=pythoncomplete
 autocmd FileType sh set nospell
+autocmd FileType cfg set nospell
+autocmd FileType hog set nospell
 
 "Barra
 :set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04l,%04v]\ [%p%%]\ [TYPE=%Y]

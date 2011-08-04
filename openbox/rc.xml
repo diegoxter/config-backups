@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
@@ -22,7 +23,7 @@
        mouse into it, also raise the window -->
   </focus>
   <placement>
-    <policy>Smart</policy>
+    <policy>UnderMouse</policy>
     <!-- 'Smart' or 'UnderMouse' -->
     <center>yes</center>
     <!-- whether to place windows in the center of the free area found or
@@ -39,7 +40,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Onyx-black</name>
+    <name>SublimeWhite</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -54,10 +55,10 @@
     <keepBorder>yes</keepBorder>
     <animateIconify>no</animateIconify>
     <font place="ActiveWindow">
-      <name>Liberation Sans</name>
+      <name>Impact Condensed</name>
       <size>12</size>
       <!-- font size in points -->
-      <weight>Bold</weight>
+      <weight>Normal</weight>
       <!-- 'bold' or 'normal' -->
       <slant>Normal</slant>
       <!-- 'italic' or 'normal' -->
@@ -146,7 +147,7 @@
     <right>0</right>
   </margins>
   <dock>
-    <position>TopLeft</position>
+    <position>Bottom</position>
     <!-- (Top|Bottom)(Left|Right|)|Top|Bottom|Left|Right|Floating -->
     <floatingX>0</floatingX>
     <floatingY>0</floatingY>
@@ -168,6 +169,22 @@
     <keybind key="C-A-Left">
       <action name="DesktopLeft">
         <wrap>no</wrap>
+      </action>
+    </keybind>
+    <keybind key="XF86Tools">
+      <action name="Execute">
+        <command>gogglesmm</command>
+      </action>
+    </keybind>
+    <keybind key="C-XF86Tools">
+      <action name="Execute">
+        <command>gogglesmm</command>
+        <prompt>l</prompt>
+      </action>
+    </keybind>
+    <keybind key="C-A-t">
+      <action name="Execute">
+        <command>lilyterm -e 'tyrs'</command>
       </action>
     </keybind>
     <keybind key="A-u">
@@ -195,7 +212,7 @@
     </keybind>
     <keybind key="W-t">
       <action name="Execute">
-        <command>/home/diegoxter/.config/openbox/scripts/urxvtq</command>
+        <command>sakura</command>
       </action>
     </keybind>
     <keybind key="C-Menu">
@@ -221,11 +238,6 @@
     <keybind key="C-A-Delete">
       <action name="Execute">
         <command>sudo oblogout</command>
-      </action>
-    </keybind>
-    <keybind key="A-F2">
-      <action name="Execute">
-        <command>gmrun</command>
       </action>
     </keybind>
     <keybind key="C-A-Right">
@@ -320,16 +332,21 @@
     </keybind>
     <keybind key="W-Up">
       <action name="Execute">
-        <command>mpc -h 127.0.0.1 -p 6600 pause</command>
-      </action>
-    </keybind>
-    <keybind key="A-W-Up">
-      <action name="Execute">
-        <command>mpc -h 127.0.0.1 -p 6600 play</command>
+        <command>mpc -h 127.0.0.1 -p 6600 toggle</command>
       </action>
     </keybind>
     <keybind key="A-S-Tab">
       <action name="PreviousWindow"/>
+    </keybind>
+    <keybind key="W-KP_Add">
+      <action name="Execute">
+        <command>ncmpcpp volume +5</command>
+      </action>
+    </keybind>
+    <keybind key="W-KP_Subtract">
+      <action name="Execute">
+        <command>ncmpcpp volume -5</command>
+      </action>
     </keybind>
     <keybind key="C-A-Tab">
       <action name="NextWindow">
@@ -804,15 +821,6 @@
       <skip_taskbar>no</skip_taskbar>
       <skip_pager>yes</skip_pager>
     </application>
-    
-    
-    <application class="Firefox" name="firefox" role="browser" type="normal">
-      <position force="yes">
-        <x>0</x>
-        <y>30</y>
-      </position>
-      <decor>no</decor>
-    </application>
     <application class="Amsn" name="amsn" type="normal">
       <desktop>2</desktop>
       <decor>no</decor>
@@ -851,8 +859,26 @@
       </position>
       <skip_pager>yes</skip_pager>
     </application>
-  <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal"><desktop>2</desktop></application>
-<application class="Skype" name="skype" type="normal"><desktop>2</desktop></application>
-<application class="URxvt" name="urxvtq" type="normal"><focus>yes</focus><decor>no</decor><position force="yes"><x>0</x><y>10</y></position><maximized>horizontal</maximized><skip_pager>yes</skip_pager><skip_taskbar>yes</skip_taskbar><desktop>All</desktop></application>
-</applications>
+    <application class="Pidgin" name="Pidgin" role="buddy_list" type="normal">
+      <desktop>2</desktop>
+    </application>
+    <application class="URxvt" name="urxvtq" type="normal">
+      <focus>yes</focus>
+      <decor>no</decor>
+      <position force="yes">
+        <x>0</x>
+        <y>10</y>
+      </position>
+      <maximized>horizontal</maximized>
+      <skip_pager>yes</skip_pager>
+      <skip_taskbar>yes</skip_taskbar>
+      <desktop>All</desktop>
+    </application>
+    <application class="Gimp-2.6" name="gimp-2.6" role="gimp-image-window" type="normal">
+      <desktop>3</desktop>
+    </application>
+    <application class="Firefox" name="firefox" role="browser" type="normal">
+      <decor>no</decor>
+    </application>
+  </applications>
 </openbox_config>

@@ -22,7 +22,14 @@
 				</execute>
 			</action>
 		</item>
-		<item label="Navegador Web">
+		<item label="Navegador Web Chromium">
+			<action name="Execute">
+				<execute>
+					chromium
+				</execute>
+			</action>
+		</item>
+		<item label="Navegador Web Firefox">
 			<action name="Execute">
 				<execute>
 					firefox
@@ -37,7 +44,6 @@
 			</action>
 		</item>
 		<separator/>
-		<menu execute="python2 .config/openbox/scripts/gmail.py" id="pipe-712530" label="Google"/>
 		<menu execute="sh mpcob.sh" id="pipe-804612" label="MPD"/>
 		<menu execute="/usr/bin/obdevicemenu" id="pipe-253338" label="USB"/>
 		<menu execute="perl .config/openbox/scripts/tunar.pl" id="pipe-54172" label="Marcadores"/>
