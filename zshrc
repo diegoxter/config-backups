@@ -34,10 +34,16 @@ SAVEHIST=1000
 HOSTNAME="`hostname`"
 PAGER='less'
 EDITOR='vim'
-BROWSER='chromium'
+BROWSER='opera'
 #Prompt
 autoload -U colors && colors
-PS1="%{$fg[red]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
+if [[ "$(id -u)" != "0" ]]
+then 
+    PS1="%{$fg[red]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
+elif [[ "$(id -u)" == "0" ]]
+then
+    PS1="%{$fg[yellow]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
+fi
 
 
 LC_ALL='es_ES.UTF-8'
@@ -49,7 +55,10 @@ unsetopt ALL_EXPORT
 # # aliases
 # # --------------------------------------------------------------------
 
-#alias clyde='sudo clyde'
+alias mphoto="mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0 -fps 15 -vf screenshot"
+alias letz="su ibkm -c 'tmux attach-session'"
+alias wiki='opera /usr/share/doc/arch-wiki/html/index.html'
+alias ffta='mednafen ~/Dropbox/Public/vba/s-fftact.gba'
 alias ungz='tar -xvf'
 alias unbz='tar -xvj'
 alias mpc='mpc -h 127.0.0.1 -p 6600'

@@ -18,7 +18,7 @@ set hlsearch
 set incsearch          
 set ignorecase         
 set smartcase           
-set textwidth=79
+set textwidth=80
 " set expandtab
 set tabstop=8
 set softtabstop=4
@@ -42,7 +42,7 @@ set shiftwidth=4
 "FileType
 autocmd FileType python set nospell
 autocmd FileType python set omnifunc=pythoncomplete
-autocmd FileType sh set nospell
+autocmd FileType pythonautocmd FileType sh set nospell
 autocmd FileType cfg set nospell
 autocmd FileType hog set nospell
 

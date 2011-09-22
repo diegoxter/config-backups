@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
@@ -40,7 +39,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>SublimeWhite</name>
+    <name>Shaven One</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -90,14 +89,14 @@
       <slant>normal</slant>
       <!-- 'italic' or 'normal' -->
     </font>
-    <font place="OnScreenDisplay">
-      <name>sans</name>
-      <size>9</size>
-      <!-- font size in points -->
-      <weight>bold</weight>
-      <!-- 'bold' or 'normal' -->
-      <slant>normal</slant>
-      <!-- 'italic' or 'normal' -->
+    <font place="ActiveOnScreenDisplay">
+      <name/>
+    </font>
+    <font place="InactiveOnScreenDisplay">
+      <name>Sans</name>
+      <size>8</size>
+      <weight/>
+      <slant/>
     </font>
   </theme>
   <desktops>
@@ -879,6 +878,15 @@
     </application>
     <application class="Firefox" name="firefox" role="browser" type="normal">
       <decor>no</decor>
+    </application>
+    <application class="gogglesmm" name="gogglesmm" type="normal">
+      <desktop>All</desktop>
+      <skip_pager>yes</skip_pager>
+      <decor>yes</decor>
+      <maximized>no</maximized>
+      <position force="no">
+        <x>center</x>
+      </position>
     </application>
   </applications>
 </openbox_config>

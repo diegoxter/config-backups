@@ -22,10 +22,10 @@
 				</execute>
 			</action>
 		</item>
-		<item label="Navegador Web Chromium">
+		<item label="Navegador Web Opera">
 			<action name="Execute">
 				<execute>
-					chromium
+					opera
 				</execute>
 			</action>
 		</item>
@@ -44,7 +44,7 @@
 			</action>
 		</item>
 		<separator/>
-		<menu execute="sh mpcob.sh" id="pipe-804612" label="MPD"/>
+		<menu execute="sh backups/openbox/scripts/mpcob.sh" id="pipe-804612" label="MPD"/>
 		<menu execute="/usr/bin/obdevicemenu" id="pipe-253338" label="USB"/>
 		<menu execute="perl .config/openbox/scripts/tunar.pl" id="pipe-54172" label="Marcadores"/>
 		<separator label="Aplicaciones"/>
