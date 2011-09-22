@@ -5,7 +5,7 @@
 ##### connection settings #####
 mpd_host = "127.0.0.1"
 mpd_port = "6600"
-mpd_music_dir = "/home/diegoxter/Música/"
+mpd_music_dir = "/home/diegoxter/Descargas/Bandas/"
 
 ##### delays #####
 playlist_disable_highlight_delay = "5"
@@ -355,7 +355,7 @@ main_window_color = "cyan"
 #
 #active_column_color = "red"
 #
-#visualizer_color = "yellow"
+visualizer_color = "yellow"
 #
 #window_border_color = "green"
 #
