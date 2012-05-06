@@ -23,7 +23,7 @@ zmodload -a zsh/zpty zpty
 zmodload -a zsh/zprof zprof
 #zmodload -ap zsh/mapfile mapfile 
 
-MPD_HOST=192.168.1.250
+MPD_HOST=127.0.0.1
 MPD_PORT=6600
 XDG_CONFIG_HOME='/home/diegoxter/.config/'
 PATH="/usr/local/bin:/usr/local/sbin/:/bin:/sbin:/usr/bin:/sbin:/usr/sbin:$PATH"
@@ -39,10 +39,11 @@ BROWSER='opera'
 autoload -U colors && colors
 if [[ "$(id -u)" != "0" ]]
 then 
-    PS1="%{$fg[red]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
+    PS1="%{$fg[red]%}[%n]%{$reset_color%} en %{$fg[green]%}[%~]%{$reset_color%}: "
 elif [[ "$(id -u)" == "0" ]]
 then
-    PS1="%{$fg[yellow]%}[%n]%{$reset_color%} @ %{$fg[blue]%}[%m] %{$reset_color%}en %{$fg[green]%}[%~] %{$reset_color%}"
+    PS1="%{$fg[yellow]%}[%n]%{$reset_color%} en %{$fg[green]%}[%~]%{$reset_color%}: "
+
 fi
 
 
@@ -55,10 +56,8 @@ unsetopt ALL_EXPORT
 # # aliases
 # # --------------------------------------------------------------------
 
+alias ntpclock="{ ntpd -qg; hwclock -w; } &"
 alias mphoto="mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0 -fps 15 -vf screenshot"
-alias letz="su ibkm -c 'tmux attach-session'"
-alias wiki='opera /usr/share/doc/arch-wiki/html/index.html'
-alias ffta='mednafen ~/Dropbox/Public/vba/s-fftact.gba'
 alias ungz='tar -xvf'
 alias unbz='tar -xvj'
 alias mpc='mpc -h 127.0.0.1 -p 6600'
@@ -68,18 +67,7 @@ alias pacins='packer -S'
 alias pacupd='packer -Syu '
 alias nc='ncmpcpp'
 alias hp="hp-toolbox"
-alias ll='ls -al'
 alias ls='ls --color=auto '
-
-#Clyde Settings
-clyde() {
-   case $1 in
-       -S | -S[^sih]* | -R* | -U*)
-           /usr/bin/sudo /usr/bin/clyde "$@" ;;
-       *)
-           /usr/bin/clyde "$@" ;;
-   esac
-}
 
 #chpwd
 
@@ -139,5 +127,9 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:*:kill:*:processes' command 'ps --forest -A -o pid,user,cmd'
 zstyle ':completion:*:processes-names' command 'ps axho command' 
 
+export GOROOT=/usr/lib/go
+export GOOS=linux
+export GOBIN=/usr/bin
 export CDPATH="$HOME/Descargas/:$HOME/Dropbox/:$HOME/builds/"
 export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
+#export LD_PRELOAD=/opt/qt/lib/libqt-mt.so
