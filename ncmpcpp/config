@@ -339,7 +339,7 @@ colors_enabled = "yes"
 #
 #state_flags_color = "default"
 #
-main_window_color = "cyan"
+main_window_color = "white"
 #
 #color1 = "white"
 #

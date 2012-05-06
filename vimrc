@@ -3,7 +3,7 @@ set nocompatible
 :set spelllang=es,en
 :set spellsuggest=5
 :set spellfile=~/.vim/dict.add
-colorscheme biogoo
+colorscheme default
 syntax on
 set noerrorbells
 set visualbell t_vb=
@@ -33,7 +33,7 @@ set shiftwidth=4
 :set cursorline
 :highlight CursorLine term=underline cterm=underline guibg=Grey90    
 :set cursorcolumn
-:highlight CursorColumn term=reverse ctermbg=7 guibg=Grey90
+:highlight CursorColumn term=reverse cterm=underline guibg=Grey90
 
 "Lineas 
 ":set number
@@ -41,14 +41,40 @@ set shiftwidth=4
 
 "FileType
 autocmd FileType python set nospell
+autocmd FileType ruby set nospell
 autocmd FileType python set omnifunc=pythoncomplete
-autocmd FileType pythonautocmd FileType sh set nospell
+autocmd FileType sh set nospell
 autocmd FileType cfg set nospell
+autocmd FileType conf set nospell
 autocmd FileType hog set nospell
+
+map  <silent> <F7>    <Esc>:cp<CR>
+map  <silent> <F8>    <Esc>:cn<CR>
 
 "Barra
 :set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04l,%04v]\ [%p%%]\ [TYPE=%Y]
 :set laststatus=2
+
+"Vala stuff
+autocmd BufRead *.vala set efm=%f:%l.%c-%[%^:]%#:\ %t%[%^:]%#:\ %m
+autocmd BufRead *.vapi set efm=%f:%l.%c-%[%^:]%#:\ %t%[%^:]%#:\ %m
+au BufRead,BufNewFile *.vala            setfiletype vala
+au BufRead,BufNewFile *.vapi            setfiletype vala
+" Disable valadoc syntax highlight
+"let vala_ignore_valadoc = 1
+
+" Enable comment strings
+let vala_comment_strings = 1
+
+" Highlight space errors
+let vala_space_errors = 1
+" Disable trailing space errors
+"let vala_no_trail_space_error = 1
+" Disable space-tab-space errors
+let vala_no_tab_space_error = 1
+
+" Minimum lines used for comment syncing (default 50)
+"let vala_minlines = 120
 
 set mouse=a
 set complete+=k 
