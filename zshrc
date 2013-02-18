@@ -23,18 +23,15 @@ zmodload -a zsh/zpty zpty
 zmodload -a zsh/zprof zprof
 #zmodload -ap zsh/mapfile mapfile 
 
-MPD_HOST=127.0.0.1
-MPD_PORT=6600
 XDG_CONFIG_HOME='/home/diegoxter/.config/'
 PATH="/usr/local/bin:/usr/local/sbin/:/bin:/sbin:/usr/bin:/sbin:/usr/sbin:$PATH"
 TZ="America/Caracas"
 HISTFILE=$XDG_CONFIG_HOME/.zhistory
 HISTSIZE=1000
 SAVEHIST=1000
-HOSTNAME="`hostname`"
 PAGER='less'
 EDITOR='vim'
-BROWSER='opera'
+
 #Prompt
 autoload -U colors && colors
 if [[ "$(id -u)" != "0" ]]
@@ -56,17 +53,11 @@ unsetopt ALL_EXPORT
 # # aliases
 # # --------------------------------------------------------------------
 
-alias ntpclock="{ ntpd -qg; hwclock -w; } &"
 alias mphoto="mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0 -fps 15 -vf screenshot"
 alias ungz='tar -xvf'
 alias unbz='tar -xvj'
 alias mpc='mpc -h 127.0.0.1 -p 6600'
-alias pacrem='sudo pacman -Rns'
-alias pacsea='packer -Ss'
-alias pacins='packer -S'
-alias pacupd='packer -Syu '
 alias nc='ncmpcpp'
-alias hp="hp-toolbox"
 alias ls='ls --color=auto '
 
 #chpwd
@@ -130,6 +121,6 @@ zstyle ':completion:*:processes-names' command 'ps axho command'
 export GOROOT=/usr/lib/go
 export GOOS=linux
 export GOBIN=/usr/bin
-export CDPATH="$HOME/Descargas/:$HOME/Dropbox/:$HOME/builds/"
-export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
+export CDPATH="$HOME/Descargas/:$HOME/builds/"
+#export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
 #export LD_PRELOAD=/opt/qt/lib/libqt-mt.so
