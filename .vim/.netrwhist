@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/diegoxter/.echinus'
-let g:netrw_dirhist_2='/home/diegoxter/.vim'
-let g:netrw_dirhist_3='/home/diegoxter/.config/wmfs'
-let g:netrw_dirhist_4='/home/diegoxter/Documentos/Python/samurai/samuraix/samuraix/license'
-let g:netrw_dirhist_5='/home/diegoxter/builds/utils/neembuu-uploader/pkg'
