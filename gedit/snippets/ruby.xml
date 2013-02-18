@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<snippets language="ruby">
+  <snippet override="ruby-begin">
+    <text><![CDATA[begin
+	$1
+rescue ${2:Exception} => ${3:e}
+	$0
+end]]></text>
+    <drop-targets>text</drop-targets>
+    <tag>begin</tag>
+    <description>begin .. rescue .. end</description>
+  </snippet>
+</snippets>
