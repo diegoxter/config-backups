@@ -3,7 +3,7 @@
 #setopt NOTIFY
 setopt INC_APPEND_HISTORY SHARE_HISTORY
 setopt APPEND_HISTORY
-unsetopt BG_NICE		# do NOT nice bg commands
+#unsetopt BG_NICE		# do NOT nice bg commands
 setopt CORRECT			# command CORRECTION
 setopt EXTENDED_HISTORY		# puts timestamps in the history
 setopt MENUCOMPLETE
@@ -14,7 +14,7 @@ setopt   notify globdots correct pushdtohome cdablevars autolist
 setopt   correctall autocd recexact longlistjobs
 setopt   autoresume histignoredups pushdsilent 
 setopt   autopushd pushdminus extendedglob rcquotes mailwarning
-setopt auto_cd
+setopt   auto_cd
 unsetopt bgnice autoparamslash
 
 # Autoload zsh modules when they are referenced
@@ -48,7 +48,8 @@ LC_ALL='es_ES.UTF-8'
 LANG='es_ES.UTF-8'
 LC_CTYPE=C
 
-unsetopt ALL_EXPORT
+#unsetopt ALL_EXPORT
+
 # # --------------------------------------------------------------------
 # # aliases
 # # --------------------------------------------------------------------

@@ -83,3 +83,9 @@ set smartindent
 set backspace=2
 set nobackup
 set noswapfile
+
+"GHC para Haskell
+au BufEnter *.hs compiler ghc
+let g:haddock_browser = "/usr/bin/chromium-browser"
+let g:ghc = "/usr/bin/ghc"
+let g:haddock_docdir = "/usr/share/doc/ghc-doc/html/"
