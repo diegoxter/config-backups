@@ -119,6 +119,9 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:*:kill:*:processes' command 'ps --forest -A -o pid,user,cmd'
 zstyle ':completion:*:processes-names' command 'ps axho command' 
 
+## rehash ante nuevo software
+zstyle ":completion:*:commands" rehash 1
+
 export GOROOT=/usr/lib/go
 export GOOS=linux
 export GOBIN=/usr/bin

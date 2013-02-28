@@ -216,7 +216,7 @@ song_list_format = "{%a - }{%t}|{$2%f$9}$R{$3(%l)$9}"
 #
 ## colors are not supported for below variable
 #
-#song_window_title_format = "{%a - }{%t}|{%f}"
+song_window_title_format = "ncmpcpp {%a - }{%t}|{%f}"
 #
 ##### columns settings #####
 ##
