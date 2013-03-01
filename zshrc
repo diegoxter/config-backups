@@ -125,6 +125,6 @@ zstyle ":completion:*:commands" rehash 1
 export GOROOT=/usr/lib/go
 export GOOS=linux
 export GOBIN=/usr/bin
-export CDPATH="$HOME/Descargas/:$HOME/builds/"
+export CDPATH="$HOME/Descargas/:$HOME/Público/"
 #export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
 #export LD_PRELOAD=/opt/qt/lib/libqt-mt.so
