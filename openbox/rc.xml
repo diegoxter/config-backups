@@ -792,7 +792,7 @@
         <x>-1</x>
         <y>-30</y>
       </position>
-      <desktop>3</desktop>
+      <desktop>2</desktop>
       <skip_taskbar>yes</skip_taskbar>
     </application>
     <application title="*htop*">
@@ -801,7 +801,7 @@
         <x>-1</x>
         <y>0</y>
       </position>
-      <desktop>3</desktop>
+      <desktop>2</desktop>
       <skip_taskbar>yes</skip_taskbar>
     </application>
   <!--Chévere-->
@@ -812,18 +812,18 @@
         <y>-30</y>
       </position>
       <skip_taskbar>yes</skip_taskbar>
-      <desktop>4</desktop>
+      <desktop>3</desktop>
     </application>
     <application class="banshee">
       <position force="yes">
         <x>-1</x>
         <y>0</y>
       </position>
-      <desktop>4</desktop>
+      <desktop>3</desktop>
     </application>
   <!--Office-->
     <application class="libreoffice*">
-      <desktop>2</desktop>
+      <desktop>4</desktop>
     </application>
     </applications>
 </openbox_config>
