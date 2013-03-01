@@ -124,9 +124,9 @@
     <firstdesk>1</firstdesk>
     <names>
       <name>Web</name>
-      <name>Oficio</name>
       <name>Sistema</name>
       <name>Chévere</name>
+      <name>Office</name>
     </names>
     <popupTime>875</popupTime>
     <!-- The number of milliseconds to show the popup for when switching
@@ -781,6 +781,11 @@
 
   # end of the example
 -->
+<!--Web-->
+    <application class="Chromium-browser">
+      <desktop>1</desktop>
+    </application>
+<!--Sistema-->
     <application title="*(Bash)*">
       <decor>no</decor>
       <position force="yes">
@@ -799,6 +804,7 @@
       <desktop>3</desktop>
       <skip_taskbar>yes</skip_taskbar>
     </application>
+  <!--Chévere-->
     <application title="ncmpcpp*">
       <decor>no</decor>
       <position force="yes">
@@ -808,12 +814,6 @@
       <skip_taskbar>yes</skip_taskbar>
       <desktop>4</desktop>
     </application>
-    <application class="Chromium-browser">
-      <desktop>1</desktop>
-    </application>
-    <application class="libreoffice*">
-      <desktop>2</desktop>
-    </application>
     <application class="banshee">
       <position force="yes">
         <x>-1</x>
@@ -821,5 +821,9 @@
       </position>
       <desktop>4</desktop>
     </application>
-  </applications>
+  <!--Office-->
+    <application class="libreoffice*">
+      <desktop>2</desktop>
+    </application>
+    </applications>
 </openbox_config>
