@@ -27,9 +27,19 @@
     <action name="Restart" />
   </item>
   <separator />
-  <menu id="Apagar" label="Apagar" />
+  <menu id="Apagar" label="Apagar" >
+  <item label="Suspender">
+    <action name="Execute"><execute>gksudo pm-suspend</execute></action>
+    </item>
+  <item label="Hibernar">
+    <action name="Execute"><execute>gksudo pm-hibernate</execute></action>
+  </item>
+  <item label="Apagar">
+    <action name="Execute"><execute>gksudo shutdown -h now</execute></action>
+  </item>
+  </menu>
   <separator />
-  <item label="Exit">
+  <item label="Salir">
     <action name="Exit" />
   </item>
 </menu>
