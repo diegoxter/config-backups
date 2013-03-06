@@ -44,9 +44,8 @@ then
 fi
 
 
-LC_ALL='es_ES.UTF-8'
-LANG='es_ES.UTF-8'
-LC_CTYPE=C
+LC_ALL='es_VE.UTF-8'
+LANG='es_VE.UTF-8'
 
 #unsetopt ALL_EXPORT
 
