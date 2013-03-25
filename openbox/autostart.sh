@@ -1,3 +1,4 @@
+setxkbmap es
 hsetroot -fill /home/diegoxter/Imágenes/walls/psychod/1359584045721.jpg
 tint2 -c /home/diegoxter/.config/tint2/popout.tint2rc &
 sleep 1s && urxvt +sb -tr -fg blue -g 169x19+0+0 -si -e \
