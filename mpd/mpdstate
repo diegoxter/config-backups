@@ -1,8 +1,8 @@
-sw_volume: 80
+sw_volume: 60
 audio_device_state:1:My Pulse Output
-state: play
+state: pause
 current: 0
-time: 115
+time: 499
 random: 0
 repeat: 0
 single: 0
@@ -11,5 +11,17 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: nan
 playlist_begin
-0:Radiohead/(1995) The Bends/02 Radiohead - The Bends.mp3
+0:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/01 - en la ciudad de la furia - Soda Stereo.mp3
+1:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/02 - un misil en mi placard - Soda Stereo.mp3
+2:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/03 - pasos - Soda Stereo.mp3
+3:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/04 - entre canibales - Soda Stereo.mp3
+4:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/05 - te para tres - Soda Stereo.mp3
+5:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/06 - angel electrico - Soda Stereo.mp3
+6:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/07 - ella uso mi cabeza como un revolver - Soda Stereo.mp3
+7:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/08 - sonoman - Soda Stereo.mp3
+8:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/09 - planeador - Soda Stereo.mp3
+9:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/10 - coral - Soda Stereo.mp3
+10:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/11 - superstar - Soda Stereo.mp3
+11:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/12 - genesis - Soda Stereo.mp3
+12:Soda Stereo - Discografia/13 - Comfort y musica para volar - MTV Unplugged (1996)/13 - zoom+temblor - Soda Stereo.mp3
 playlist_end
