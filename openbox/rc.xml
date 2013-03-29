@@ -798,11 +798,11 @@
       <desktop>1</desktop>
     </application>
 <!--Sistema-->
-    <application title="*(Bash)*">
+    <application title="urxvt">
       <decor>no</decor>
       <position force="yes">
         <x>-1</x>
-        <y>-30</y>
+        <y>-29</y>
       </position>
       <desktop>2</desktop>
       <skip_taskbar>yes</skip_taskbar>

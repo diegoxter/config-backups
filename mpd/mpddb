@@ -26,14 +26,14 @@ begin: .mpd
 directory: playlists
 mtime: 1362321673
 begin: .mpd/playlists
-playlist_begin: Argentos.m3u
-mtime: 1362321673
+playlist_begin: RandAlt.m3u
+mtime: 1361163731
 playlist_end
 playlist_begin: Favoritos.m3u
 mtime: 1361319896
 playlist_end
-playlist_begin: RandAlt.m3u
-mtime: 1361163731
+playlist_begin: Argentos.m3u
+mtime: 1362321673
 playlist_end
 end: .mpd/playlists
 end: .mpd
@@ -5967,6 +5967,1357 @@ mtime: 1355512013
 song_end
 end: Juan Luis Guerra y 4.40/Fogaraté
 end: Juan Luis Guerra y 4.40
+directory: KoRn
+mtime: 0
+begin: KoRn
+directory: Follow the Leader
+mtime: 1364356455
+begin: KoRn/Follow the Leader
+song_begin: 13 It's On!.mp3
+Time: 269
+Artist: KoRn
+AlbumArtist: Korn
+Title: It's On!
+Album: Follow the Leader
+Track: 13
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340292
+song_end
+song_begin: 14 Freak on a Leash.mp3
+Time: 255
+Artist: KoRn
+AlbumArtist: Korn
+Title: Freak on a Leash
+Album: Follow the Leader
+Track: 14
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364334016
+song_end
+song_begin: 15 Got the Life.mp3
+Time: 225
+Artist: KoRn
+AlbumArtist: Korn
+Title: Got the Life
+Album: Follow the Leader
+Track: 15
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340632
+song_end
+song_begin: 16 Dead Bodies Everywhere.mp3
+Time: 285
+Artist: KoRn
+AlbumArtist: Korn
+Title: Dead Bodies Everywhere
+Album: Follow the Leader
+Track: 16
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340632
+song_end
+song_begin: 17 Children of the Korn.mp3
+Time: 232
+Artist: KoRn
+AlbumArtist: Korn
+Title: Children of the Korn
+Album: Follow the Leader
+Track: 17
+Date: 1998
+Genre: Metal
+Composer: Korn/O'Shea Jackson
+mtime: 1364340552
+song_end
+song_begin: 18 B.B.K..mp3
+Time: 236
+Artist: KoRn
+AlbumArtist: Korn
+Title: B.B.K.
+Album: Follow the Leader
+Track: 18
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340588
+song_end
+song_begin: 19 Pretty.mp3
+Time: 252
+Artist: KoRn
+AlbumArtist: Korn
+Title: Pretty
+Album: Follow the Leader
+Track: 19
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340204
+song_end
+song_begin: 20 All in the Family.mp3
+Time: 289
+Artist: KoRn
+AlbumArtist: Korn
+Title: All in the Family
+Album: Follow the Leader
+Track: 20
+Date: 1998
+Genre: Metal
+Composer: Fred Durst/Korn
+mtime: 1364340222
+song_end
+song_begin: 21 Reclaim My Place.mp3
+Time: 273
+Artist: KoRn
+AlbumArtist: Korn
+Title: Reclaim My Place
+Album: Follow the Leader
+Track: 21
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340606
+song_end
+song_begin: 22 Justin.mp3
+Time: 257
+Artist: KoRn
+AlbumArtist: Korn
+Title: Justin
+Album: Follow the Leader
+Track: 22
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340550
+song_end
+song_begin: 23 Seed.mp3
+Time: 355
+Artist: KoRn
+AlbumArtist: Korn
+Title: Seed
+Album: Follow the Leader
+Track: 23
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340356
+song_end
+song_begin: 24 Cameltosis.mp3
+Time: 278
+Artist: KoRn
+AlbumArtist: Korn
+Title: Cameltosis
+Album: Follow the Leader
+Track: 24
+Date: 1998
+Genre: Metal
+Composer: Korn/Tré Hardson
+mtime: 1364340658
+song_end
+song_begin: 25 My Gift to You.mp3
+Time: 940
+Artist: KoRn
+AlbumArtist: Korn
+Title: My Gift to You
+Album: Follow the Leader
+Track: 25
+Date: 1998
+Genre: Metal
+Composer: Korn
+mtime: 1364340608
+song_end
+end: KoRn/Follow the Leader
+directory: Greatest Hits_ Volume 1
+mtime: 1364356459
+begin: KoRn/Greatest Hits_ Volume 1
+song_begin: 01 Word Up.mp3
+Time: 174
+Artist: KoRn
+Title: Word Up
+Album: Greatest Hits: Volume 1
+Track: 1
+Date: 2004
+Genre: Metal
+mtime: 1364340098
+song_end
+song_begin: 02 Another Brick in the wall.mp3
+Time: 430
+Artist: KoRn
+Title: Another Brick in the wall
+Album: Greatest Hits: Volume 1
+Track: 2
+Genre: Metal
+mtime: 1364338460
+song_end
+end: KoRn/Greatest Hits_ Volume 1
+directory: Issues
+mtime: 1364356470
+begin: KoRn/Issues
+song_begin: 01 Dead.mp3
+Time: 73
+Artist: KoRn
+AlbumArtist: Korn
+Title: Dead
+Album: Issues
+Track: 1
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340332
+song_end
+song_begin: 02 Falling Away from Me.mp3
+Time: 271
+Artist: KoRn
+AlbumArtist: Korn
+Title: Falling Away from Me
+Album: Issues
+Track: 2
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342348
+song_end
+song_begin: 03 Trash.mp3
+Time: 207
+Artist: KoRn
+AlbumArtist: Korn
+Title: Trash
+Album: Issues
+Track: 3
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342348
+song_end
+song_begin: 04 4 U.mp3
+Time: 102
+Artist: KoRn
+AlbumArtist: Korn
+Title: 4 U
+Album: Issues
+Track: 4
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340950
+song_end
+song_begin: 05 Beg for Me.mp3
+Time: 234
+Artist: KoRn
+AlbumArtist: Korn
+Title: Beg for Me
+Album: Issues
+Track: 5
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342130
+song_end
+song_begin: 06 Make Me Bad.mp3
+Time: 236
+Artist: KoRn
+AlbumArtist: Korn
+Title: Make Me Bad
+Album: Issues
+Track: 6
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342130
+song_end
+song_begin: 07 It's Gonna Go Away.mp3
+Time: 91
+Artist: KoRn
+AlbumArtist: Korn
+Title: It's Gonna Go Away
+Album: Issues
+Track: 7
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340552
+song_end
+song_begin: 08 Wake Up.mp3
+Time: 248
+Artist: KoRn
+AlbumArtist: Korn
+Title: Wake Up
+Album: Issues
+Track: 8
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340284
+song_end
+song_begin: 09 Am I Going Crazy.mp3
+Time: 59
+Artist: KoRn
+AlbumArtist: Korn
+Title: Am I Going Crazy
+Album: Issues
+Track: 9
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364339902
+song_end
+song_begin: 10 Hey Daddy.mp3
+Time: 225
+Artist: KoRn
+AlbumArtist: Korn
+Title: Hey Daddy
+Album: Issues
+Track: 10
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364341040
+song_end
+song_begin: 11 Somebody Someone.mp3
+Time: 228
+Artist: KoRn
+AlbumArtist: Korn
+Title: Somebody Someone
+Album: Issues
+Track: 11
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364341040
+song_end
+song_begin: 12 No Way.mp3
+Time: 217
+Artist: KoRn
+AlbumArtist: Korn
+Title: No Way
+Album: Issues
+Track: 12
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340632
+song_end
+song_begin: 13 Let's Get This Party Started.mp3
+Time: 221
+Artist: KoRn
+AlbumArtist: Korn
+Title: Let's Get This Party Started
+Album: Issues
+Track: 13
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342004
+song_end
+song_begin: 14 Wish You Could Be Me.mp3
+Time: 67
+Artist: KoRn
+AlbumArtist: Korn
+Title: Wish You Could Be Me
+Album: Issues
+Track: 14
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364342004
+song_end
+song_begin: 15 Counting.mp3
+Time: 218
+Artist: KoRn
+AlbumArtist: Korn
+Title: Counting
+Album: Issues
+Track: 15
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340024
+song_end
+song_begin: 16 Dirty.mp3
+Time: 470
+Artist: KoRn
+AlbumArtist: Korn
+Title: Dirty
+Album: Issues
+Track: 16
+Date: 1999
+Genre: Metal
+Composer: Korn
+mtime: 1364340632
+song_end
+end: KoRn/Issues
+directory: KoRn
+mtime: 1364356483
+begin: KoRn/KoRn
+song_begin: 01 Blind.mp3
+Time: 260
+Artist: KoRn
+AlbumArtist: Korn
+Title: Blind
+Album: KoRn
+Track: 1
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364341796
+song_end
+song_begin: 02 Ball Tongue.mp3
+Time: 269
+Artist: KoRn
+AlbumArtist: Korn
+Title: Ball Tongue
+Album: KoRn
+Track: 2
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364341796
+song_end
+song_begin: 03 Need To.mp3
+Time: 242
+Artist: KoRn
+AlbumArtist: Korn
+Title: Need To
+Album: KoRn
+Track: 3
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340674
+song_end
+song_begin: 04 Clown.mp3
+Time: 277
+Artist: KoRn
+AlbumArtist: Korn
+Title: Clown
+Album: KoRn
+Track: 4
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340800
+song_end
+song_begin: 05 Divine.mp3
+Time: 171
+Artist: KoRn
+AlbumArtist: Korn
+Title: Divine
+Album: KoRn
+Track: 5
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364341706
+song_end
+song_begin: 06 Faget.mp3
+Time: 350
+Artist: KoRn
+AlbumArtist: Korn
+Title: Faget
+Album: KoRn
+Track: 6
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364341706
+song_end
+song_begin: 07 Shoots and Ladders.mp3
+Time: 323
+Artist: KoRn
+AlbumArtist: Korn
+Title: Shoots and Ladders
+Album: KoRn
+Track: 7
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364341002
+song_end
+song_begin: 08 Predictable.mp3
+Time: 273
+Artist: KoRn
+AlbumArtist: Korn
+Title: Predictable
+Album: KoRn
+Track: 8
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340800
+song_end
+song_begin: 09 Fake.mp3
+Time: 291
+Artist: KoRn
+AlbumArtist: Korn
+Title: Fake
+Album: KoRn
+Track: 9
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340656
+song_end
+song_begin: 10 Lies.mp3
+Time: 202
+Artist: KoRn
+AlbumArtist: Korn
+Title: Lies
+Album: KoRn
+Track: 10
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340796
+song_end
+song_begin: 11 Helmet in the Bush.mp3
+Time: 243
+Artist: KoRn
+AlbumArtist: Korn
+Title: Helmet in the Bush
+Album: KoRn
+Track: 11
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340800
+song_end
+song_begin: 12 Daddy.mp3
+Time: 1051
+Artist: KoRn
+AlbumArtist: Korn
+Title: Daddy
+Album: KoRn
+Track: 12
+Date: 1994
+Genre: Metal
+Composer: Korn
+mtime: 1364340800
+song_end
+end: KoRn/KoRn
+directory: Life Is Peachy
+mtime: 1364356498
+begin: KoRn/Life Is Peachy
+song_begin: 01 Twist.mp3
+Time: 49
+Artist: KoRn
+AlbumArtist: Korn
+Title: Twist
+Album: Life Is Peachy
+Track: 1
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364339376
+song_end
+song_begin: 02 Chi.mp3
+Time: 235
+Artist: KoRn
+AlbumArtist: Korn
+Title: Chi
+Album: Life Is Peachy
+Track: 2
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340356
+song_end
+song_begin: 03 Lost.mp3
+Time: 175
+Artist: KoRn
+AlbumArtist: Korn
+Title: Lost
+Album: Life Is Peachy
+Track: 3
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340560
+song_end
+song_begin: 04 Swallow.mp3
+Time: 219
+Artist: KoRn
+AlbumArtist: Korn
+Title: Swallow
+Album: Life Is Peachy
+Track: 4
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340568
+song_end
+song_begin: 05 Porno Creep.mp3
+Time: 121
+Artist: KoRn
+AlbumArtist: Korn
+Title: Porno Creep
+Album: Life Is Peachy
+Track: 5
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364339874
+song_end
+song_begin: 06 Good God.mp3
+Time: 201
+Artist: KoRn
+AlbumArtist: Korn
+Title: Good God
+Album: Life Is Peachy
+Track: 6
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340590
+song_end
+song_begin: 07 Mr. Rogers.mp3
+Time: 311
+Artist: KoRn
+AlbumArtist: Korn
+Title: Mr. Rogers
+Album: Life Is Peachy
+Track: 7
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340632
+song_end
+song_begin: 08 K@#_%!.mp3
+Time: 183
+Artist: KoRn
+AlbumArtist: Korn
+Title: K@#Ø%!
+Album: Life Is Peachy
+Track: 8
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340406
+song_end
+song_begin: 09 No Place to Hide.mp3
+Time: 212
+Artist: KoRn
+AlbumArtist: Korn
+Title: No Place to Hide
+Album: Life Is Peachy
+Track: 9
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340576
+song_end
+song_begin: 10 Wicked.mp3
+Time: 241
+Artist: KoRn
+AlbumArtist: Korn
+Title: Wicked
+Album: Life Is Peachy
+Track: 10
+Date: 1996
+Genre: Metal
+Composer: Ice Cube
+mtime: 1364340632
+song_end
+song_begin: 11 A.D.I.D.A.S..mp3
+Time: 153
+Artist: KoRn
+AlbumArtist: Korn
+Title: A.D.I.D.A.S.
+Album: Life Is Peachy
+Track: 11
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340798
+song_end
+song_begin: 12 Low Rider.mp3
+Time: 58
+Artist: KoRn
+AlbumArtist: Korn
+Title: Low Rider
+Album: Life Is Peachy
+Track: 12
+Date: 1996
+Genre: Metal
+Composer: B.B. Dickerson/Charles Miller/Harold Brown/Lee Oskar/Lonnie Jordan/Sylvester Allen
+mtime: 1364340204
+song_end
+song_begin: 13 Ass Itch.mp3
+Time: 219
+Artist: KoRn
+AlbumArtist: Korn
+Title: Ass Itch
+Album: Life Is Peachy
+Track: 13
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340214
+song_end
+song_begin: 14 Kill You.mp3
+Time: 517
+Artist: KoRn
+AlbumArtist: Korn
+Title: Kill You
+Album: Life Is Peachy
+Track: 14
+Date: 1996
+Genre: Metal
+Composer: Korn
+mtime: 1364340584
+song_end
+end: KoRn/Life Is Peachy
+directory: See You On The Other Side
+mtime: 1364356518
+begin: KoRn/See You On The Other Side
+song_begin: 01 Twisted Transistor.mp3
+Time: 252
+Artist: KoRn
+AlbumArtist: Korn
+Title: Twisted Transistor
+Album: See You On The Other Side
+Track: 1
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340552
+song_end
+song_begin: 02 Politics.mp3
+Time: 197
+Artist: KoRn
+AlbumArtist: Korn
+Title: Politics
+Album: See You On The Other Side
+Track: 2
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340334
+song_end
+song_begin: 03 Hypocrites.mp3
+Time: 230
+Artist: KoRn
+AlbumArtist: Korn
+Title: Hypocrites
+Album: See You On The Other Side
+Track: 3
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340632
+song_end
+song_begin: 04 Souvenir.mp3
+Time: 230
+Artist: KoRn
+AlbumArtist: Korn
+Title: Souvenir
+Album: See You On The Other Side
+Track: 4
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340984
+song_end
+song_begin: 05 10 Or A 2-Way.mp3
+Time: 282
+Artist: KoRn
+AlbumArtist: Korn
+Title: 10 Or A 2-Way
+Album: See You On The Other Side
+Track: 5
+Date: 2005
+Genre: Metal
+Composer: Atticus Ross/Korn/Matrix
+mtime: 1364340984
+song_end
+song_begin: 06 Throw Me Away.mp3
+Time: 281
+Artist: KoRn
+AlbumArtist: Korn
+Title: Throw Me Away
+Album: See You On The Other Side
+Track: 6
+Date: 2005
+Genre: Metal
+Composer: Atticus Ross/Korn/Matrix
+mtime: 1364342494
+song_end
+song_begin: 07 Love Song.mp3
+Time: 259
+Artist: KoRn
+AlbumArtist: Korn
+Title: Love Song
+Album: See You On The Other Side
+Track: 7
+Date: 2005
+Genre: Metal
+Composer: Atticus Ross/Korn/Matrix
+mtime: 1364342494
+song_end
+song_begin: 08 Open Up.mp3
+Time: 375
+Artist: KoRn
+AlbumArtist: Korn
+Title: Open Up
+Album: See You On The Other Side
+Track: 8
+Date: 2005
+Genre: Metal
+Composer: Atticus Ross/Korn/Matrix
+mtime: 1364340564
+song_end
+song_begin: 09 Coming Undone.mp3
+Time: 200
+Artist: KoRn
+AlbumArtist: Korn
+Title: Coming Undone
+Album: See You On The Other Side
+Track: 9
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340420
+song_end
+song_begin: 10 Getting Off.mp3
+Time: 205
+Artist: KoRn
+AlbumArtist: Korn
+Title: Getting Off
+Album: See You On The Other Side
+Track: 10
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364342004
+song_end
+song_begin: 11 Liar.mp3
+Time: 255
+Artist: KoRn
+AlbumArtist: Korn
+Title: Liar
+Album: See You On The Other Side
+Track: 11
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364342004
+song_end
+song_begin: 12 For No One.mp3
+Time: 217
+Artist: KoRn
+AlbumArtist: Korn
+Title: For No One
+Album: See You On The Other Side
+Track: 12
+Date: 2005
+Genre: Metal
+Composer: Korn/Matrix
+mtime: 1364340596
+song_end
+song_begin: 13 Seen It All.mp3
+Time: 379
+Artist: KoRn
+AlbumArtist: Korn
+Title: Seen It All
+Album: See You On The Other Side
+Track: 13
+Date: 2005
+Genre: Metal
+Composer: Atticus Ross/Korn/Matrix
+mtime: 1364342532
+song_end
+song_begin: 14 Tearjerker.mp3
+Time: 305
+Artist: KoRn
+AlbumArtist: Korn
+Title: Tearjerker
+Album: See You On The Other Side
+Track: 14
+Date: 2005
+Genre: Metal
+Composer: Roxanna Rocks
+mtime: 1364342532
+song_end
+song_begin: 15 It's me again.mp3
+Time: 219
+Artist: KoRn
+Title: It's me again
+Album: See You On The Other Side
+Track: 15
+Date: 2005
+Genre: Metal
+mtime: 1364340426
+song_end
+song_begin: 16 Eaten up inside.mp3
+Time: 199
+Artist: KoRn
+Title: Eaten up inside
+Album: See You On The Other Side
+Track: 16
+Date: 2005
+Genre: Metal
+mtime: 1364340284
+song_end
+song_begin: 17 Last legal drug (la Petite mort).mp3
+Time: 318
+Artist: KoRn
+Title: Last legal drug (la Petite mort)
+Album: See You On The Other Side
+Track: 17
+Date: 2005
+Genre: Metal
+mtime: 1364340608
+song_end
+song_begin: 18 Too Late I'm Dead.mp3
+Time: 207
+Artist: KoRn
+Title: Too Late I'm Dead
+Album: See You On The Other Side
+Track: 18
+Date: 2005
+Genre: Metal
+mtime: 1364341416
+song_end
+song_begin: 18 Twisted transistor-Dante Ross rem.mp3
+Time: 210
+Artist: KoRn
+Title: Twisted transistor-Dante Ross remix
+Album: See You On The Other Side
+Track: 18
+Date: 2005
+Genre: Metal
+mtime: 1364342542
+song_end
+song_begin: 19 Twisted Transistor-Dummies club m.mp3
+Time: 475
+Artist: KoRn
+Title: Twisted Transistor-Dummies club mix
+Album: See You On The Other Side
+Track: 19
+Date: 2005
+Genre: Metal
+mtime: 1364342632
+song_end
+end: KoRn/See You On The Other Side
+directory: Take a Look in the Mirror
+mtime: 1364356530
+begin: KoRn/Take a Look in the Mirror
+song_begin: 01 Right Now.mp3
+Time: 190
+Artist: KoRn
+Title: Right Now
+Album: Take A Look In The Mirror
+Track: 1
+Genre: Metal
+mtime: 1364342396
+song_end
+song_begin: 02 Break Some Off.mp3
+Time: 156
+Artist: KoRn
+Title: Break Some Off
+Album: Take A Look In The Mirror
+Track: 2
+Genre: Metal
+mtime: 1364342562
+song_end
+song_begin: 03 Counting On Me.mp3
+Time: 289
+Artist: KoRn
+Title: Counting On Me
+Album: Take A Look In The Mirror
+Track: 3
+Genre: Metal
+mtime: 1364342620
+song_end
+song_begin: 04 Here It Comes Again.mp3
+Time: 214
+Artist: KoRn
+Title: Here It Comes Again
+Album: Take A Look In The Mirror
+Track: 4
+Genre: Metal
+mtime: 1364342612
+song_end
+song_begin: 05 Deep Inside.mp3
+Time: 166
+Artist: KoRn
+Title: Deep Inside
+Album: Take A Look In The Mirror
+Track: 5
+Genre: Metal
+mtime: 1364342614
+song_end
+song_begin: 06 Did My Time.mp3
+Time: 245
+Artist: KoRn
+Title: Did My Time
+Album: Take A Look In The Mirror
+Track: 6
+Genre: Metal
+mtime: 1364342532
+song_end
+song_begin: 07 Everything I've Known.mp3
+Time: 215
+Artist: KoRn
+Title: Everything I've Known
+Album: Take A Look In The Mirror
+Track: 7
+Genre: Metal
+mtime: 1364342632
+song_end
+song_begin: 08 Play Me.mp3
+Time: 202
+Artist: KoRn
+Title: Play Me
+Album: Take A Look In The Mirror
+Track: 8
+Genre: Metal
+mtime: 1364342494
+song_end
+song_begin: 09 Alive.mp3
+Time: 270
+Artist: KoRn
+Title: Alive
+Album: Take A Look In The Mirror
+Track: 9
+Genre: Metal
+mtime: 1364342590
+song_end
+song_begin: 10 Let's Do This Now.mp3
+Time: 199
+Artist: KoRn
+Title: Let's Do This Now
+Album: Take A Look In The Mirror
+Track: 10
+Genre: Metal
+mtime: 1364342514
+song_end
+song_begin: 11 I'm Done.mp3
+Time: 203
+Artist: KoRn
+Title: I'm Done
+Album: Take A Look In The Mirror
+Track: 11
+Genre: Metal
+mtime: 1364342636
+song_end
+song_begin: 12 Ya'll Want a Single.mp3
+Time: 198
+Artist: KoRn
+Title: Ya'll Want a Single
+Album: Take A Look In The Mirror
+Track: 12
+Genre: Metal
+mtime: 1364342404
+song_end
+song_begin: 13 When Will This End + One [Live].mp3
+Time: 864
+Artist: KoRn
+Title: When Will This End + One [Live]
+Album: Take A Look In The Mirror
+Track: 13
+Genre: Metal
+mtime: 1364342622
+song_end
+song_begin: 14 ONE.mp3
+Time: 241
+Artist: KoRn
+Title: ONE
+Album: Take A Look In The Mirror
+Track: 14
+Genre: Metal
+mtime: 1364342608
+song_end
+end: KoRn/Take a Look in the Mirror
+directory: Unplugged
+mtime: 1364356540
+begin: KoRn/Unplugged
+song_begin: 01 Blind.mp3
+Time: 188
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Blind
+Album: Unplugged
+Track: 01
+Date: 2007
+Genre: Rock
+mtime: 1364342620
+song_end
+song_begin: 02 Freak on a Leash (Featuring Amy L.mp3
+Time: 221
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Freak on a Leash (Featuring Amy Lee)
+Album: Unplugged
+Track: 02
+Date: 2007
+Genre: Rock
+mtime: 1364342628
+song_end
+song_begin: 03 Falling Away From Me.mp3
+Time: 224
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Falling Away From Me
+Album: Unplugged
+Track: 03
+Date: 2007
+Genre: Rock
+mtime: 1364342638
+song_end
+song_begin: 04 Creep.mp3
+Time: 211
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Creep
+Album: Unplugged
+Track: 04
+Date: 2007
+Genre: Rock
+mtime: 1364342314
+song_end
+song_begin: 05 Got The Life.mp3
+Time: 211
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Got The Life
+Album: Unplugged
+Track: 05
+Date: 2007
+Genre: Rock
+mtime: 1364342636
+song_end
+song_begin: 06 Twisted Transistor.mp3
+Time: 177
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Twisted Transistor
+Album: Unplugged
+Track: 06
+Date: 2007
+Genre: Rock
+mtime: 1364342590
+song_end
+song_begin: 07 Coming Undone.mp3
+Time: 205
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Coming Undone
+Album: Unplugged
+Track: 07
+Date: 2007
+Genre: Rock
+mtime: 1364342636
+song_end
+song_begin: 08 Make Me Bad_In Between Days (Feat.mp3
+Time: 307
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Make Me Bad/In Between Days (Featuring The Cure)
+Album: Unplugged
+Track: 08
+Date: 2007
+Genre: Rock
+mtime: 1364342378
+song_end
+song_begin: 09 Throw Me Away.mp3
+Time: 266
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Throw Me Away
+Album: Unplugged
+Track: 09
+Date: 2007
+Genre: Rock
+mtime: 1364342590
+song_end
+end: KoRn/Unplugged
+directory: Untouchables
+mtime: 1364356551
+begin: KoRn/Untouchables
+song_begin: 01 Here to Stay.mp3
+Time: 271
+Artist: KoRn
+AlbumArtist: Korn
+Title: Here to Stay
+Album: Untouchables
+Track: 1
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342608
+song_end
+song_begin: 02 Make Believe.mp3
+Time: 277
+Artist: KoRn
+AlbumArtist: Korn
+Title: Make Believe
+Album: Untouchables
+Track: 2
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342636
+song_end
+song_begin: 03 Blame.mp3
+Time: 231
+Artist: KoRn
+AlbumArtist: Korn
+Title: Blame
+Album: Untouchables
+Track: 3
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342436
+song_end
+song_begin: 04 Hollow Life.mp3
+Time: 249
+Artist: KoRn
+AlbumArtist: Korn
+Title: Hollow Life
+Album: Untouchables
+Track: 4
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342524
+song_end
+song_begin: 05 Bottled Up Inside.mp3
+Time: 240
+Artist: KoRn
+AlbumArtist: Korn
+Title: Bottled Up Inside
+Album: Untouchables
+Track: 5
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342532
+song_end
+song_begin: 06 Thoughtless.mp3
+Time: 273
+Artist: KoRn
+AlbumArtist: Korn
+Title: Thoughtless
+Album: Untouchables
+Track: 6
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342378
+song_end
+song_begin: 07 Hating.mp3
+Time: 311
+Artist: KoRn
+AlbumArtist: Korn
+Title: Hating
+Album: Untouchables
+Track: 7
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342568
+song_end
+song_begin: 08 One More Time.mp3
+Time: 279
+Artist: KoRn
+AlbumArtist: Korn
+Title: One More Time
+Album: Untouchables
+Track: 8
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342632
+song_end
+song_begin: 09 Alone I Break.mp3
+Time: 257
+Artist: KoRn
+AlbumArtist: Korn
+Title: Alone I Break
+Album: Untouchables
+Track: 9
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342348
+song_end
+song_begin: 10 Embrace.mp3
+Time: 267
+Artist: KoRn
+AlbumArtist: Korn
+Title: Embrace
+Album: Untouchables
+Track: 10
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342632
+song_end
+song_begin: 11 Beat It Upright.mp3
+Time: 256
+Artist: KoRn
+AlbumArtist: Korn
+Title: Beat It Upright
+Album: Untouchables
+Track: 11
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342436
+song_end
+song_begin: 12 Wake Up Hate.mp3
+Time: 193
+Artist: KoRn
+AlbumArtist: Korn
+Title: Wake Up Hate
+Album: Untouchables
+Track: 12
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342628
+song_end
+song_begin: 13 I'm Hiding.mp3
+Time: 238
+Artist: KoRn
+AlbumArtist: Korn
+Title: I'm Hiding
+Album: Untouchables
+Track: 13
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342592
+song_end
+song_begin: 14 No One's There.mp3
+Time: 306
+Artist: KoRn
+AlbumArtist: Korn
+Title: No One's There
+Album: Untouchables
+Track: 14
+Date: 2002
+Genre: Metal
+Composer: Korn
+mtime: 1364342626
+song_end
+song_begin: 15 [Untitled Hidden Track].mp3
+Time: 259
+Artist: KoRn
+AlbumArtist: Korn
+Title: [Untitled Hidden Track]
+Album: Untouchables
+Track: 15
+Date: 2002
+Genre: Metal
+mtime: 1364342524
+song_end
+end: KoRn/Untouchables
+end: KoRn
 directory: Kreator
 mtime: 1355512025
 begin: Kreator
@@ -9094,17 +10445,17 @@ Date: 2006
 Genre: Rock
 mtime: 1362611655
 song_end
-playlist_begin: 000-oasis-stop_the_clocks-(deluxe_edition)-3cd-2006.m3u
-mtime: 1357970680
-playlist_end
-playlist_begin: 100-oasis-stop_the_clocks-(deluxe_edition)-cd1-2006.m3u
-mtime: 1357970680
+playlist_begin: 300-oasis-stop_the_clocks-(deluxe_edition)-cd3-2006.m3u
+mtime: 1357951275
 playlist_end
 playlist_begin: 200-oasis-stop_the_clocks-(deluxe_edition)-cd2-2006.m3u
 mtime: 1357969956
 playlist_end
-playlist_begin: 300-oasis-stop_the_clocks-(deluxe_edition)-cd3-2006.m3u
-mtime: 1357951275
+playlist_begin: 100-oasis-stop_the_clocks-(deluxe_edition)-cd1-2006.m3u
+mtime: 1357970680
+playlist_end
+playlist_begin: 000-oasis-stop_the_clocks-(deluxe_edition)-3cd-2006.m3u
+mtime: 1357970680
 playlist_end
 end: Oasis/Oasis-Stop_The_Clocks-(Deluxe_Edition)-3CD-2006-EON
 end: Oasis
