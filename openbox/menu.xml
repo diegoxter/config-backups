@@ -35,7 +35,7 @@
     <action name="Execute"><execute>gksudo pm-hibernate</execute></action>
   </item>
   <item label="Apagar">
-    <action name="Execute"><execute>gksudo shutdown -h now</execute></action>
+    <action name="Execute"><execute>gksudo "shutdown -h now"</execute></action>
   </item>
   </menu>
   <separator />
