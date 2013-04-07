@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/diegoxter/Público/ruby/tests/fps/ejemplo'
 let g:netrw_dirhist_2='/home/diegoxter/.config/openbox'
 let g:netrw_dirhist_3='/home/diegoxter/Público/backups/openbox'
 let g:netrw_dirhist_4='/home/diegoxter/Público/backups'
 let g:netrw_dirhist_5='/home/diegoxter/.zsh'
 let g:netrw_dirhist_6='/home/diegoxter/.ncmpcpp'
+let g:netrw_dirhist_7='/home/diegoxter'
+let g:netrw_dirhist_8='/home/diegoxter/.config'

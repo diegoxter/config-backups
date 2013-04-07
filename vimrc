@@ -11,10 +11,17 @@ set nowrap
 set ruler
 colorscheme delek
 set showmatch
-map <C-t>  :tabnext <CR>
-map <C-n>  :tabnew <CR>
 
-" Barra
+""Shortcuts
+" Tabs
+map <S-t>  :tabnew <CR>
+map <S-n>  :tabnext <CR>
+map <S-p>  :tabprevious <CR>
+map <S-w>  :tabclose <CR>
+"Tagbar
+nmap <F8> :TagbarToggle<CR> 
+
+"Barra
 set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04v]\ [%p%%]\ [TYPE=%Y]
 set laststatus=2
 
@@ -83,9 +90,3 @@ set smartindent
 set backspace=2
 set nobackup
 set noswapfile
-
-"GHC para Haskell
-au BufEnter *.hs compiler ghc
-let g:haddock_browser = "/usr/bin/chromium-browser"
-let g:ghc = "/usr/bin/ghc"
-let g:haddock_docdir = "/usr/share/doc/ghc-doc/html/"
