@@ -90,3 +90,11 @@ set smartindent
 set backspace=2
 set nobackup
 set noswapfile
+
+""Vala
+au BufRead,BufNewFile *.vala,*.vapi setfiletype vala
+autocmd BufRead *.vala,*.vapi set efm=%f:%l.%c-%[%^:]%#:\ %t%[%^:]%#:\ %m
+"Highlight space errors
+let vala_space_errors = 1
+"Disable space-tab-space errors
+let vala_no_tab_space_error = 1
