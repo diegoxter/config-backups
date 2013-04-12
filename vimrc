@@ -1,13 +1,10 @@
-""""""""""""""""
-""
+""""""""""""""""----
 ""General
-
 highlight Comment term=bold ctermfg=6 guifg=Cyan
 highlight Special term=bold ctermfg=6 guifg=Cyan
 filetype plugin on
 filetype indent on
-""
-""""""""""""""""
+""""""""""""""""----
 
 " Visual
 set nu
@@ -58,8 +55,7 @@ inoremap '<CR>  '<CR>'<Esc>O
 inoremap ''     '
 inoremap ''     ''
 
-""""""""""""""""
-""
+""""""""""""""""----
 """Searching
 set hlsearch            
 set incsearch          
@@ -80,8 +76,7 @@ function! Highlighting()
   return ":silent set hlsearch\<CR>"
 endfunction
 nnoremap <silent> <expr> <CR> Highlighting()
-""
-""""""""""""""""
+""""""""""""""""----
 
 "Columnas y Filas
 set cursorline
@@ -89,25 +84,31 @@ highlight CursorLine term=underline cterm=underline guibg=Grey90
 set cursorcolumn
 highlight CursorColumn term=reverse cterm=underline guibg=Grey90
 
-""""""""""""""""
+""""""""""""""""----
 """Reglas
-""
 set showmode
 set tabstop=2
-"Tabular se vuelve dos espacios"
-set expandtab 
 set shiftwidth=2
 set smartindent "Hacer indent automático
 set backspace=2
-""
-""""""""""""""""
+""""""""""""""""----
+
+""""""""""""""""----
+""" Archivos y backups
 "No guardar un backup ni un archivo swap"
 set nobackup
 set noswapfile
+""""""""""""""""----
 
+
+""""""""""""""""----
+""" Texto
 "Romper la línea en 72 carácteres"
 set lbr
 set tw=72
+
+set expandtab "Tabular se vuelve dos espacios"
+""""""""""""""""----
 
 ""Vala
 au BufRead,BufNewFile *.vala,*.vapi setfiletype vala
