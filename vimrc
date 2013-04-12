@@ -2,6 +2,8 @@
 ""General
 highlight Comment term=bold ctermfg=6 guifg=Cyan
 highlight Special term=bold ctermfg=6 guifg=Cyan
+
+"Plugins de filetype"
 filetype plugin on
 filetype indent on
 """"""""""""""""----
@@ -13,14 +15,17 @@ set ruler
 colorscheme delek
 set showmatch
 
+""""""""""""""""----
 ""Shortcuts
-" Tabs
+"Tabs"
 map <S-t>  :tabnew <CR>
 map <S-n>  :tabnext <CR>
 map <S-p>  :tabprevious <CR>
 map <S-w>  :tabclose <CR>
-"Tagbar
+
+"Tagbar"
 nmap <F8> :TagbarToggle<CR> 
+""""""""""""""""----
 
 "Barra
 set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04v]\ [%p%%]\ [TYPE=%Y]
@@ -56,14 +61,23 @@ inoremap ''     ''
 
 """"""""""""""""----
 """Searching
+"Resaltar resultados de búsqueda"
 set hlsearch            
-set incsearch          
+
+"Hace que search sea más moderno"
+set incsearch         
+
+"No importa si es mayúscula o minúscula..."
 set ignorecase         
-set smartcase         
-" Apagar highlight de una apenas se entre en IM
+
+"... Aunque tampoco se puede ser bruto con eso"
+set smartcase        
+
+"Apagar highlight de una apenas se entre en InsMode"
 autocmd InsertEnter * :setlocal nohlsearch
 autocmd InsertLeave * :setlocal hlsearch
-" Enter activa y desactiva el highlight
+
+"Enter activa y desactiva el highlight"
 let g:highlighting = 0
 function! Highlighting()
   if g:highlighting == 1 && @/ =~ '^\\<'.expand('<cword>').'\\>$'
@@ -75,6 +89,7 @@ function! Highlighting()
   return ":silent set hlsearch\<CR>"
 endfunction
 nnoremap <silent> <expr> <CR> Highlighting()
+
 """"""""""""""""----
 
 "Columnas y Filas
@@ -89,7 +104,7 @@ set showmode
 
 
 
-"Hacer indent automático
+"Hacer indent automático"
 set smartindent 
 
 set backspace=2
