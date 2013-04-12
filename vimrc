@@ -32,24 +32,8 @@ set cursorline
 highlight CursorLine term=underline cterm=underline guibg=Grey90    
 set cursorcolumn
 highlight CursorColumn term=reverse cterm=underline guibg=Grey90
-""""""""""""""""----
 
-""""""""""""""""----
-""Shortcuts
-"Tabs"
-map <S-t>  :tabnew <CR>
-map <S-n>  :tabnext <CR>
-map <S-p>  :tabprevious <CR>
-map <S-w>  :tabclose <CR>
-
-"Tagbar"
-nmap <F8> :TagbarToggle<CR> 
-""""""""""""""""----
-
-
-" Pathogen
-execute pathogen#infect()
-
+"Autocompletar comillas (simples y dobles) y paréntesis"
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O
 inoremap {{     {
@@ -74,6 +58,26 @@ inoremap '      ''<Left>
 inoremap '<CR>  '<CR>'<Esc>O
 inoremap ''     '
 inoremap ''     ''
+
+""""""""""""""""----
+
+""""""""""""""""----
+""Shortcuts
+"Tabs"
+map <S-t>  :tabnew <CR>
+map <S-n>  :tabnext <CR>
+map <S-p>  :tabprevious <CR>
+map <S-w>  :tabclose <CR>
+
+"Tagbar"
+nmap <F8> :TagbarToggle<CR> 
+""""""""""""""""----
+
+
+" Pathogen
+execute pathogen#infect()
+
+
 
 """"""""""""""""----
 """Searching
@@ -107,8 +111,6 @@ endfunction
 nnoremap <silent> <expr> <CR> Highlighting()
 
 """"""""""""""""----
-
-
 
 """"""""""""""""----
 """ Reglas
@@ -150,6 +152,8 @@ set tabstop=4
 set shiftwidth=4
 """"""""""""""""----
 
+""""""""""""""""----
+""""""ESPECÍFICO DE CADA LENGUAJE!
 ""Vala
 au BufRead,BufNewFile *.vala,*.vapi setfiletype vala
 autocmd BufRead *.vala,*.vapi set efm=%f:%l.%c-%[%^:]%#:\ %t%[%^:]%#:\ %m
