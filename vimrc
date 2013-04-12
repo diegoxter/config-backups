@@ -8,12 +8,31 @@ filetype plugin on
 filetype indent on
 """"""""""""""""----
 
-" Visual
-set nu
-syntax on
-set ruler
+""""""""""""""""----
+"" Interfaz
+"Color, sintaxis y demás"
 colorscheme delek
+syntax on
+
+"No dejes de mostrarme dónde ando, sapo"
+set ruler
+
+"Qué coño hace esto????"
+set nu
+
+"Que se resalte el paréntesis hermano"
 set showmatch
+
+"Barra"
+set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04v]\ [%p%%]\ [TYPE=%Y]
+set laststatus=2
+
+"Columnas y Filas"
+set cursorline
+highlight CursorLine term=underline cterm=underline guibg=Grey90    
+set cursorcolumn
+highlight CursorColumn term=reverse cterm=underline guibg=Grey90
+""""""""""""""""----
 
 """"""""""""""""----
 ""Shortcuts
@@ -27,9 +46,6 @@ map <S-w>  :tabclose <CR>
 nmap <F8> :TagbarToggle<CR> 
 """"""""""""""""----
 
-"Barra
-set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [POS=%04v]\ [%p%%]\ [TYPE=%Y]
-set laststatus=2
 
 " Pathogen
 execute pathogen#infect()
@@ -92,22 +108,17 @@ nnoremap <silent> <expr> <CR> Highlighting()
 
 """"""""""""""""----
 
-"Columnas y Filas
-set cursorline
-highlight CursorLine term=underline cterm=underline guibg=Grey90    
-set cursorcolumn
-highlight CursorColumn term=reverse cterm=underline guibg=Grey90
+
 
 """"""""""""""""----
-"""Reglas
+""" Reglas
 set showmode
-
-
 
 "Hacer indent automático"
 set smartindent 
 
-set backspace=2
+"Realmente no sé que hace esto GGG"
+set backspace=eol,start,indent
 """"""""""""""""----
 
 """"""""""""""""----
