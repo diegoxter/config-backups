@@ -9,7 +9,6 @@ filetype indent on
 " Visual
 set nu
 syntax on
-set wrap
 set ruler
 colorscheme delek
 set showmatch
@@ -87,9 +86,12 @@ highlight CursorColumn term=reverse cterm=underline guibg=Grey90
 """"""""""""""""----
 """Reglas
 set showmode
-set tabstop=2
-set shiftwidth=2
-set smartindent "Hacer indent automático
+
+
+
+"Hacer indent automático
+set smartindent 
+
 set backspace=2
 """"""""""""""""----
 
@@ -107,7 +109,19 @@ set noswapfile
 set lbr
 set tw=72
 
-set expandtab "Tabular se vuelve dos espacios"
+"Hacer wraping de texto"
+set wrap
+
+"Tabular se vuelve dos espacios"
+set expandtab
+
+"Auto indent y Smart indent"
+set ai
+set si
+
+"Muy relacionadas, tabular se vuelve 4 espacios"
+set tabstop=4
+set shiftwidth=4
 """"""""""""""""----
 
 ""Vala
