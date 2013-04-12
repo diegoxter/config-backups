@@ -1,13 +1,18 @@
-filetype on
-syntax on
+""""""""""""""""
+""
+""General
+
 highlight Comment term=bold ctermfg=6 guifg=Cyan
 highlight Special term=bold ctermfg=6 guifg=Cyan
 filetype plugin on
-filetype plugin indent on
+filetype indent on
+""
+""""""""""""""""
 
 " Visual
 set nu
-set nowrap
+syntax on
+set wrap
 set ruler
 colorscheme delek
 set showmatch
@@ -53,7 +58,9 @@ inoremap '<CR>  '<CR>'<Esc>O
 inoremap ''     '
 inoremap ''     ''
 
-" searching
+""""""""""""""""
+""
+"""Searching
 set hlsearch            
 set incsearch          
 set ignorecase         
@@ -73,6 +80,8 @@ function! Highlighting()
   return ":silent set hlsearch\<CR>"
 endfunction
 nnoremap <silent> <expr> <CR> Highlighting()
+""
+""""""""""""""""
 
 "Columnas y Filas
 set cursorline
@@ -80,16 +89,25 @@ highlight CursorLine term=underline cterm=underline guibg=Grey90
 set cursorcolumn
 highlight CursorColumn term=reverse cterm=underline guibg=Grey90
 
+""""""""""""""""
+"""Reglas
+""
 set showmode
 set tabstop=2
+"Tabular se vuelve dos espacios"
+set expandtab 
 set shiftwidth=2
-set expandtab    
-set ruler
-set nowrap
-set smartindent
+set smartindent "Hacer indent automático
 set backspace=2
+""
+""""""""""""""""
+"No guardar un backup ni un archivo swap"
 set nobackup
 set noswapfile
+
+"Romper la línea en 72 carácteres"
+set lbr
+set tw=72
 
 ""Vala
 au BufRead,BufNewFile *.vala,*.vapi setfiletype vala
