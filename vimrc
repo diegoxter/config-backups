@@ -70,7 +70,10 @@ map <S-p>  :tabprevious <CR>
 map <S-w>  :tabclose <CR>
 
 "Tagbar"
-nmap <F8> :TagbarToggle<CR> 
+nmap <F8> :TagbarToggle<CR>
+
+"Enter activa el highlight"
+nnoremap <silent> <expr> <CR> Highlighting()
 """"""""""""""""----
 
 
@@ -97,7 +100,7 @@ set smartcase
 autocmd InsertEnter * :setlocal nohlsearch
 autocmd InsertLeave * :setlocal hlsearch
 
-"Enter activa y desactiva el highlight"
+"Activar y desactivar el highlight"
 let g:highlighting = 0
 function! Highlighting()
   if g:highlighting == 1 && @/ =~ '^\\<'.expand('<cword>').'\\>$'
@@ -108,7 +111,6 @@ function! Highlighting()
   let g:highlighting = 1
   return ":silent set hlsearch\<CR>"
 endfunction
-nnoremap <silent> <expr> <CR> Highlighting()
 
 """"""""""""""""----
 
