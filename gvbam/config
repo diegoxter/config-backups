@@ -30,7 +30,7 @@ output=1
 [Sound]
 mute=0
 sample_rate=44100
-volume=0.5
+volume=0.25
 
 [Input]
 active_joypad=0

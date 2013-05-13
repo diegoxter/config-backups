@@ -1,7 +1,8 @@
-sw_volume: 72
+sw_volume: 85
 audio_device_state:1:My Pulse Output
 state: stop
-random: 1
+current: 0
+random: 0
 repeat: 0
 single: 0
 consume: 0
@@ -9,15 +10,53 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: nan
 playlist_begin
-0:Daft Punk/(2005) Daft Punk - Human After All/01 - Human After All.mp3
-1:Daft Punk/(2005) Daft Punk - Human After All/02 - The Prime Time of Your Life.mp3
-2:Daft Punk/(2005) Daft Punk - Human After All/03 - Robot Rock.mp3
-3:Daft Punk/(2005) Daft Punk - Human After All/04 - Steam Machine.mp3
-4:Daft Punk/(2005) Daft Punk - Human After All/05 - Make Love.mp3
-5:Daft Punk/(2005) Daft Punk - Human After All/06 - The Brainwasher.mp3
-6:Daft Punk/(2005) Daft Punk - Human After All/07 - OnOff.mp3
-7:Daft Punk/(2005) Daft Punk - Human After All/08 - Television Rules the Nation.mp3
-8:Daft Punk/(2005) Daft Punk - Human After All/09 - Technologic.mp3
-9:Daft Punk/(2005) Daft Punk - Human After All/10 - Emotion.mp3
-10:Daft Punk/(2001) Daft Punk - Discovery/01 - One More Time.mp3
+0:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/01 - La vida moderna.m4a
+1:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/02 - Lazaro.m4a
+2:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/03 - Llueve sobre mojado.m4a
+3:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/04 - Tengo una muñeca que regala besos.m4a
+4:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/05 - Si volvieran los dragones.m4a
+5:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/06 - Cecilia.m4a
+6:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/07 - Delirium Tremens.m4a
+7:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/08 - Yo me bajo en atocha.m4a
+8:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/09 - Buenos Aires.m4a
+9:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/10 - Mas guapa que cualquiera.m4a
+10:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/11 - Flores en su entierro.m4a
+11:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/12 - Hasta cuando.m4a
+12:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/13 - La cancion de los (buenos) borrachos.m4a
+13:Joaquin Sabina - Discografia/(1998) Enemigos Intimos (Con Fito Paez)/14 - Enemigos Intimos.m4a
+14:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/01 - Nos sobran los motivos.mp3
+15:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/02 - Tan joven y tan viejo.mp3
+16:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/03  - Una canción para la Magdalena.mp3
+17:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/04 - Ruido.mp3
+18:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/05 - De purisima y oro.mp3
+19:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/06 - Calle melancolía.mp3
+20:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/07 - Rosa de Lima.mp3
+21:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/08 - Que se llama soledad.mp3
+22:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/09 - 19 días y 500 noches.mp3
+23:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/10 - Contigo.mp3
+24:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 1/11 - Noches de boda - Y nos dieron las diez.mp3
+25:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/01 - Yo me bajo en Atocha.mp3
+26:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/02 - Princesa - Barbi superestar.mp3
+27:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/03 - Quien me ha robado el mes de Abril - Así estoy sin ti.mp3
+28:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/04 - Medias negras.mp3
+29:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/05 - Pacto entre caballeros.mp3
+30:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/06 - Donde habita el olvido.mp3
+31:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/07 - Conductores suicidas.mp3
+32:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/08 - La del pirata cojo.mp3
+33:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/09 - Y sin embargo te quiero.mp3
+34:Joaquin Sabina - Discografia/(2000) Joaquín Sabina - Nos sobran los motivos/CD 2/10 - Y sin embargo.mp3
+35:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Ahora Que....mp3
+36:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - 19 Dias Y 500 Noches.mp3
+37:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Barbi Superestar.mp3
+38:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Una Cancion Para Magdalena.mp3
+39:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Dieguitos Y Mafaldas.mp3
+40:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - A Mis Cuarenta Y Diez.mp3
+41:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - El Caso De La Rubia Platino.mp3
+42:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Donde Habita El Olvido.mp3
+43:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Nos Sobran Los Motivos.mp3
+44:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - La Biblia Y El Calefon.mp3
+45:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Pero Que Hermosas Eran.mp3
+46:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - De Purisima Y Oro.mp3
+47:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Como Te Digo Una ¨Co¨ Te Digo La ¨O¨.mp3
+48:Joaquin Sabina - Discografia/19 Dias Y 500 Noches/Joaquin Sabina - Noches De Boda.mp3
 playlist_end
