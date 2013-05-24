@@ -34,7 +34,7 @@ Album: Le Voyage Dans La Lune
 Track: 01
 Date: 2012
 Genre: Electronica
-mtime: 1367792854
+mtime: 1369014016
 song_end
 song_begin: 02 - Seven Stars.mp3
 Time: 263
@@ -44,7 +44,7 @@ Album: Le Voyage Dans La Lune
 Track: 02
 Date: 2012
 Genre: Electronica
-mtime: 1367792974
+mtime: 1369014016
 song_end
 song_begin: 03 - Retour Sur Terre.mp3
 Time: 33
@@ -54,7 +54,7 @@ Album: Le Voyage Dans La Lune
 Track: 03
 Date: 2012
 Genre: Electronica
-mtime: 1367792759
+mtime: 1369014017
 song_end
 song_begin: 04 - Parade.mp3
 Time: 153
@@ -64,7 +64,7 @@ Album: Le Voyage Dans La Lune
 Track: 04
 Date: 2012
 Genre: Electronica
-mtime: 1367792524
+mtime: 1369014018
 song_end
 song_begin: 05 - Moon Fever.mp3
 Time: 214
@@ -74,7 +74,7 @@ Album: Le Voyage Dans La Lune
 Track: 05
 Date: 2012
 Genre: Electronica
-mtime: 1367792927
+mtime: 1369014019
 song_end
 song_begin: 06 - Sonic Armada.mp3
 Time: 305
@@ -84,7 +84,7 @@ Album: Le Voyage Dans La Lune
 Track: 06
 Date: 2012
 Genre: Electronica
-mtime: 1367792710
+mtime: 1369014019
 song_end
 song_begin: 07 - Who Am I Now .mp3
 Time: 181
@@ -94,7 +94,7 @@ Album: Le Voyage Dans La Lune
 Track: 07
 Date: 2012
 Genre: Electronica
-mtime: 1367792717
+mtime: 1369275361
 song_end
 song_begin: 08 - Décollage.mp3
 Time: 98
@@ -104,7 +104,7 @@ Album: Le Voyage Dans La Lune
 Track: 08
 Date: 2012
 Genre: Electronica
-mtime: 1367792658
+mtime: 1369014020
 song_end
 song_begin: 09 - Cosmic Trip.mp3
 Time: 250
@@ -114,7 +114,7 @@ Album: Le Voyage Dans La Lune
 Track: 09
 Date: 2012
 Genre: Electronica
-mtime: 1367792817
+mtime: 1369014020
 song_end
 song_begin: 10 - Homme Lune.mp3
 Time: 18
@@ -124,7 +124,7 @@ Album: Le Voyage Dans La Lune
 Track: 10
 Date: 2012
 Genre: Electronica
-mtime: 1367792464
+mtime: 1369014021
 song_end
 song_begin: 11 - Lava.mp3
 Time: 173
@@ -134,9 +134,213 @@ Album: Le Voyage Dans La Lune
 Track: 11
 Date: 2012
 Genre: Electronica
-mtime: 1367792849
+mtime: 1369014022
 song_end
 end: AIR/Air - Le Voyage Dans La Lune [mp3-320-2012]
+directory: Air - Moon Safari (Special Edition) [2008] - Pop [www.torrentazos.com]
+mtime: 1369275974
+begin: AIR/Air - Moon Safari (Special Edition) [2008] - Pop [www.torrentazos.com]
+song_begin: 101-air-la_femme_dargent.mp3
+Time: 431
+Artist: Air
+Title: La Femme D'Argent
+Album: Moon Safari (Special Edition)
+Track: 1
+Date: 2008
+Genre: Pop
+mtime: 1369277453
+song_end
+song_begin: 201-air-rember_(d_whitaker_version).mp3
+Time: 145
+Artist: Air
+Title: Rember (D Whitaker Version)
+Album: Moon Safari (Special Edition)
+Track: 1
+Date: 2008
+Genre: Pop
+mtime: 1369277447
+song_end
+song_begin: 102-air-sexy_boy.mp3
+Time: 299
+Artist: Air
+Title: Sexy Boy
+Album: Moon Safari (Special Edition)
+Track: 2
+Date: 2008
+Genre: Pop
+mtime: 1369277453
+song_end
+song_begin: 202-air-kelly_watch_the_stars_(live_bbc_1998).mp3
+Time: 164
+Artist: Air
+Title: Kelly Watch The Stars (Live BBC 1998)
+Album: Moon Safari (Special Edition)
+Track: 2
+Date: 2008
+Genre: Pop
+mtime: 1369277295
+song_end
+song_begin: 103-air-all_i_need.mp3
+Time: 268
+Artist: Air
+Title: All I Need
+Album: Moon Safari (Special Edition)
+Track: 3
+Date: 2008
+Genre: Pop
+mtime: 1369277421
+song_end
+song_begin: 203-air-jai_dormi_sous_leau_(live_bbc_1998).mp3
+Time: 251
+Artist: Air
+Title: J'Ai Dormi Sous L'Eau (Live BBC 1998)
+Album: Moon Safari (Special Edition)
+Track: 3
+Date: 2008
+Genre: Pop
+mtime: 1369277455
+song_end
+song_begin: 104-air-kelly_watch_the_stars.mp3
+Time: 225
+Artist: Air
+Title: Kelly Watch The Stars
+Album: Moon Safari (Special Edition)
+Track: 4
+Date: 2008
+Genre: Pop
+mtime: 1369277377
+song_end
+song_begin: 204-air-sexy_boy_(live_bbc_1998).mp3
+Time: 190
+Artist: Air
+Title: Sexy Boy (Live BBC 1998)
+Album: Moon Safari (Special Edition)
+Track: 4
+Date: 2008
+Genre: Pop
+mtime: 1369277446
+song_end
+song_begin: 105-air-talisman.mp3
+Time: 257
+Artist: Air
+Title: Talisman
+Album: Moon Safari (Special Edition)
+Track: 5
+Date: 2008
+Genre: Pop
+mtime: 1369277450
+song_end
+song_begin: 205-air-kelly_watch_the_stars_(moog_cookbook_remix).mp3
+Time: 341
+Artist: Air
+Title: Kelly Watch The Stars (Moog Cookbook Remix)
+Album: Moon Safari (Special Edition)
+Track: 5
+Date: 2008
+Genre: Pop
+mtime: 1369277506
+song_end
+song_begin: 106-air-remember.mp3
+Time: 154
+Artist: Air
+Title: Remember
+Album: Moon Safari (Special Edition)
+Track: 6
+Date: 2008
+Genre: Pop
+mtime: 1369277383
+song_end
+song_begin: 206-air-trente_millions_damis_(live_kcrw_1998).mp3
+Time: 274
+Artist: Air
+Title: Trente Millions D'Amis (Live KCRW 1998)
+Album: Moon Safari (Special Edition)
+Track: 6
+Date: 2008
+Genre: Pop
+mtime: 1369277444
+song_end
+song_begin: 107-air-you_make_it_easy.mp3
+Time: 242
+Artist: Air
+Title: You Make It Easy
+Album: Moon Safari (Special Edition)
+Track: 7
+Date: 2008
+Genre: Pop
+mtime: 1369277393
+song_end
+song_begin: 207-air-you_make_it_easy_(live_kcrw_1998).mp3
+Time: 285
+Artist: Air
+Title: You Make It Easy (Live KCRW 1998)
+Album: Moon Safari (Special Edition)
+Track: 7
+Date: 2008
+Genre: Pop
+mtime: 1369277449
+song_end
+song_begin: 108-air-ce_matin_la.mp3
+Time: 219
+Artist: Air
+Title: Ce Matin La
+Album: Moon Safari (Special Edition)
+Track: 8
+Date: 2008
+Genre: Pop
+mtime: 1369277444
+song_end
+song_begin: 208-air-bossa_(demo).mp3
+Time: 284
+Artist: Air
+Title: Bossa (Demo)
+Album: Moon Safari (Special Edition)
+Track: 8
+Date: 2008
+Genre: Pop
+mtime: 1369277366
+song_end
+song_begin: 109-air-new_star_in_the_sky.mp3
+Time: 341
+Artist: Air
+Title: New Star In The Sky
+Album: Moon Safari (Special Edition)
+Track: 9
+Date: 2008
+Genre: Pop
+mtime: 1369277432
+song_end
+song_begin: 209-air-kelly_watch_the_stars_(demo).mp3
+Time: 227
+Artist: Air
+Title: Kelly Watch The Stars (Demo)
+Album: Moon Safari (Special Edition)
+Track: 9
+Date: 2008
+Genre: Pop
+mtime: 1369277420
+song_end
+song_begin: 110-air-le_voyage_de_penelope.mp3
+Time: 191
+Artist: Air
+Title: Le Voyage De Penelope
+Album: Moon Safari (Special Edition)
+Track: 10
+Date: 2008
+Genre: Pop
+mtime: 1369277437
+song_end
+song_begin: 210-air-sexy_boy_(sex_kino_mix).mp3
+Time: 396
+Artist: Air
+Title: Sexy Boy (Sex Kino Mix)
+Album: Moon Safari (Special Edition)
+Track: 10
+Date: 2008
+Genre: Pop
+mtime: 1369277445
+song_end
+end: AIR/Air - Moon Safari (Special Edition) [2008] - Pop [www.torrentazos.com]
 end: AIR
 directory: Alestorm
 mtime: 1357082953
@@ -350,7 +554,7 @@ Album: Eaten Back To Life
 Track: 1
 Date: 1990
 Genre: Death Metal
-mtime: 1367741940
+mtime: 1368671952
 song_end
 song_begin: 02.Edible Autopsy.mp3
 Time: 273
@@ -360,7 +564,7 @@ Album: Eaten Back To Life
 Track: 2
 Date: 1990
 Genre: Death Metal
-mtime: 1367742086
+mtime: 1368671456
 song_end
 song_begin: 03.Put Them To Death.mp3
 Time: 111
@@ -370,7 +574,7 @@ Album: Eaten Back To Life
 Track: 3
 Date: 1990
 Genre: Death Metal
-mtime: 1367740973
+mtime: 1368668034
 song_end
 song_begin: 04.Mangled.mp3
 Time: 270
@@ -380,7 +584,7 @@ Album: Eaten Back To Life
 Track: 4
 Date: 1990
 Genre: Death Metal
-mtime: 1367741778
+mtime: 1368670982
 song_end
 song_begin: 05.Scattered Remains, Splattered Brains.mp3
 Time: 154
@@ -390,7 +594,7 @@ Album: Eaten Back To Life
 Track: 5
 Date: 1990
 Genre: Death Metal
-mtime: 1367741732
+mtime: 1368672515
 song_end
 song_begin: 06.Born In A Casket.mp3
 Time: 201
@@ -400,7 +604,7 @@ Album: Eaten Back To Life
 Track: 6
 Date: 1990
 Genre: Death Metal
-mtime: 1367740818
+mtime: 1368668129
 song_end
 song_begin: 07.Rotting Head.mp3
 Time: 146
@@ -410,7 +614,7 @@ Album: Eaten Back To Life
 Track: 7
 Date: 1990
 Genre: Death Metal
-mtime: 1367739386
+mtime: 1368670589
 song_end
 song_begin: 08.The Undead Will Feast.mp3
 Time: 170
@@ -420,7 +624,7 @@ Album: Eaten Back To Life
 Track: 8
 Date: 1990
 Genre: Death Metal
-mtime: 1367741989
+mtime: 1368672245
 song_end
 song_begin: 09.Bloody Chunks.mp3
 Time: 113
@@ -430,7 +634,7 @@ Album: Eaten Back To Life
 Track: 9
 Date: 1990
 Genre: Death Metal
-mtime: 1367739499
+mtime: 1368670313
 song_end
 song_begin: 10.A Skull Full Of Maggots.mp3
 Time: 127
@@ -440,7 +644,7 @@ Album: Eaten Back To Life
 Track: 10
 Date: 1990
 Genre: Death Metal
-mtime: 1367739770
+mtime: 1368670391
 song_end
 song_begin: 11.Buried In The Backyard.mp3
 Time: 313
@@ -450,7 +654,7 @@ Album: Eaten Back To Life
 Track: 11
 Date: 1990
 Genre: Death Metal
-mtime: 1367742016
+mtime: 1368672417
 song_end
 end: Cannibal Сorpse/1990 - Eaten Back To Life
 directory: 1991 - Butchered at Birth
@@ -464,7 +668,7 @@ Album: Butchered At Birth
 Track: 1
 Date: 1991
 Genre: Death Metal
-mtime: 1367742056
+mtime: 1368670802
 song_end
 song_begin: 02.Gutted.mp3
 Time: 195
@@ -474,7 +678,7 @@ Album: Butchered At Birth
 Track: 2
 Date: 1991
 Genre: Death Metal
-mtime: 1367742061
+mtime: 1368673009
 song_end
 song_begin: 03.Living Dissection.mp3
 Time: 240
@@ -484,7 +688,7 @@ Album: Butchered At Birth
 Track: 3
 Date: 1991
 Genre: Death Metal
-mtime: 1367742041
+mtime: 1368671855
 song_end
 song_begin: 04.Under the Rotted Flesh.mp3
 Time: 304
@@ -494,7 +698,7 @@ Album: Butchered At Birth
 Track: 4
 Date: 1991
 Genre: Death Metal
-mtime: 1367742074
+mtime: 1368671882
 song_end
 song_begin: 05.Covered With Sores.mp3
 Time: 197
@@ -504,7 +708,7 @@ Album: Butchered At Birth
 Track: 5
 Date: 1991
 Genre: Death Metal
-mtime: 1367742099
+mtime: 1368672378
 song_end
 song_begin: 06.Vomit The Soul.mp3
 Time: 270
@@ -514,7 +718,7 @@ Album: Butchered At Birth
 Track: 6
 Date: 1991
 Genre: Death Metal
-mtime: 1367742071
+mtime: 1368672722
 song_end
 song_begin: 07.Butchered At Birth.mp3
 Time: 165
@@ -524,7 +728,7 @@ Album: Butchered At Birth
 Track: 7
 Date: 1991
 Genre: Death Metal
-mtime: 1367741932
+mtime: 1368671106
 song_end
 song_begin: 08.Rancid Amputation.mp3
 Time: 196
@@ -534,7 +738,7 @@ Album: Butchered At Birth
 Track: 8
 Date: 1991
 Genre: Death Metal
-mtime: 1367742031
+mtime: 1368670784
 song_end
 song_begin: 09.Innards Decay.mp3
 Time: 277
@@ -544,7 +748,7 @@ Album: Butchered At Birth
 Track: 9
 Date: 1991
 Genre: Death Metal
-mtime: 1367742149
+mtime: 1368671985
 song_end
 end: Cannibal Сorpse/1991 - Butchered at Birth
 directory: 1992 - Tomb Of The Mutilated
@@ -558,7 +762,7 @@ Album: Tomb Of The Mutilated
 Track: 1
 Date: 1992
 Genre: Death Metal
-mtime: 1367740105
+mtime: 1368672328
 song_end
 song_begin: 02.I Cum Blood.mp3
 Time: 222
@@ -568,7 +772,7 @@ Album: Tomb Of The Mutilated
 Track: 2
 Date: 1992
 Genre: Death Metal
-mtime: 1367740212
+mtime: 1368671369
 song_end
 song_begin: 03.Addicted To Vaginal Skin.mp3
 Time: 211
@@ -578,7 +782,7 @@ Album: Tomb Of The Mutilated
 Track: 3
 Date: 1992
 Genre: Death Metal
-mtime: 1367739219
+mtime: 1368672365
 song_end
 song_begin: 04.Split Wide Open.mp3
 Time: 183
@@ -588,7 +792,7 @@ Album: Tomb Of The Mutilated
 Track: 4
 Date: 1992
 Genre: Death Metal
-mtime: 1367739338
+mtime: 1368670739
 song_end
 song_begin: 05.Necropedophile.mp3
 Time: 246
@@ -598,7 +802,7 @@ Album: Tomb Of The Mutilated
 Track: 5
 Date: 1992
 Genre: Death Metal
-mtime: 1367740112
+mtime: 1368672217
 song_end
 song_begin: 06.The Cryptic Stench.mp3
 Time: 237
@@ -608,7 +812,7 @@ Album: Tomb Of The Mutilated
 Track: 6
 Date: 1992
 Genre: Death Metal
-mtime: 1367740352
+mtime: 1368671233
 song_end
 song_begin: 07.Entrails Ripped From A Virgin's Cunt.mp3
 Time: 256
@@ -618,7 +822,7 @@ Album: Tomb Of The Mutilated
 Track: 7
 Date: 1992
 Genre: Death Metal
-mtime: 1367739298
+mtime: 1368672424
 song_end
 song_begin: 08.Post Mortal Ejaculation.mp3
 Time: 217
@@ -628,7 +832,7 @@ Album: Tomb Of The Mutilated
 Track: 8
 Date: 1992
 Genre: Death Metal
-mtime: 1367740081
+mtime: 1368672359
 song_end
 song_begin: 09.Beyond The Cemetery.mp3
 Time: 296
@@ -638,7 +842,7 @@ Album: Tomb Of The Mutilated
 Track: 9
 Date: 1992
 Genre: Death Metal
-mtime: 1367739342
+mtime: 1368672369
 song_end
 end: Cannibal Сorpse/1992 - Tomb Of The Mutilated
 directory: 1993 - Hammer Smashed Face (EP)
@@ -652,7 +856,7 @@ Album: Hammer Smashed Face
 Track: 1
 Date: 1993
 Genre: Death Metal
-mtime: 1367740076
+mtime: 1368672668
 song_end
 song_begin: 02.The Exorcist.mp3
 Time: 278
@@ -662,7 +866,7 @@ Album: Hammer Smashed Face
 Track: 2
 Date: 1993
 Genre: Death Metal
-mtime: 1367740048
+mtime: 1368672750
 song_end
 song_begin: 03.Zero The Hero.mp3
 Time: 395
@@ -672,7 +876,7 @@ Album: Hammer Smashed Face
 Track: 3
 Date: 1993
 Genre: Death Metal
-mtime: 1367740066
+mtime: 1368672921
 song_end
 song_begin: 04.Meat Hook Sodomy.mp3
 Time: 346
@@ -682,7 +886,7 @@ Album: Hammer Smashed Face
 Track: 4
 Date: 1993
 Genre: Death Metal
-mtime: 1367740128
+mtime: 1368672729
 song_end
 song_begin: 05.Shredded Humans.mp3
 Time: 311
@@ -692,7 +896,7 @@ Album: Hammer Smashed Face
 Track: 5
 Date: 1993
 Genre: Death Metal
-mtime: 1367740019
+mtime: 1368672660
 song_end
 end: Cannibal Сorpse/1993 - Hammer Smashed Face (EP)
 directory: 1994 - The Bleeding
@@ -706,7 +910,7 @@ Album: The Bleeding
 Track: 1
 Date: 1994
 Genre: Death Metal
-mtime: 1367741974
+mtime: 1368670976
 song_end
 song_begin: 02.Fucked With A Knife.mp3
 Time: 135
@@ -716,7 +920,7 @@ Album: The Bleeding
 Track: 2
 Date: 1994
 Genre: Death Metal
-mtime: 1367741602
+mtime: 1368670759
 song_end
 song_begin: 03.Stripped, Raped And Strangled.mp3
 Time: 206
@@ -726,7 +930,7 @@ Album: The Bleeding
 Track: 3
 Date: 1994
 Genre: Death Metal
-mtime: 1367741837
+mtime: 1368672166
 song_end
 song_begin: 04.Pulverized.mp3
 Time: 214
@@ -736,7 +940,7 @@ Album: The Bleeding
 Track: 4
 Date: 1994
 Genre: Death Metal
-mtime: 1367741577
+mtime: 1368672900
 song_end
 song_begin: 05.Return To Flesh.mp3
 Time: 260
@@ -746,7 +950,7 @@ Album: The Bleeding
 Track: 5
 Date: 1994
 Genre: Death Metal
-mtime: 1367741713
+mtime: 1368672091
 song_end
 song_begin: 06.The Pick-Axe Murders.mp3
 Time: 184
@@ -756,7 +960,7 @@ Album: The Bleeding
 Track: 6
 Date: 1994
 Genre: Death Metal
-mtime: 1367741706
+mtime: 1368672712
 song_end
 song_begin: 07.She Was Asking For It.mp3
 Time: 274
@@ -766,7 +970,7 @@ Album: The Bleeding
 Track: 7
 Date: 1994
 Genre: Death Metal
-mtime: 1367741584
+mtime: 1368672006
 song_end
 song_begin: 08.The Bleeding.mp3
 Time: 260
@@ -776,7 +980,7 @@ Album: The Bleeding
 Track: 8
 Date: 1994
 Genre: Death Metal
-mtime: 1367741675
+mtime: 1368672566
 song_end
 song_begin: 09.Force Fed Broken Glass.mp3
 Time: 303
@@ -786,7 +990,7 @@ Album: The Bleeding
 Track: 9
 Date: 1994
 Genre: Death Metal
-mtime: 1367741627
+mtime: 1368672984
 song_end
 song_begin: 10.An Experiment In Homicide.mp3
 Time: 158
@@ -796,7 +1000,7 @@ Album: The Bleeding
 Track: 10
 Date: 1994
 Genre: Death Metal
-mtime: 1367741278
+mtime: 1368667898
 song_end
 end: Cannibal Сorpse/1994 - The Bleeding
 directory: 1996 - Vile
@@ -810,7 +1014,7 @@ Album: Vile
 Track: 1
 Date: 1996
 Genre: Death Metal
-mtime: 1367742328
+mtime: 1368670640
 song_end
 song_begin: 02.Mummified in Barbed Wire.mp3
 Time: 189
@@ -820,7 +1024,7 @@ Album: Vile
 Track: 2
 Date: 1996
 Genre: Death Metal
-mtime: 1367741358
+mtime: 1368670485
 song_end
 song_begin: 03.Perverse Suffering.mp3
 Time: 255
@@ -830,7 +1034,7 @@ Album: Vile
 Track: 3
 Date: 1996
 Genre: Death Metal
-mtime: 1367742370
+mtime: 1368672687
 song_end
 song_begin: 04.Disfigured.mp3
 Time: 229
@@ -840,7 +1044,7 @@ Album: Vile
 Track: 4
 Date: 1996
 Genre: Death Metal
-mtime: 1367742203
+mtime: 1368671002
 song_end
 song_begin: 05.Bloodlands.mp3
 Time: 261
@@ -850,7 +1054,7 @@ Album: Vile
 Track: 5
 Date: 1996
 Genre: Death Metal
-mtime: 1367742377
+mtime: 1368672535
 song_end
 song_begin: 06.Puncture Wound Massacre.mp3
 Time: 101
@@ -860,7 +1064,7 @@ Album: Vile
 Track: 6
 Date: 1996
 Genre: Death Metal
-mtime: 1367741520
+mtime: 1368670265
 song_end
 song_begin: 07.Relentless Beating.mp3
 Time: 135
@@ -870,7 +1074,7 @@ Album: Vile
 Track: 7
 Date: 1996
 Genre: Death Metal
-mtime: 1367741401
+mtime: 1368670279
 song_end
 song_begin: 08.Absolute Hatred.mp3
 Time: 186
@@ -880,7 +1084,7 @@ Album: Vile
 Track: 8
 Date: 1996
 Genre: Death Metal
-mtime: 1367742195
+mtime: 1368672606
 song_end
 song_begin: 09.Eaten From Inside.mp3
 Time: 223
@@ -890,7 +1094,7 @@ Album: Vile
 Track: 9
 Date: 1996
 Genre: Death Metal
-mtime: 1367742444
+mtime: 1368672854
 song_end
 song_begin: 10.Orgasm Throught Torture.mp3
 Time: 222
@@ -900,7 +1104,7 @@ Album: Vile
 Track: 10
 Date: 1996
 Genre: Death Metal
-mtime: 1367742127
+mtime: 1368672088
 song_end
 song_begin: 11.Monolith.mp3
 Time: 265
@@ -910,7 +1114,7 @@ Album: Vile
 Track: 11
 Date: 1996
 Genre: Death Metal
-mtime: 1367742344
+mtime: 1368672140
 song_end
 end: Cannibal Сorpse/1996 - Vile
 directory: 1998 - Gallery of Suicide
@@ -924,7 +1128,7 @@ Album: Gallery Of Suicide
 Track: 1
 Date: 1998
 Genre: Death Metal
-mtime: 1367740467
+mtime: 1368672979
 song_end
 song_begin: 02.Disposal of the Body.mp3
 Time: 114
@@ -934,7 +1138,7 @@ Album: Gallery Of Suicide
 Track: 2
 Date: 1998
 Genre: Death Metal
-mtime: 1367740308
+mtime: 1368668803
 song_end
 song_begin: 03.Sentenced to Burn.mp3
 Time: 187
@@ -944,7 +1148,7 @@ Album: Gallery Of Suicide
 Track: 3
 Date: 1998
 Genre: Death Metal
-mtime: 1367740699
+mtime: 1368672779
 song_end
 song_begin: 04.Blood Drenched Execution.mp3
 Time: 161
@@ -954,7 +1158,7 @@ Album: Gallery Of Suicide
 Track: 4
 Date: 1998
 Genre: Death Metal
-mtime: 1367740616
+mtime: 1368673012
 song_end
 song_begin: 05.Gallery of Suicide.mp3
 Time: 235
@@ -964,7 +1168,7 @@ Album: Gallery Of Suicide
 Track: 5
 Date: 1998
 Genre: Death Metal
-mtime: 1367740417
+mtime: 1368671587
 song_end
 song_begin: 06.Dismembered And Molested.mp3
 Time: 114
@@ -974,7 +1178,7 @@ Album: Gallery Of Suicide
 Track: 6
 Date: 1998
 Genre: Death Metal
-mtime: 1367740308
+mtime: 1368668811
 song_end
 song_begin: 07.From Skin to Liquid.mp3
 Time: 330
@@ -984,7 +1188,7 @@ Album: Gallery Of Suicide
 Track: 7
 Date: 1998
 Genre: Death Metal
-mtime: 1367740669
+mtime: 1368672872
 song_end
 song_begin: 08.Unite the Dead.mp3
 Time: 185
@@ -994,7 +1198,7 @@ Album: Gallery Of Suicide
 Track: 8
 Date: 1998
 Genre: Death Metal
-mtime: 1367740274
+mtime: 1368669049
 song_end
 song_begin: 09.Stabbed in the Throat.mp3
 Time: 206
@@ -1004,7 +1208,7 @@ Album: Gallery Of Suicide
 Track: 9
 Date: 1998
 Genre: Death Metal
-mtime: 1367742445
+mtime: 1368671877
 song_end
 song_begin: 10.Chambers of Blood.mp3
 Time: 251
@@ -1014,7 +1218,7 @@ Album: Gallery Of Suicide
 Track: 10
 Date: 1998
 Genre: Death Metal
-mtime: 1367740371
+mtime: 1368672583
 song_end
 song_begin: 11.Headless.mp3
 Time: 142
@@ -1024,7 +1228,7 @@ Album: Gallery Of Suicide
 Track: 11
 Date: 1998
 Genre: Death Metal
-mtime: 1367740241
+mtime: 1368669241
 song_end
 song_begin: 12.Every Bone Broken.mp3
 Time: 198
@@ -1034,7 +1238,7 @@ Album: Gallery Of Suicide
 Track: 12
 Date: 1998
 Genre: Death Metal
-mtime: 1367740442
+mtime: 1368672124
 song_end
 song_begin: 13.Centuries of Torment.mp3
 Time: 245
@@ -1044,7 +1248,7 @@ Album: Gallery Of Suicide
 Track: 13
 Date: 1998
 Genre: Death Metal
-mtime: 1367740634
+mtime: 1368673011
 song_end
 song_begin: 14.Crushing the Despised.mp3
 Time: 117
@@ -1054,7 +1258,7 @@ Album: Gallery Of Suicide
 Track: 14
 Date: 1998
 Genre: Death Metal
-mtime: 1367740399
+mtime: 1368669340
 song_end
 end: Cannibal Сorpse/1998 - Gallery of Suicide
 directory: 1999 - Bloodthirst
@@ -1068,7 +1272,7 @@ Album: Bloodthirst
 Track: 1
 Date: 1999
 Genre: Death Metal
-mtime: 1367741735
+mtime: 1368669426
 song_end
 song_begin: 02.Dead Human Collection.mp3
 Time: 150
@@ -1078,7 +1282,7 @@ Album: Bloodthirst
 Track: 2
 Date: 1999
 Genre: Death Metal
-mtime: 1367741638
+mtime: 1368668691
 song_end
 song_begin: 03.Unleashing The Bloodthirsty.mp3
 Time: 231
@@ -1088,7 +1292,7 @@ Album: Bloodthirst
 Track: 3
 Date: 1999
 Genre: Death Metal
-mtime: 1367741843
+mtime: 1368672798
 song_end
 song_begin: 04.The Spine Splitter.mp3
 Time: 190
@@ -1098,7 +1302,7 @@ Album: Bloodthirst
 Track: 4
 Date: 1999
 Genre: Death Metal
-mtime: 1367741859
+mtime: 1368671386
 song_end
 song_begin: 05.Ecstacy In Decay.mp3
 Time: 193
@@ -1108,7 +1312,7 @@ Album: Bloodthirst
 Track: 5
 Date: 1999
 Genre: Death Metal
-mtime: 1367741992
+mtime: 1368672337
 song_end
 song_begin: 06.Raped By The Beast.mp3
 Time: 154
@@ -1118,7 +1322,7 @@ Album: Bloodthirst
 Track: 6
 Date: 1999
 Genre: Death Metal
-mtime: 1367741678
+mtime: 1368668259
 song_end
 song_begin: 07.Coffinfeeder.mp3
 Time: 185
@@ -1128,7 +1332,7 @@ Album: Bloodthirst
 Track: 7
 Date: 1999
 Genre: Death Metal
-mtime: 1367741840
+mtime: 1368672715
 song_end
 song_begin: 08.Hacksaw Decapitation.mp3
 Time: 253
@@ -1138,7 +1342,7 @@ Album: Bloodthirst
 Track: 8
 Date: 1999
 Genre: Death Metal
-mtime: 1367741791
+mtime: 1368671851
 song_end
 song_begin: 09.Blowtorch Slaughter.mp3
 Time: 154
@@ -1148,7 +1352,7 @@ Album: Bloodthirst
 Track: 9
 Date: 1999
 Genre: Death Metal
-mtime: 1367741816
+mtime: 1368671366
 song_end
 song_begin: 10.Sickening Metamorphosis.mp3
 Time: 204
@@ -1158,7 +1362,7 @@ Album: Bloodthirst
 Track: 10
 Date: 1999
 Genre: Death Metal
-mtime: 1367741820
+mtime: 1368672546
 song_end
 song_begin: 11.Condemned To Agony.mp3
 Time: 224
@@ -1168,7 +1372,7 @@ Album: Bloodthirst
 Track: 11
 Date: 1999
 Genre: Death Metal
-mtime: 1367741862
+mtime: 1368671947
 song_end
 end: Cannibal Сorpse/1999 - Bloodthirst
 directory: 2000 - Live Cannibalism (Live Album)
@@ -1182,7 +1386,7 @@ Album: Live Cannibalism
 Track: 1
 Date: 2000
 Genre: Death Metal
-mtime: 1367742463
+mtime: 1368672005
 song_end
 song_begin: 02.Blowtorch Slaughter.mp3
 Time: 158
@@ -1192,7 +1396,7 @@ Album: Live Cannibalism
 Track: 2
 Date: 2000
 Genre: Death Metal
-mtime: 1367741167
+mtime: 1368660807
 song_end
 song_begin: 03.Stripped, Raped and Strangled.mp3
 Time: 219
@@ -1202,7 +1406,7 @@ Album: Live Cannibalism
 Track: 3
 Date: 2000
 Genre: Death Metal
-mtime: 1367742561
+mtime: 1368672629
 song_end
 song_begin: 04.I Cum Blood.mp3
 Time: 252
@@ -1212,7 +1416,7 @@ Album: Live Cannibalism
 Track: 4
 Date: 2000
 Genre: Death Metal
-mtime: 1367742421
+mtime: 1368672016
 song_end
 song_begin: 05.Covered With Sores.mp3
 Time: 224
@@ -1222,7 +1426,7 @@ Album: Live Cannibalism
 Track: 5
 Date: 2000
 Genre: Death Metal
-mtime: 1367742745
+mtime: 1368671302
 song_end
 song_begin: 06.Fucked With a Knife.mp3
 Time: 146
@@ -1232,7 +1436,7 @@ Album: Live Cannibalism
 Track: 6
 Date: 2000
 Genre: Death Metal
-mtime: 1367741452
+mtime: 1368670459
 song_end
 song_begin: 07.Unleashing the Bloodthirsty.mp3
 Time: 253
@@ -1242,7 +1446,7 @@ Album: Live Cannibalism
 Track: 7
 Date: 2000
 Genre: Death Metal
-mtime: 1367742375
+mtime: 1368672497
 song_end
 song_begin: 08.Dead Human Collection.mp3
 Time: 160
@@ -1252,7 +1456,7 @@ Album: Live Cannibalism
 Track: 8
 Date: 2000
 Genre: Death Metal
-mtime: 1367742070
+mtime: 1368672626
 song_end
 song_begin: 09.Gallery of Suicide.mp3
 Time: 252
@@ -1262,7 +1466,7 @@ Album: Live Cannibalism
 Track: 9
 Date: 2000
 Genre: Death Metal
-mtime: 1367742429
+mtime: 1368672655
 song_end
 song_begin: 10.Meat Hook Sodomy.mp3
 Time: 311
@@ -1272,7 +1476,7 @@ Album: Live Cannibalism
 Track: 10
 Date: 2000
 Genre: Death Metal
-mtime: 1367742513
+mtime: 1368673009
 song_end
 song_begin: 11.Perverse Suffering.mp3
 Time: 261
@@ -1282,7 +1486,7 @@ Album: Live Cannibalism
 Track: 11
 Date: 2000
 Genre: Death Metal
-mtime: 1367742577
+mtime: 1368672760
 song_end
 song_begin: 12.The Spine Splitter.mp3
 Time: 212
@@ -1292,7 +1496,7 @@ Album: Live Cannibalism
 Track: 12
 Date: 2000
 Genre: Death Metal
-mtime: 1367742303
+mtime: 1368671274
 song_end
 song_begin: 13.Gutted.mp3
 Time: 206
@@ -1302,7 +1506,7 @@ Album: Live Cannibalism
 Track: 13
 Date: 2000
 Genre: Death Metal
-mtime: 1367742512
+mtime: 1368672953
 song_end
 song_begin: 14.I Will Kill You.mp3
 Time: 167
@@ -1312,7 +1516,7 @@ Album: Live Cannibalism
 Track: 14
 Date: 2000
 Genre: Death Metal
-mtime: 1367741171
+mtime: 1368669986
 song_end
 song_begin: 15.Devoured by Vermin.mp3
 Time: 219
@@ -1322,7 +1526,7 @@ Album: Live Cannibalism
 Track: 15
 Date: 2000
 Genre: Death Metal
-mtime: 1367741995
+mtime: 1368672148
 song_end
 song_begin: 16.Disposal of the Body.mp3
 Time: 221
@@ -1332,7 +1536,7 @@ Album: Live Cannibalism
 Track: 16
 Date: 2000
 Genre: Death Metal
-mtime: 1367742556
+mtime: 1368671259
 song_end
 song_begin: 17.A Skull Full of Maggots.mp3
 Time: 153
@@ -1342,7 +1546,7 @@ Album: Live Cannibalism
 Track: 17
 Date: 2000
 Genre: Death Metal
-mtime: 1367742434
+mtime: 1368670977
 song_end
 song_begin: 18.Hammer Smashed Face.mp3
 Time: 287
@@ -1352,7 +1556,7 @@ Album: Live Cannibalism
 Track: 18
 Date: 2000
 Genre: Death Metal
-mtime: 1367742299
+mtime: 1368671372
 song_end
 end: Cannibal Сorpse/2000 - Live Cannibalism (Live Album)
 directory: 2002 - Gore Obsessed
@@ -1366,7 +1570,7 @@ Album: Gore Obsessed
 Track: 1
 Date: 2002
 Genre: Death Metal
-mtime: 1367741465
+mtime: 1368670021
 song_end
 song_begin: 02.Hatchet To The Head.mp3
 Time: 214
@@ -1376,7 +1580,7 @@ Album: Gore Obsessed
 Track: 2
 Date: 2002
 Genre: Death Metal
-mtime: 1367742141
+mtime: 1368672577
 song_end
 song_begin: 03.Pit Of Zombies.mp3
 Time: 239
@@ -1386,7 +1590,7 @@ Album: Gore Obsessed
 Track: 3
 Date: 2002
 Genre: Death Metal
-mtime: 1367742508
+mtime: 1368672196
 song_end
 song_begin: 04.Dormant Bodies Bursting.mp3
 Time: 120
@@ -1396,7 +1600,7 @@ Album: Gore Obsessed
 Track: 4
 Date: 2002
 Genre: Death Metal
-mtime: 1367741281
+mtime: 1368670019
 song_end
 song_begin: 05.Compelled To Lacerate.mp3
 Time: 209
@@ -1406,7 +1610,7 @@ Album: Gore Obsessed
 Track: 5
 Date: 2002
 Genre: Death Metal
-mtime: 1367742229
+mtime: 1368671878
 song_end
 song_begin: 06.Drowning In Viscera.mp3
 Time: 217
@@ -1416,7 +1620,7 @@ Album: Gore Obsessed
 Track: 6
 Date: 2002
 Genre: Death Metal
-mtime: 1367742510
+mtime: 1368672153
 song_end
 song_begin: 07.Hung And Bled.mp3
 Time: 254
@@ -1426,7 +1630,7 @@ Album: Gore Obsessed
 Track: 7
 Date: 2002
 Genre: Death Metal
-mtime: 1367742423
+mtime: 1368672787
 song_end
 song_begin: 08.Sanded Faceless.mp3
 Time: 232
@@ -1436,7 +1640,7 @@ Album: Gore Obsessed
 Track: 8
 Date: 2002
 Genre: Death Metal
-mtime: 1367742517
+mtime: 1368672338
 song_end
 song_begin: 09.Mutation Of The Cadaver.mp3
 Time: 190
@@ -1446,7 +1650,7 @@ Album: Gore Obsessed
 Track: 9
 Date: 2002
 Genre: Death Metal
-mtime: 1367742420
+mtime: 1368672808
 song_end
 song_begin: 10.When Death Replaces Life.mp3
 Time: 299
@@ -1456,7 +1660,7 @@ Album: Gore Obsessed
 Track: 10
 Date: 2002
 Genre: Death Metal
-mtime: 1367742547
+mtime: 1368672066
 song_end
 song_begin: 11.Grotesque.mp3
 Time: 223
@@ -1466,7 +1670,7 @@ Album: Gore Obsessed
 Track: 11
 Date: 2002
 Genre: Death Metal
-mtime: 1367742423
+mtime: 1368671065
 song_end
 song_begin: 12.No Remorse (Bonus Track).mp3
 Time: 376
@@ -1476,7 +1680,7 @@ Album: Gore Obsessed
 Track: 12
 Date: 2002
 Genre: Death Metal
-mtime: 1367742296
+mtime: 1368672919
 song_end
 end: Cannibal Сorpse/2002 - Gore Obsessed
 directory: 2002 - Worm Infested (EP)
@@ -1490,7 +1694,7 @@ Album: Worm Infested
 Track: 1
 Date: 2002
 Genre: Death Metal
-mtime: 1367741399
+mtime: 1368659939
 song_end
 song_begin: 02.Worm Infested.mp3
 Time: 210
@@ -1500,7 +1704,7 @@ Album: Worm Infested
 Track: 2
 Date: 2002
 Genre: Death Metal
-mtime: 1367741601
+mtime: 1368671961
 song_end
 song_begin: 03.Demonґs Night.mp3
 Time: 256
@@ -1510,7 +1714,7 @@ Album: Worm Infested
 Track: 3
 Date: 2002
 Genre: Death Metal
-mtime: 1367740695
+mtime: 1368672479
 song_end
 song_begin: 04.The Undead Will Feast.mp3
 Time: 174
@@ -1520,7 +1724,7 @@ Album: Worm Infested
 Track: 4
 Date: 2002
 Genre: Death Metal
-mtime: 1367741604
+mtime: 1368672254
 song_end
 song_begin: 05.Confessions.mp3
 Time: 177
@@ -1530,7 +1734,7 @@ Album: Worm Infested
 Track: 5
 Date: 2002
 Genre: Death Metal
-mtime: 1367741497
+mtime: 1368668549
 song_end
 song_begin: 06.No Remorse.mp3
 Time: 375
@@ -1540,7 +1744,7 @@ Album: Worm Infested
 Track: 6
 Date: 2002
 Genre: Death Metal
-mtime: 1367741634
+mtime: 1368672569
 song_end
 end: Cannibal Сorpse/2002 - Worm Infested (EP)
 directory: 2003 - 15 Year Killing Spree (Compilation)
@@ -1697,7 +1901,7 @@ Album: 15 Year Killing Spree (Disc 1)
 Track: 15
 Date: 2003
 Genre: Death Metal
-mtime: 1367742750
+mtime: 1368659939
 song_end
 end: Cannibal Сorpse/2003 - 15 Year Killing Spree (Compilation)/CD 1
 directory: CD 2
@@ -2100,7 +2304,7 @@ Album: The Wretched Spawn
 Track: 1
 Date: 2004
 Genre: Death Metal
-mtime: 1367740359
+mtime: 1368669865
 song_end
 song_begin: 02.Psychotic Precision.mp3
 Time: 177
@@ -2110,7 +2314,7 @@ Album: The Wretched Spawn
 Track: 2
 Date: 2004
 Genre: Death Metal
-mtime: 1367740619
+mtime: 1368672366
 song_end
 song_begin: 03.Decency Defied.mp3
 Time: 180
@@ -2120,7 +2324,7 @@ Album: The Wretched Spawn
 Track: 3
 Date: 2004
 Genre: Death Metal
-mtime: 1367740523
+mtime: 1368672428
 song_end
 song_begin: 04.Frantic Disembowelment.mp3
 Time: 170
@@ -2130,7 +2334,7 @@ Album: The Wretched Spawn
 Track: 4
 Date: 2004
 Genre: Death Metal
-mtime: 1367740575
+mtime: 1368673012
 song_end
 song_begin: 05.The Wretched Spawn.mp3
 Time: 250
@@ -2140,7 +2344,7 @@ Album: The Wretched Spawn
 Track: 5
 Date: 2004
 Genre: Death Metal
-mtime: 1367740563
+mtime: 1368671456
 song_end
 song_begin: 06.Cyanide Assassin.mp3
 Time: 191
@@ -2150,7 +2354,7 @@ Album: The Wretched Spawn
 Track: 6
 Date: 2004
 Genre: Death Metal
-mtime: 1367740601
+mtime: 1368671316
 song_end
 song_begin: 07.Festering In The Crypt.mp3
 Time: 278
@@ -2160,7 +2364,7 @@ Album: The Wretched Spawn
 Track: 7
 Date: 2004
 Genre: Death Metal
-mtime: 1367740899
+mtime: 1368672606
 song_end
 song_begin: 08.Nothing Left To Mutilate.mp3
 Time: 230
@@ -2170,7 +2374,7 @@ Album: The Wretched Spawn
 Track: 8
 Date: 2004
 Genre: Death Metal
-mtime: 1367740613
+mtime: 1368671850
 song_end
 song_begin: 09.Blunt Force Castration.mp3
 Time: 207
@@ -2180,7 +2384,7 @@ Album: The Wretched Spawn
 Track: 9
 Date: 2004
 Genre: Death Metal
-mtime: 1367740634
+mtime: 1368672746
 song_end
 song_begin: 10.Rotted Body Landslide.mp3
 Time: 204
@@ -2190,7 +2394,7 @@ Album: The Wretched Spawn
 Track: 10
 Date: 2004
 Genre: Death Metal
-mtime: 1367740557
+mtime: 1368672508
 song_end
 song_begin: 11.Slain.mp3
 Time: 213
@@ -2200,7 +2404,7 @@ Album: The Wretched Spawn
 Track: 11
 Date: 2004
 Genre: Death Metal
-mtime: 1367740498
+mtime: 1368672544
 song_end
 song_begin: 12.Bent Backwards And Broken.mp3
 Time: 179
@@ -2210,7 +2414,7 @@ Album: The Wretched Spawn
 Track: 12
 Date: 2004
 Genre: Death Metal
-mtime: 1367740284
+mtime: 1368669754
 song_end
 song_begin: 13.They Deserve To Die.mp3
 Time: 284
@@ -2220,7 +2424,7 @@ Album: The Wretched Spawn
 Track: 13
 Date: 2004
 Genre: Death Metal
-mtime: 1367740927
+mtime: 1368672627
 song_end
 end: Cannibal Сorpse/2004 - The Wretched Spawn
 directory: 2006 - Kill
@@ -2234,7 +2438,7 @@ Album: Kill
 Track: 1
 Date: 2006
 Genre: Death Metal
-mtime: 1367740540
+mtime: 1368669786
 song_end
 song_begin: 02.Make them suffer.mp3
 Time: 171
@@ -2244,7 +2448,7 @@ Album: Kill
 Track: 2
 Date: 2006
 Genre: Death Metal
-mtime: 1367740919
+mtime: 1368672408
 song_end
 song_begin: 03.Murder worship.mp3
 Time: 237
@@ -2254,7 +2458,7 @@ Album: Kill
 Track: 3
 Date: 2006
 Genre: Death Metal
-mtime: 1367740543
+mtime: 1368673011
 song_end
 song_begin: 04.Necrosadistic Warning.mp3
 Time: 208
@@ -2264,7 +2468,7 @@ Album: Kill
 Track: 4
 Date: 2006
 Genre: Death Metal
-mtime: 1367740627
+mtime: 1368671994
 song_end
 song_begin: 05.Five nails through the neck.mp3
 Time: 226
@@ -2274,7 +2478,7 @@ Album: Kill
 Track: 5
 Date: 2006
 Genre: Death Metal
-mtime: 1367742135
+mtime: 1368671878
 song_end
 song_begin: 06.Purification by fire.mp3
 Time: 177
@@ -2284,7 +2488,7 @@ Album: Kill
 Track: 6
 Date: 2006
 Genre: Death Metal
-mtime: 1367740567
+mtime: 1368672539
 song_end
 song_begin: 07.Death Walking terror.mp3
 Time: 212
@@ -2294,7 +2498,7 @@ Album: Kill
 Track: 7
 Date: 2006
 Genre: Death Metal
-mtime: 1367742015
+mtime: 1368671639
 song_end
 song_begin: 08.Barbaric Bludgeonings.mp3
 Time: 223
@@ -2304,7 +2508,7 @@ Album: Kill
 Track: 8
 Date: 2006
 Genre: Death Metal
-mtime: 1367741849
+mtime: 1368672444
 song_end
 song_begin: 09.The discipline of revenge.mp3
 Time: 219
@@ -2314,7 +2518,7 @@ Album: Kill
 Track: 9
 Date: 2006
 Genre: Death Metal
-mtime: 1367740672
+mtime: 1368672198
 song_end
 song_begin: 10.Brain removal device.mp3
 Time: 195
@@ -2324,7 +2528,7 @@ Album: Kill
 Track: 10
 Date: 2006
 Genre: Death Metal
-mtime: 1367741026
+mtime: 1368672360
 song_end
 song_begin: 11.Maniacal.mp3
 Time: 133
@@ -2334,7 +2538,7 @@ Album: Kill
 Track: 11
 Date: 2006
 Genre: Death Metal
-mtime: 1367740639
+mtime: 1368669781
 song_end
 song_begin: 12.Submerged in boiling flesh.mp3
 Time: 172
@@ -2344,7 +2548,7 @@ Album: Kill
 Track: 12
 Date: 2006
 Genre: Death Metal
-mtime: 1367740312
+mtime: 1368669467
 song_end
 song_begin: 13.Infinite Misery.mp3
 Time: 241
@@ -2354,7 +2558,7 @@ Album: Kill
 Track: 13
 Date: 2006
 Genre: Death Metal
-mtime: 1367740477
+mtime: 1368671364
 song_end
 end: Cannibal Сorpse/2006 - Kill
 directory: 2009 - Evisceration Plague
@@ -2368,7 +2572,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 1/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740524
+mtime: 1368672164
 song_end
 song_begin: 02.Scalding Hail.mp3
 Time: 107
@@ -2378,7 +2582,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 2/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740298
+mtime: 1368660573
 song_end
 song_begin: 03.To Decompose.mp3
 Time: 184
@@ -2388,7 +2592,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 3/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740923
+mtime: 1368671894
 song_end
 song_begin: 04.A Cauldron Of Hate.mp3
 Time: 299
@@ -2398,7 +2602,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 4/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740590
+mtime: 1368672131
 song_end
 song_begin: 05.Beheading And Burning.mp3
 Time: 136
@@ -2408,7 +2612,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 5/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367741696
+mtime: 1368672372
 song_end
 song_begin: 06.Evidence In The Furnace.mp3
 Time: 169
@@ -2418,7 +2622,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 6/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740838
+mtime: 1368672476
 song_end
 song_begin: 07.Carnivorous Swarm.mp3
 Time: 217
@@ -2428,7 +2632,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 7/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740926
+mtime: 1368673010
 song_end
 song_begin: 08.Evisceration Plague.mp3
 Time: 271
@@ -2438,7 +2642,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 8/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367741385
+mtime: 1368671585
 song_end
 song_begin: 09.Shatter Their Bones.mp3
 Time: 215
@@ -2448,7 +2652,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 9/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740732
+mtime: 1368672247
 song_end
 song_begin: 10.Carrion Sculpted Entity.mp3
 Time: 153
@@ -2458,7 +2662,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 10/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740391
+mtime: 1368669729
 song_end
 song_begin: 11.Unnatural.mp3
 Time: 143
@@ -2468,7 +2672,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 11/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740391
+mtime: 1368669674
 song_end
 song_begin: 12.Skewered From Ear To Eye.mp3
 Time: 230
@@ -2478,7 +2682,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 12/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367741756
+mtime: 1368671343
 song_end
 song_begin: 13.Skull Fragment Armor (bonus track).mp3
 Time: 130
@@ -2488,7 +2692,7 @@ Album: Evisceration Plague (special edition bonus track)
 Track: 13/13
 Date: 2009
 Genre: Death Metal
-mtime: 1367740298
+mtime: 1368668276
 song_end
 end: Cannibal Сorpse/2009 - Evisceration Plague
 directory: Remastered (2002 - 2006)
@@ -2605,7 +2809,7 @@ Album: Eaten Back to Life
 Track: 11
 Date: 2002
 Genre: Death Metal
-mtime: 1367742513
+mtime: 1368659737
 song_end
 song_begin: 12.Born in a Casket (Live).mp3
 Time: 215
@@ -2837,7 +3041,7 @@ Album: The Bleeding
 Track: 2
 Date: 2006
 Genre: Death Metal
-mtime: 1367742259
+mtime: 1368660416
 song_end
 song_begin: 03.Stripped, raped and strangled.mp3
 Time: 207
@@ -3006,7 +3210,7 @@ Album: Blunt Force Trauma
 Track: 11
 Date: 2011
 Genre: Thrash Metal
-mtime: 1346196558
+mtime: 1368659718
 song_end
 end: Cavalera Conspiracy/Blunt Force Trauma
 end: Cavalera Conspiracy
@@ -3573,7 +3777,7 @@ song_end
 end: Cultura Profética/M.O.T.A
 end: Cultura Profética
 directory: Daft Punk
-mtime: 1367739160
+mtime: 1368476021
 begin: Daft Punk
 directory: (1997) Daft Punk - Homework
 mtime: 1367739137
@@ -4303,7 +4507,7 @@ Album: Random Access Memories
 Track: 2/13
 Date: 2013
 Genre: Other
-mtime: 1368476262
+mtime: 1368493815
 song_end
 song_begin: 03 - Giorgio by moroder.mp3
 Time: 542
@@ -4314,7 +4518,7 @@ Album: Random Access Memories
 Track: 3/13
 Date: 2013
 Genre: Other
-mtime: 1368476262
+mtime: 1368493838
 song_end
 song_begin: 04 - Within.mp3
 Time: 225
@@ -4347,7 +4551,7 @@ Album: Random Access Memories
 Track: 6/13
 Date: 2013
 Genre: Other
-mtime: 1368476262
+mtime: 1368493837
 song_end
 song_begin: 07 - Touch.mp3
 Time: 497
@@ -5278,7 +5482,7 @@ Track: 07
 Date: 2011
 Genre: Alternative Rock
 Performer: © ¤ @
-mtime: 1367433291
+mtime: 1368882859
 song_end
 song_begin: 08 A Matter Of Time.mp3
 Time: 276
@@ -5414,7 +5618,7 @@ Track: 7
 Date: 2005
 Genre: Other
 Composer: Foo Fighters
-mtime: 1367695162
+mtime: 1368884017
 song_end
 song_begin: 08 Resolve.mp3
 Time: 288
@@ -6302,7 +6506,7 @@ Title: Broken
 Album: Plastic Beach
 Track: 11
 Date: 2010
-mtime: 1267433158
+mtime: 1369273535
 song_end
 song_begin: Gorillaz - Sweepstakes.mp3
 Time: 321
@@ -6342,7 +6546,7 @@ Title: Cloud of Unknowing
 Album: Plastic Beach
 Track: 15
 Date: 2010
-mtime: 1267433204
+mtime: 1368884665
 song_end
 song_begin: Gorillaz - Pirate Jet.mp3
 Time: 151
@@ -6392,7 +6596,7 @@ Date: 2005
 Genre: Electronic
 Composer: Damon Albarn/Gorillaz
 Disc: 1/1
-mtime: 1225653850
+mtime: 1368884141
 song_end
 song_begin: 04 O Green World.mp3
 Time: 274
@@ -6428,7 +6632,7 @@ Date: 2005
 Genre: Electronic
 Composer: Damon Albarn/Gorillaz
 Disc: 1/1
-mtime: 1225653850
+mtime: 1369272835
 song_end
 song_begin: 07 El Manana.mp3
 Time: 232
@@ -6488,7 +6692,7 @@ Date: 2005
 Genre: Electronic
 Composer: Damon Albarn/Gorillaz
 Disc: 1/1
-mtime: 1225653850
+mtime: 1368750383
 song_end
 song_begin: 12 Dare.mp3
 Time: 246
@@ -6536,7 +6740,7 @@ Date: 2005
 Genre: Electronic
 Composer: Damon Albarn/Gorillaz
 Disc: 1/1
-mtime: 1225653850
+mtime: 1369273267
 song_end
 end: Gorillaz/Demon Days
 directory: Gorillaz-Gorillaz(Darkside_RG)
@@ -6570,7 +6774,7 @@ Album: Gorillaz
 Track: 3
 Date: 2001
 Genre: Rock
-mtime: 1206389494
+mtime: 1369274020
 song_end
 song_begin: 04 - New Genious (Brother).mp3
 Time: 240
@@ -6590,7 +6794,7 @@ Album: Gorillaz
 Track: 5
 Date: 2001
 Genre: Rock
-mtime: 1206387532
+mtime: 1369274214
 song_end
 song_begin: 06 - Man Research (Clapper).mp3
 Time: 273
@@ -6670,7 +6874,7 @@ Album: Gorillaz
 Track: 13
 Date: 2001
 Genre: Rock
-mtime: 1206389492
+mtime: 1369273052
 song_end
 song_begin: 14 - Slow Country.mp3
 Time: 218
@@ -7159,7 +7363,7 @@ Album: Nos sobran los motivos
 Track: 9
 Date: 2000
 Genre: Other
-mtime: 1367435294
+mtime: 1369249327
 song_end
 song_begin: 10 - Y sin embargo.mp3
 Time: 360
@@ -7243,7 +7447,7 @@ Title: El Caso De La Rubia Platino
 Album: 19 Dias Y 500 Noches
 Track: 7
 Genre: default
-mtime: 1367277088
+mtime: 1368890534
 song_end
 song_begin: Joaquin Sabina - Donde Habita El Olvido.mp3
 Time: 211
@@ -7313,7 +7517,7 @@ Title: Noches De Boda
 Album: 19 Dias Y 500 Noches
 Track: 14
 Genre: default
-mtime: 1367277088
+mtime: 1368753077
 song_end
 end: Joaquin Sabina - Discografia/19 Dias Y 500 Noches
 directory: 1978 - INVENTARIO
@@ -11144,7 +11348,7 @@ Title: Cold Turkey
 Album: Shaved Fish
 Track: 2/11
 Date: 1975
-mtime: 1367433563
+mtime: 1368754113
 song_end
 song_begin: [John Lennon] (1975 Shaved Fish - 03) Instant Karma!.mp3
 Time: 203
@@ -12297,7 +12501,7 @@ Title: Loneliness
 Album: 11 Dreams
 Track: 11
 Date: 2004
-mtime: 1292577006
+mtime: 1369162519
 song_end
 end: Mercenary/11 Dreams
 directory: Everblack
@@ -12321,7 +12525,7 @@ Album: Everblack
 Track: 3
 Date: 2002
 Genre: Melodic Death Metal
-mtime: 1276801960
+mtime: 1368659137
 song_end
 song_begin: 04. Screaming From The Heavens.mp3
 Time: 416
@@ -12366,7 +12570,7 @@ Title: The Follower
 Album: Metamorphosis
 Track: 02
 Genre: Unbekanntes Genre
-mtime: 1315033374
+mtime: 1369161927
 song_end
 song_begin: 04. Memoria.mp3
 Time: 343
@@ -12637,7 +12841,7 @@ Album: Be Here Now
 Track: 2
 Date: 1997
 Genre: Rock
-mtime: 1357290583
+mtime: 1369188888
 song_end
 song_begin: 03  Oasis - Magic Pie.mp3
 Time: 440
@@ -12782,7 +12986,7 @@ Album: Definitely Maybe
 Track: 4
 Date: 1994
 Genre: Rock
-mtime: 1357290631
+mtime: 1369020495
 song_end
 song_begin: 05  Oasis - Columbia.mp3
 Time: 377
@@ -12802,7 +13006,7 @@ Album: Definitely Maybe
 Track: 6
 Date: 1994
 Genre: Rock
-mtime: 1365918168
+mtime: 1369020055
 song_end
 song_begin: 07  Oasis - Bring It On Down.mp3
 Time: 258
@@ -12832,7 +13036,7 @@ Album: Definitely Maybe
 Track: 9
 Date: 1994
 Genre: Rock
-mtime: 1357290640
+mtime: 1369020339
 song_end
 song_begin: 10  Oasis - Slide Away.mp3
 Time: 393
@@ -13874,17 +14078,17 @@ Date: 2006
 Genre: Rock
 mtime: 1357290369
 song_end
-playlist_begin: 000-oasis-stop_the_clocks-(deluxe_edition)-3cd-2006.m3u
-mtime: 1357288183
-playlist_end
-playlist_begin: 100-oasis-stop_the_clocks-(deluxe_edition)-cd1-2006.m3u
-mtime: 1357288183
+playlist_begin: 300-oasis-stop_the_clocks-(deluxe_edition)-cd3-2006.m3u
+mtime: 1357287907
 playlist_end
 playlist_begin: 200-oasis-stop_the_clocks-(deluxe_edition)-cd2-2006.m3u
 mtime: 1357287901
 playlist_end
-playlist_begin: 300-oasis-stop_the_clocks-(deluxe_edition)-cd3-2006.m3u
-mtime: 1357287907
+playlist_begin: 100-oasis-stop_the_clocks-(deluxe_edition)-cd1-2006.m3u
+mtime: 1357288183
+playlist_end
+playlist_begin: 000-oasis-stop_the_clocks-(deluxe_edition)-3cd-2006.m3u
+mtime: 1357288183
 playlist_end
 end: Oasis/Oasis-Stop_The_Clocks-(Deluxe_Edition)-3CD-2006-EON
 end: Oasis
@@ -17747,7 +17951,7 @@ Track: 12
 Date: 2011
 Genre: Progressive Rock
 Disc: 1/1
-mtime: 1363642867
+mtime: 1368746278
 song_end
 song_begin: 13. The Fletcher Memorial Home.mp3
 Time: 251
@@ -17799,7 +18003,7 @@ playlist_end
 end: Pink Floyd - Discography 2011 Remasters [Bubanee]/2011 - A Foot In The Door - The Best Of Pink Floyd
 end: Pink Floyd - Discography 2011 Remasters [Bubanee]
 directory: Páez
-mtime: 1357336180
+mtime: 1368617991
 begin: Páez
 directory: 1984 - Del 63´
 mtime: 1357361664
@@ -18288,7 +18492,7 @@ Title: Ciudad de pobres corazones
 Album: Ciudad de Pobres Corazones
 Track: 7/11
 Genre: RockPop
-mtime: 1364676604
+mtime: 1369164749
 song_end
 song_begin: 08 - Ambar violeta.mp3
 Time: 146
@@ -19040,7 +19244,7 @@ Title: El amor después del amor
 Album: El amor después del amor
 Track: 1
 Genre: RockPop
-mtime: 1363627397
+mtime: 1368589128
 song_end
 song_begin: 02 - Dos días en la vida.mp3
 Time: 211
@@ -19060,7 +19264,7 @@ Title: La verónica
 Album: El amor después del amor
 Track: 3
 Genre: RockPop
-mtime: 1363627397
+mtime: 1368589654
 song_end
 song_begin: 04 - Tráfico por Katmandú.mp3
 Time: 260
@@ -19070,7 +19274,7 @@ Title: Tráfico por Katmandú
 Album: El amor después del amor
 Track: 4
 Genre: RockPop
-mtime: 1363627397
+mtime: 1368590004
 song_end
 song_begin: 05 - Pétalo de sal.mp3
 Time: 161
@@ -19080,7 +19284,7 @@ Title: Pétalo de sal
 Album: El amor después del amor
 Track: 5
 Genre: RockPop
-mtime: 1363627397
+mtime: 1368590264
 song_end
 song_begin: 06 - Sasha, Sisi y el círculo de Baba.mp3
 Time: 275
@@ -19100,7 +19304,7 @@ Title: Un vestido y un amor
 Album: El amor después del amor
 Track: 7
 Genre: RockPop
-mtime: 1363627398
+mtime: 1368590705
 song_end
 song_begin: 08 - Las tumbas de la gloria.mp3
 Time: 275
@@ -19160,7 +19364,7 @@ Title: Brillante sobre el mic
 Album: El amor después del amor
 Track: 13
 Genre: RockPop
-mtime: 1363627397
+mtime: 1368588480
 song_end
 song_begin: 14 - A rodar mi vida.mp3
 Time: 282
@@ -19477,12 +19681,12 @@ song_begin: 01 - La Vida Moderna.mp3
 Time: 154
 Artist: Fito Páez
 AlbumArtist: Fito Páez
-Title: La vida moder
+Title: La vida moderna
 Album: Enemigos Íntimos
 Track: 1/14
 Date: 1998
 Genre: Unknown
-mtime: 1364676157
+mtime: 1369275196
 song_end
 song_begin: 02 - Lázaro.mp3
 Time: 134
@@ -19548,7 +19752,7 @@ Album: Enemigos Íntimos
 Track: 7/14
 Date: 1998
 Genre: Unknown
-mtime: 1364676157
+mtime: 1369163506
 song_end
 song_begin: 08 - Yo me Bajo en Atocha.mp3
 Time: 297
@@ -20435,7 +20639,7 @@ Album: Mi Vida Con Ellas 1
 Track: 4/9
 Date: 2004
 Genre: Desconocido
-mtime: 1364829676
+mtime: 1369243678
 song_end
 song_begin: 05 - Al lado del camino.mp3
 Time: 303
@@ -20500,7 +20704,7 @@ Title: Pista de audio 02
 Album: Ningún título
 Track: 2
 Genre: Desconocido
-mtime: 1367695833
+mtime: 1369274610
 song_end
 end: Páez/2004 - Mi Vida con Ellas/CD 1
 directory: CD 2
@@ -20570,7 +20774,7 @@ Album: Mi Vida Con Ellas 2
 Track: 6/9
 Date: 2004
 Genre: Desconocido
-mtime: 1364829743
+mtime: 1368859013
 song_end
 song_begin: 07 - Las cosas tienen movimiento.mp3
 Time: 311
@@ -20581,18 +20785,18 @@ Album: Mi Vida Con Ellas 2
 Track: 7/9
 Date: 2004
 Genre: Desconocido
-mtime: 1364829743
+mtime: 1368859023
 song_end
 song_begin: 08 - Polaroid de ordinaria locura.mp3
 Time: 214
 Artist: Fito Páez
 AlbumArtist: Fito Páez
-Title: Polaroid de ordinaria locur
+Title: Polaroid de ordinaria locura
 Album: Mi Vida Con Ellas 2
 Track: 8/9
 Date: 2004
 Genre: Desconocido
-mtime: 1364829743
+mtime: 1368657182
 song_end
 song_begin: 09 - Mariposa tecknicolor.mp3
 Time: 251
@@ -20893,7 +21097,7 @@ Album: Rodolfo
 Track: 6/12
 Date: 2007
 Genre: Other
-mtime: 1363627398
+mtime: 1368580585
 song_end
 song_begin: 07 - Siempre te Voy a Amar.mp3
 Time: 141
@@ -20962,6 +21166,130 @@ Genre: Other
 mtime: 1364855138
 song_end
 end: Páez/2007 - Rodolfo
+directory: 2010 - Confia
+mtime: 1269137209
+begin: Páez/2010 - Confia
+song_begin: 01- CONFIA.mp3
+Time: 306
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Confiá
+Album: Confia
+Track: 1/12
+Date: 2010
+mtime: 1368618178
+song_end
+song_begin: 02- TIEMPO AL TIEMPO.mp3
+Time: 149
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Tiempo Al Tiempo
+Album: Confia
+Track: 2/12
+Date: 2010
+mtime: 1368618242
+song_end
+song_begin: 03- M&M.mp3
+Time: 260
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: M&M
+Album: Confia
+Track: 3/12
+Date: 2010
+mtime: 1368618150
+song_end
+song_begin: 04- LA NAVE ESPACIAL.mp3
+Time: 221
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: La Nave Espacial
+Album: Confia
+Track: 4/12
+Date: 2010
+mtime: 1368618150
+song_end
+song_begin: 05- LONDON TOWN.mp3
+Time: 245
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: London Town
+Album: Confia
+Track: 5/12
+Date: 2010
+mtime: 1368618155
+song_end
+song_begin: 06- LIMBO MAMBO.mp3
+Time: 125
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Limbo Mambo
+Album: Confia
+Track: 6/12
+Date: 2010
+mtime: 1368618155
+song_end
+song_begin: 07- LA LEY DE LA VIDA.mp3
+Time: 275
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: La Ley De La Vida
+Album: Confia
+Track: 7/12
+Date: 2010
+mtime: 1368618156
+song_end
+song_begin: 08- EL MUNDO DE HOY.mp3
+Time: 239
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: El Mundo De Hoy
+Album: Confia
+Track: 8/12
+Date: 2010
+mtime: 1368618156
+song_end
+song_begin: 09- SALIENDO DE TU PRISION.mp3
+Time: 171
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Saliendo De Tu Prision
+Album: Confia
+Track: 9/12
+Date: 2010
+mtime: 1368618151
+song_end
+song_begin: 10- EN EL BAÑO DE UN HOTEL.mp3
+Time: 175
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: En El Baño De Un Hotel
+Album: Confia
+Track: 10/12
+Date: 2010
+mtime: 1368618163
+song_end
+song_begin: 11- FUERA DE CONTROL.mp3
+Time: 269
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Fuera De Control
+Album: Confia
+Track: 11/12
+Date: 2010
+mtime: 1368618163
+song_end
+song_begin: 12- DESALUZ.mp3
+Time: 265
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Desaluz
+Album: Confia
+Track: 12/12
+Date: 2010
+mtime: 1368618164
+song_end
+end: Páez/2010 - Confia
 directory: Curiosidades
 mtime: 1357370678
 begin: Páez/Curiosidades
@@ -20987,8 +21315,10 @@ mtime: 1363652082
 song_end
 song_begin: Joaquin Sabina, Fito Paez y Ariel Rot-Buenos Aires.mp3
 Time: 266
-Title: Fito Paez,Ariel Rot, Sabina
-mtime: 1363539686
+Artist: Fito Páez
+AlbumArtist: Fito Páez
+Title: Buenos Aires
+mtime: 1369351638
 song_end
 song_begin: Mercedes Sosa & Fito Paez-Parte del aire.mp3
 Time: 217
@@ -21016,7 +21346,7 @@ Artist: Fito Páez
 AlbumArtist: Fito Páez
 Title: la posibilidad suprema
 Genre: genre
-mtime: 1363627403
+mtime: 1369243341
 song_end
 song_begin: las aguas del mar.mp3
 Time: 138
@@ -21024,7 +21354,7 @@ Artist: Fito Páez
 AlbumArtist: Fito Páez
 Title: las aguas del mar
 Genre: genre
-mtime: 1363627403
+mtime: 1369351587
 song_end
 song_begin: se fue, se fue.mp3
 Time: 163
@@ -23190,7 +23520,7 @@ Track: 1/13
 Date: 1993
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284190
+mtime: 1368885450
 song_end
 song_begin: 02 Radiohead - Creep.mp3
 Time: 236
@@ -23201,7 +23531,7 @@ Track: 2/13
 Date: 1993
 Genre: Alternative
 Disc: 1/1
-mtime: 1364697885
+mtime: 1368885438
 song_end
 song_begin: 03 Radiohead - How Do You¿.mp3
 Time: 132
@@ -23223,7 +23553,7 @@ Track: 4/13
 Date: 1993
 Genre: Alternative
 Disc: 1/1
-mtime: 1367290196
+mtime: 1368885438
 song_end
 song_begin: 05 Radiohead - Thinking About You.mp3
 Time: 162
@@ -23473,7 +23803,7 @@ Track: 1/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284788
+mtime: 1368885469
 song_end
 song_begin: 02 Radiohead - Paranoid Android.mp3
 Time: 384
@@ -23484,7 +23814,7 @@ Track: 2/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284861
+mtime: 1368885467
 song_end
 song_begin: 03 Radiohead - Subterranean Homesick Alien.mp3
 Time: 268
@@ -23495,7 +23825,7 @@ Track: 3/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284844
+mtime: 1368885465
 song_end
 song_begin: 04 Radiohead - Exit Music (For a Film).mp3
 Time: 265
@@ -23506,7 +23836,7 @@ Track: 4/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284864
+mtime: 1368885464
 song_end
 song_begin: 05 Radiohead - Let Down.mp3
 Time: 299
@@ -23517,7 +23847,7 @@ Track: 5/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284865
+mtime: 1368885466
 song_end
 song_begin: 06 Radiohead - Karma Police.mp3
 Time: 262
@@ -23539,7 +23869,7 @@ Track: 7/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284840
+mtime: 1368885470
 song_end
 song_begin: 08 Radiohead - Electioneering.mp3
 Time: 231
@@ -23550,7 +23880,7 @@ Track: 8/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284825
+mtime: 1368885469
 song_end
 song_begin: 09 Radiohead - Climbing Up the Walls.mp3
 Time: 285
@@ -23561,7 +23891,7 @@ Track: 9/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284831
+mtime: 1368885468
 song_end
 song_begin: 10 Radiohead - No Surprises.mp3
 Time: 229
@@ -23572,7 +23902,7 @@ Track: 10/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284874
+mtime: 1368885467
 song_end
 song_begin: 11 Radiohead - Lucky.mp3
 Time: 260
@@ -23583,7 +23913,7 @@ Track: 11/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284825
+mtime: 1368885465
 song_end
 song_begin: 12 Radiohead - The Tourist.mp3
 Time: 325
@@ -23594,7 +23924,7 @@ Track: 12/12
 Date: 1997
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284743
+mtime: 1368885464
 song_end
 end: Radiohead Discography @ 320Kbps/(1997) OK Computer
 directory: (2000) Kid A
@@ -23609,7 +23939,7 @@ Track: 1/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284588
+mtime: 1368885597
 song_end
 song_begin: 02 Radiohead - Kid A.mp3
 Time: 285
@@ -23620,7 +23950,7 @@ Track: 2/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284684
+mtime: 1368885598
 song_end
 song_begin: 03 Radiohead - The National Anthem.mp3
 Time: 352
@@ -23631,7 +23961,7 @@ Track: 3/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284866
+mtime: 1368885595
 song_end
 song_begin: 04 Radiohead - How to Disappear Completely (And Never Be Found Again).mp3
 Time: 356
@@ -23653,7 +23983,7 @@ Track: 5/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284625
+mtime: 1368885594
 song_end
 song_begin: 06 Radiohead - Optimistic.mp3
 Time: 316
@@ -23664,7 +23994,7 @@ Track: 6/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284764
+mtime: 1368885595
 song_end
 song_begin: 07 Radiohead - In Limbo.mp3
 Time: 211
@@ -23675,7 +24005,7 @@ Track: 7/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284766
+mtime: 1368885597
 song_end
 song_begin: 08 Radiohead - Idioteque.mp3
 Time: 309
@@ -23686,7 +24016,7 @@ Track: 8/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284792
+mtime: 1368885598
 song_end
 song_begin: 09 Radiohead - Morning Bell.mp3
 Time: 276
@@ -23697,7 +24027,7 @@ Track: 9/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284868
+mtime: 1368885596
 song_end
 song_begin: 10 Radiohead - Motion Picture Soundtrack.mp3
 Time: 422
@@ -23708,7 +24038,7 @@ Track: 10/10
 Date: 2000
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284840
+mtime: 1368885597
 song_end
 end: Radiohead Discography @ 320Kbps/(2000) Kid A
 directory: (2001) Amnesiac
@@ -23734,7 +24064,7 @@ Track: 2/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284876
+mtime: 1368885602
 song_end
 song_begin: 03 Radiohead - Pulk-Pull Revolving Doors.mp3
 Time: 247
@@ -23745,7 +24075,7 @@ Track: 3/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284873
+mtime: 1368885603
 song_end
 song_begin: 04 Radiohead - You and Whose Army¿.mp3
 Time: 191
@@ -23756,7 +24086,7 @@ Track: 4/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284880
+mtime: 1368885603
 song_end
 song_begin: 05 Radiohead - I Might Be Wrong.mp3
 Time: 294
@@ -23767,7 +24097,7 @@ Track: 5/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284826
+mtime: 1368885599
 song_end
 song_begin: 06 Radiohead - Knives Out.mp3
 Time: 255
@@ -23778,7 +24108,7 @@ Track: 6/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284868
+mtime: 1368885602
 song_end
 song_begin: 07 Radiohead - Morning Bell (Amnesiac).mp3
 Time: 194
@@ -23800,7 +24130,7 @@ Track: 8/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284873
+mtime: 1368885601
 song_end
 song_begin: 09 Radiohead - Hunting Bears.mp3
 Time: 121
@@ -23811,7 +24141,7 @@ Track: 9/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284777
+mtime: 1368885602
 song_end
 song_begin: 10 Radiohead - Like Spinning Plates.mp3
 Time: 238
@@ -23822,7 +24152,7 @@ Track: 10/11
 Date: 2001
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284811
+mtime: 1368885604
 song_end
 song_begin: 11 Radiohead - Life In a Glass House.mp3
 Time: 275
@@ -23859,7 +24189,7 @@ Track: 2/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284862
+mtime: 1368885509
 song_end
 song_begin: 03 Radiohead - Sail to the Moon. (Brush the Cobwebs Out of the Sky.).mp3
 Time: 258
@@ -23870,7 +24200,7 @@ Track: 3/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284722
+mtime: 1368885510
 song_end
 song_begin: 04 Radiohead - Backdrifts. (Honeymoon is Over.).mp3
 Time: 323
@@ -23881,7 +24211,7 @@ Track: 4/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284871
+mtime: 1368885510
 song_end
 song_begin: 05 Radiohead - Go to Sleep. (Little Man Being Erased.).mp3
 Time: 202
@@ -23892,7 +24222,7 @@ Track: 5/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284647
+mtime: 1368885506
 song_end
 song_begin: 06 Radiohead - Where I End and You Begin. (The Sky is Falling in.).mp3
 Time: 269
@@ -23903,7 +24233,7 @@ Track: 6/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284872
+mtime: 1368885505
 song_end
 song_begin: 07 Radiohead - We Suck Young Blood. (Your Time is up.).mp3
 Time: 297
@@ -23914,7 +24244,7 @@ Track: 7/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284851
+mtime: 1368885503
 song_end
 song_begin: 08 Radiohead - The Gloaming. (Softly Open Our Mouths in the Cold.).mp3
 Time: 212
@@ -23925,7 +24255,7 @@ Track: 8/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284668
+mtime: 1368885501
 song_end
 song_begin: 09 Radiohead - There There. (The Boney King of Nowhere.).mp3
 Time: 324
@@ -23936,7 +24266,7 @@ Track: 9/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284862
+mtime: 1368885500
 song_end
 song_begin: 10 Radiohead - I Will. (No Man's Land.).mp3
 Time: 120
@@ -23947,7 +24277,7 @@ Track: 10/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284842
+mtime: 1368885498
 song_end
 song_begin: 11 Radiohead - A Punchup at a Wedding. (No no no no no no no no.).mp3
 Time: 297
@@ -23958,7 +24288,7 @@ Track: 11/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284861
+mtime: 1368885502
 song_end
 song_begin: 12 Radiohead - Myxomatosis. (Judge, Jury & Executioner.).mp3
 Time: 233
@@ -23969,7 +24299,7 @@ Track: 12/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284849
+mtime: 1368885497
 song_end
 song_begin: 13 Radiohead - Scatterbrain. (As Dead as Leaves.).mp3
 Time: 202
@@ -23980,7 +24310,7 @@ Track: 13/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284865
+mtime: 1368885497
 song_end
 song_begin: 14 Radiohead - A Wolf at the Door. (It Girl. Rag Doll.).mp3
 Time: 201
@@ -23991,7 +24321,7 @@ Track: 14/14
 Date: 2003
 Genre: Alternative
 Disc: 1/1
-mtime: 1357284810
+mtime: 1368885506
 song_end
 end: Radiohead Discography @ 320Kbps/(2003) Hail to the Thief
 directory: (2007) In Rainbows
@@ -24031,7 +24361,7 @@ Track: 3/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284852
+mtime: 1368885568
 song_end
 song_begin: 04 Radiohead - Weird Fishes-Arpeggi.mp3
 Time: 318
@@ -24042,7 +24372,7 @@ Track: 4/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284867
+mtime: 1368885570
 song_end
 song_begin: 05 Radiohead - All I Need.mp3
 Time: 229
@@ -24053,7 +24383,7 @@ Track: 5/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284872
+mtime: 1368885570
 song_end
 song_begin: 06 Radiohead - Faust Arp.mp3
 Time: 130
@@ -24064,7 +24394,7 @@ Track: 6/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284816
+mtime: 1368885586
 song_end
 song_begin: 07 Radiohead - Reckoner.mp3
 Time: 290
@@ -24075,7 +24405,7 @@ Track: 7/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284867
+mtime: 1368885586
 song_end
 song_begin: 08 Radiohead - House Of Cards.mp3
 Time: 328
@@ -24086,7 +24416,7 @@ Track: 8/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284886
+mtime: 1368885568
 song_end
 song_begin: 09 Radiohead - Jigsaw Falling Into Place.mp3
 Time: 249
@@ -24097,7 +24427,7 @@ Track: 9/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284864
+mtime: 1368885569
 song_end
 song_begin: 10 Radiohead - Videotape.mp3
 Time: 282
@@ -24108,7 +24438,7 @@ Track: 10/10
 Date: 2007
 Genre: Alternative
 Disc: 1/2
-mtime: 1357284830
+mtime: 1368885569
 song_end
 end: Radiohead Discography @ 320Kbps/(2007) In Rainbows/CD1
 directory: CD2
@@ -24134,7 +24464,7 @@ Track: 2/8
 Date: 2007
 Genre: Alternative
 Disc: 2/2
-mtime: 1357284877
+mtime: 1368885567
 song_end
 song_begin: 03 Radiohead - Go Slowly.mp3
 Time: 228
@@ -24145,7 +24475,7 @@ Track: 3/8
 Date: 2007
 Genre: Alternative
 Disc: 2/2
-mtime: 1357284849
+mtime: 1368885541
 song_end
 song_begin: 04 Radiohead - Mk2.mp3
 Time: 53
@@ -24178,7 +24508,7 @@ Track: 6/8
 Date: 2007
 Genre: Alternative
 Disc: 2/2
-mtime: 1357284831
+mtime: 1368885567
 song_end
 song_begin: 07 Radiohead - Bangers and Mash.mp3
 Time: 200
@@ -24200,7 +24530,7 @@ Track: 8/8
 Date: 2007
 Genre: Alternative
 Disc: 2/2
-mtime: 1357284826
+mtime: 1368885511
 song_end
 end: Radiohead Discography @ 320Kbps/(2007) In Rainbows/CD2
 end: Radiohead Discography @ 320Kbps/(2007) In Rainbows
@@ -24269,7 +24599,7 @@ Artist: Radiohead
 Album: The King of Limbs
 Title: Separator
 Track: 8
-mtime: 1367433473
+mtime: 1368885490
 song_end
 end: Radiohead Discography @ 320Kbps/The King of Limbs
 end: Radiohead Discography @ 320Kbps
@@ -27440,7 +27770,7 @@ Album: Soda Stereo
 Track: 7/11
 Date: 1984
 Genre: Other
-mtime: 1363627401
+mtime: 1369345646
 song_end
 song_begin: 08-Un misil en mi placard.mp3
 Time: 185
@@ -27462,7 +27792,7 @@ Album: Soda Stereo
 Track: 9/11
 Date: 1984
 Genre: Other
-mtime: 1363627401
+mtime: 1368585652
 song_end
 song_begin: 10-Afrodisíacos.mp3
 Time: 260
@@ -27590,7 +27920,7 @@ Album: Nada Personal
 Track: 9/10
 Date: 1985
 Genre: Other
-mtime: 1367503076
+mtime: 1369345978
 song_end
 song_begin: 10-Ecos.mp3
 Time: 298
@@ -27648,7 +27978,7 @@ Title: No existes
 Album: Signos
 Track: 4/8
 Genre: Other
-mtime: 1363627401
+mtime: 1369186695
 song_end
 song_begin: 05-Persiana americana.mp3
 Time: 294
@@ -27785,7 +28115,7 @@ Title: Prófugos
 Album: Ruido Blanco
 Track: 9/9
 Genre: Other
-mtime: 1367508096
+mtime: 1369223057
 song_end
 playlist_begin: Ruido Blanco - 1987.m3u
 mtime: 1358144349
@@ -28683,7 +29013,7 @@ Title: Angel eléctrico
 Album: Unplugged bonus
 Track: 6
 Genre: Pop
-mtime: 1364859887
+mtime: 1368584658
 song_end
 song_begin: 07 - ella uso mi cabeza como un revolver - Soda Stereo.mp3
 Time: 365
@@ -32222,6 +32552,10 @@ mtime: 1367554479
 song_end
 end: do make say think/You, You're a History in Rust
 end: do make say think
+song_begin: ApacheTabu.mp3
+Time: 199
+mtime: 1331394958
+song_end
 song_begin: BohemianRhapsody.mp3
 Time: 350
 mtime: 1311775871
