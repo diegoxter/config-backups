@@ -59,6 +59,7 @@ alias unbz='tar -xvj'
 alias mpc='mpc -h 127.0.0.1 -p 6600'
 alias nc='ncmpcpp'
 alias ls='ls --color=auto '
+alias pulsestart='pulseaudio --kill && pulseaudio --daemonize'
 
 #chpwd
 
