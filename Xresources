@@ -1,0 +1,28 @@
+! Look
+URxvt.geometry: 113x54
+URxvt.depth: 32
+URxvt.background: rgba:1111/1111/1111/dddd
+URxvt.foreground: #ffffff
+URxvt*scrollBar: false
+!URxvt*scrollstyle: plain
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg:    3
+URxvt.tabbed.tab-bg:    0
+URxvt*font: xft:DejaVu Sans Condensed:pixelsize=12
+URxvt*.transparent: true
+URxvt*.shading: 110
+
+! Extensions
+URxvt.perl-lib: /usr/lib/urxvt/perl
+URxvt.perl-ext-common : default,matcher,tabbed,url-select,clipboard
+
+!Atajos
+URxvt.keysym.M-u:       perl:url-select:select_next
+
+! url-select
+URxvt.urlLauncher     : chromium-browser
+URxvt.underlineURLs:    true
+URxvt.matcher.button  : 1
+
+
