@@ -10,8 +10,8 @@ URxvt.tabbed.tabbar-bg: 0
 URxvt.tabbed.tab-fg:    3
 URxvt.tabbed.tab-bg:    0
 URxvt*font: xft:DejaVu Sans Condensed:pixelsize=12
-URxvt*.transparent: true
-URxvt*.shading: 110
+!URxvt*.transparent: true
+!URxvt*.shading: 110
 
 ! Extensions
 URxvt.perl-lib: /usr/lib/urxvt/perl
