@@ -1,9 +1,9 @@
-sw_volume: 80
+sw_volume: 47
 audio_device_state:1:My Pulse Output
-state: play
-current: 0
-time: 115
-random: 0
+state: pause
+current: 15
+time: 97
+random: 1
 repeat: 0
 single: 0
 consume: 0
@@ -11,5 +11,22 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: nan
 playlist_begin
-0:Radiohead/(1995) The Bends/02 Radiohead - The Bends.mp3
+0:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/01. Ocupen su localidad - Hoy puede ser un gran dia.mp3
+1:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/02. Algo personal.mp3
+2:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/03. Y sin embargo.mp3
+3:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/04. No hago otra cosa que pensar en ti.mp3
+4:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/05. Princesa.mp3
+5:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/06. Contigo.mp3
+6:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/07. Tu nombre me sabe a yerba.mp3
+7:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/08. A la orilla de la chimenea.mp3
+8:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/09. Señora.mp3
+9:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/10. Aquellas pequeñas cosas - Ruido - El muerto vivo.mp3
+10:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/11. Fa vint anys que tinc vint anys.mp3
+11:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/12. 19 días y 500 noches.mp3
+12:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/13. Penélope.mp3
+13:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/14. Más de cien mentiras.mp3
+14:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/15. Cantares.mp3
+15:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/16. La del pirata cojo.mp3
+16:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/17. Pastillas para no soñar.mp3
+17:Joaquin Sabina - Discografia/Joaquin Sabina - Joan Manuel Serrat - Dos Pajaros de un Tiro -/18. Para la libertad.mp3
 playlist_end

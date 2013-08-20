@@ -1,0 +1,23 @@
+Canto-fetch v 0.7.10 (sh:)
+Time: Mon Mar 25 01:23:37 2013
+Config parsed successfully.
+Deleted extraneous file: http:  frentondauisbert.blogspot.com feeds posts default
+Deleted extraneous file: http:  www.fccarabobo.com.ve wp index.php feed 
+Updating Explosm.net
+Updating Gun Show ~ ~ ~ ~
+Updating Super Effective
+Updating xkcd
+cPickle load exception on /home/diegoxter/.canto/feeds/http:  feeds.feedburner.com Linuxers
+Updating Linuxers
+Updating Pensamientos Ajenos para Ti
+Updating Linux Today
+Updating alberto montt en dosis diarias
+Updating gogglesmm project updates - Google Code
+Updating Git commits to project dolphin-emu on Google Code
+Updating git.icculus.org Git - dana/openbox.git/rss log
+Updating Gitorious: minitunes activity
+Updating mesa/doc
+Updating pyLoad feed
+Updating electronics, etc.
+cPickle dump exception on /home/diegoxter/.canto/feeds/http:  feeds.feedburner.com Linuxers
+Gracefully exiting Canto-fetch.

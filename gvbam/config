@@ -1,6 +1,6 @@
 [Directories]
 gb_roms=/home/diegoxter
-gba_roms=/home/diegoxter/Dropbox/Public/vba
+gba_roms=/home/diegoxter
 batteries=/home/diegoxter/.config/gvbam
 saves=/home/diegoxter/.config/gvbam
 captures=/home/diegoxter/.config/gvbam
@@ -22,13 +22,13 @@ pause_when_inactive=1
 show_speed=1
 
 [Display]
-scale=4
+scale=3
 filter2x=0
 filterIB=0
 output=1
 
 [Sound]
-mute=0
+mute=1
 sample_rate=44100
 volume=1
 

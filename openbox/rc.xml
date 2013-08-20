@@ -42,7 +42,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Fog</name>
+    <name>Fog-i</name>
     <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -305,17 +305,17 @@
       <action name="Execute">
         <command>mpc next</command>
       </action>
-      </keybind>
+    </keybind>
     <keybind key="W-Left">
       <action name="Execute">
         <command>mpc prev</command>
       </action>
-      </keybind>
+    </keybind>
     <keybind key="W-Up">
       <action name="Execute">
         <command>mpc toggle</command>
       </action>
-      </keybind>
+    </keybind>
     <!-- Keybindings for window switching with the arrow keys
     <keybind key="W-S-Left">
       <action name="DirectionalCycleWindows">
@@ -793,16 +793,16 @@
 
   # end of the example
 -->
-<!--Web-->
+    <!--Web-->
     <application class="Chromium-browser">
       <desktop>1</desktop>
     </application>
-<!--Sistema-->
-    <application title="*(Bash)*">
+    <!--Sistema-->
+    <application title="urxvt">
       <decor>no</decor>
       <position force="yes">
         <x>-1</x>
-        <y>-30</y>
+        <y>-29</y>
       </position>
       <desktop>2</desktop>
       <skip_taskbar>yes</skip_taskbar>
@@ -816,7 +816,7 @@
       <desktop>2</desktop>
       <skip_taskbar>yes</skip_taskbar>
     </application>
-  <!--Chévere-->
+    <!--Chévere-->
     <application title="ncmpcpp*">
       <decor>no</decor>
       <position force="yes">
@@ -833,9 +833,9 @@
       </position>
       <desktop>3</desktop>
     </application>
-  <!--Office-->
+    <!--Office-->
     <application class="libreoffice*">
       <desktop>4</desktop>
     </application>
-    </applications>
+  </applications>
 </openbox_config>

@@ -59,6 +59,7 @@ alias unbz='tar -xvj'
 alias mpc='mpc -h 127.0.0.1 -p 6600'
 alias nc='ncmpcpp'
 alias ls='ls --color=auto '
+alias pulsestart='pulseaudio --kill && pulseaudio --daemonize'
 
 #chpwd
 
@@ -125,5 +126,4 @@ export GOROOT=/usr/lib/go
 export GOOS=linux
 export GOBIN=/usr/bin
 export CDPATH="$HOME/Descargas/:$HOME/Público/"
-#export LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so
-#export LD_PRELOAD=/opt/qt/lib/libqt-mt.so
+export LD_PRELOAD=/usr/lib/i386-linux-gnu/libv4l/v4l1compat.so
