@@ -6,11 +6,12 @@ local configs = require "lspconfig.configs"
 local util = require "lspconfig/util"
 local servers = {
   "biome",
-  "roslyn",
+  -- "roslyn",
   "eslint",
   "html",
   "cssls",
   "gopls",
+  "ols",
   "solidity_ls_nomicfoundation",
   "ts_ls",
   "emmet_language_server",

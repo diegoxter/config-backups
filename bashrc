@@ -144,7 +144,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH="$PATH:~/go/bin:/usr/local/go/bin:/usr/sbin:~/Code/tools/bin:~/.foundry/bin"
+export PATH="$PATH:$HOME/go/bin:/usr/local/go/bin:/usr/sbin:$HOME/Code/tools/bin:$HOME/.foundry/bin"
 
 . "$HOME/.cargo/env"
 

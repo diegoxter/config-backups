@@ -13,17 +13,20 @@ return {
     "m4xshen/hardtime.nvim",
     lazy = false,
     dependencies = { "MunifTanjim/nui.nvim" },
-    opts = {},
-  },
-  {
-    "seblyng/roslyn.nvim",
-    ft = "cs",
-    ---@module 'roslyn.config'
-    ---@type RoslynNvimConfig
     opts = {
-      -- your configuration comes here; leave empty for default settings
+      max_count = 5,
+      disable_mouse = false,
     },
   },
+  -- {
+  --   "seblyng/roslyn.nvim",
+  --   ft = "cs",
+  --   ---@module 'roslyn.config'
+  --   ---@type RoslynNvimConfig
+  --   opts = {
+  --     -- your configuration comes here; leave empty for default settings
+  --   },
+  -- },
   {
     "stevearc/conform.nvim",
     event = { "BufWritePre", "BufNewFile" }, -- uncomment for format on save
