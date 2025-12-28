@@ -16,6 +16,7 @@ local servers = {
   "ts_ls",
   "emmet_language_server",
   "v_analyzer",
+  "jsonls",
 }
 
 lsp.enable(servers)
@@ -27,7 +28,7 @@ lsp.enable(servers)
 lsp.config("gopls", {
   cmd = { "gopls" },
   filetypes = { "go", "gomod", "gowork", "gotempl" },
-  root_dir = util.root_pattern("go.work", "go.mod", ".git"),
+  -- root_dir = util.root_pattern("go.work", "go.mod", ".git"),
   settings = {
     gopls = {
       completeUnimported = true,
