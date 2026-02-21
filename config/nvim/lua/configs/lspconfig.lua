@@ -5,21 +5,22 @@ local lsp = vim.lsp
 local configs = require "lspconfig.configs"
 local util = require "lspconfig/util"
 local servers = {
-  "biome",
+  -- "biome",
   -- "roslyn",
   "eslint",
-  "html",
-  "cssls",
+  -- "html",
+  -- "cssls",
   "gopls",
-  "ols",
-  "solidity_ls_nomicfoundation",
+  -- "ols",
+  -- "solidity_ls_nomicfoundation",
   "ts_ls",
   "emmet_language_server",
-  "v_analyzer",
+  -- "v_analyzer",
+  "clangd",
   "jsonls",
+  "arduino-language-server",
 }
 
-lsp.enable(servers)
 -- vim.roslyn_ls.setup({
 --   cmd: {
 --    "Microsoft.CodeAnalysis.LanguageServer", "--logLevel", "Information", "--extensionLogDirectory", "/tmp/roslyn_ls/logs", "--stdio"
@@ -39,6 +40,12 @@ lsp.config("gopls", {
     },
   },
 })
+lsp.config("clangd", {
+  cmd = {
+    "clangd",
+    "--background-index",
+  },
+})
 
 lsp.config("svelte", {
   cmd = { "svelteserver", "--stdio" },
@@ -47,6 +54,7 @@ lsp.config("svelte", {
   single_file_support = false,
 })
 
+lsp.enable(servers)
 -- vim.lsp.config("eslint", {
 --   on_attach = function(client, bufnr)
 --     vim.api.nvim_create_autocmd("BufWritePre", {
