@@ -1,4 +1,4 @@
--- if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
+if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- AstroLSP allows you to customize the features in AstroNvim's LSP configuration engine
 -- Configuration documentation can be found with `:h astrolsp`
@@ -22,9 +22,7 @@ return {
       format_on_save = {
         enabled = true, -- enable or disable format on save globally
         allow_filetypes = { -- enable format on save for specified filetypes only
-          "go",
-          "lua",
-          "c"
+          -- "go",
         },
         ignore_filetypes = { -- disable format on save for specified filetypes
           -- "python",
@@ -42,7 +40,6 @@ return {
     -- enable servers that you already have installed without mason
     servers = {
       -- "pyright"
-      "lua_ls"
     },
     -- customize language server configuration passed to `vim.lsp.config`
     -- client specific configuration can also go in `lsp/` in your configuration root (see `:h lsp-config`)

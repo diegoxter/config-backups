@@ -5,7 +5,7 @@
 -- fit in the normal config locations above can go here
 --
 local ignore_filetypes = { 'neo-tree' }
-local ignore_buftypes = { 'nofile', 'prompt', 'popup',  }
+local ignore_buftypes = { 'nofile', 'prompt', 'popup' }
 
 local augroup =
     vim.api.nvim_create_augroup('FocusDisable', { clear = true })

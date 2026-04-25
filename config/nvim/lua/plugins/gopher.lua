@@ -1,4 +1,4 @@
 return {
   "olexsmir/gopher.nvim",
-  ft = "go"
+  ft = "go",
 }

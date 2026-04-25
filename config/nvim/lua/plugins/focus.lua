@@ -1,8 +1,6 @@
 return {
-  {
-    "nvim-focus/focus.nvim",
-    version = false,
-    opts = {
+  "nvim-focus/focus.nvim",
+   opts = {
       autoresize = {
         enable = true,
         width = 0,
@@ -11,6 +9,4 @@ return {
         minheight = 8,
       },
     },
-    excluded_filetypes = { "neo-tree" },
-  },
 }
