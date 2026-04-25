@@ -1,64 +1,27 @@
-vim.g.base46_cache = vim.fn.stdpath "data" .. "/nvchad/base46/"
-vim.g.mapleader = " "
-vim.g.maplocalleader = ","
-vim.opt.colorcolumn = "80"
+-- This file simply bootstraps the installation of Lazy.nvim and then calls other files for execution
+-- This file doesn't necessarily need to be touched, BE CAUTIOUS editing this file and proceed at your own risk.
+local lazypath = vim.env.LAZY or vim.fn.stdpath "data" .. "/lazy/lazy.nvim"
 
-vim.g.nvlime_cl_impl = "ros"
-
--- Define custom ROSWELL commander
-vim.cmd [[
-  function! NvlimeBuildServerCommandFor_ros(nvlime_loader, nvlime_eval)
-    echo "nvlime_loader: " . a:nvlime_loader
-    echo "nvlime_eval: " . a:nvlime_eval
-    return ["ros", "run", "-l", a:nvlime_loader, "--eval", a:nvlime_eval]
-  endfunction
-]]
-
--- bootstrap lazy and all plugins
-local lazypath = vim.fn.stdpath "data" .. "/lazy/lazy.nvim"
-
-if not vim.uv.fs_stat(lazypath) then
-  local repo = "https://github.com/folke/lazy.nvim.git"
-  vim.fn.system {
-    "git",
-    "clone",
-    "--filter=blob:none",
-    repo,
-    "--branch=stable",
-    lazypath,
-  }
+if not (vim.env.LAZY or (vim.uv or vim.loop).fs_stat(lazypath)) then
+  -- stylua: ignore
+  local result = vim.fn.system({ "git", "clone", "--filter=blob:none", "https://github.com/folke/lazy.nvim.git", "--branch=stable", lazypath })
+  if vim.v.shell_error ~= 0 then
+    -- stylua: ignore
+    vim.api.nvim_echo({ { ("Error cloning lazy.nvim:\n%s\n"):format(result), "ErrorMsg" }, { "Press any key to exit...", "MoreMsg" } }, true, {})
+    vim.fn.getchar()
+    vim.cmd.quit()
+  end
 end
 
 vim.opt.rtp:prepend(lazypath)
 
-local lazy_config = require "configs.lazy"
+-- validate that lazy is available
+if not pcall(require, "lazy") then
+  -- stylua: ignore
+  vim.api.nvim_echo({ { ("Unable to load lazy from: %s\n"):format(lazypath), "ErrorMsg" }, { "Press any key to exit...", "MoreMsg" } }, true, {})
+  vim.fn.getchar()
+  vim.cmd.quit()
+end
 
--- load plugins
-require("lazy").setup({
-  {
-    "NvChad/NvChad",
-    lazy = false,
-    branch = "v2.5",
-    import = "nvchad.plugins",
-  },
-
-  { import = "plugins" },
-}, lazy_config)
-
-require("nvim-tree").setup {
-  view = {
-    side = "right",
-    width = 24,
-  },
-}
-
--- load theme
-dofile(vim.g.base46_cache .. "defaults")
-dofile(vim.g.base46_cache .. "statusline")
-
-require "options"
-require "nvchad.autocmds"
-
-vim.schedule(function()
-  require "mappings"
-end)
+require "lazy_setup"
+require "polish"
