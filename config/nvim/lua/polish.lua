@@ -3,7 +3,19 @@
 -- This will run last in the setup process.
 -- This is just pure lua so anything that doesn't
 -- fit in the normal config locations above can go here
---
+
+-- Habilita el ajuste de línea visual
+vim.opt.wrap = true
+-- Evita que las palabras se corten a la mitad al ajustar
+vim.opt.linebreak = true
+-- Desactiva el corte de línea "duro" automático
+vim.opt.textwidth = 0
+-- Asegura que no haya márgenes de ajuste adicionales
+vim.opt.wrapmargin = 0
+-- Linea vertical en la columna XX
+vim.opt.colorcolumn = "80"
+
+
 local ignore_filetypes = { 'neo-tree' }
 local ignore_buftypes = { 'nofile', 'prompt', 'popup' }
 
