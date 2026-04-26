@@ -101,6 +101,10 @@ esac
 if [ -x /usr/bin/dircolors ]; then
     test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
     alias ls='ls --color=auto'
+    alias ll='ls -alF'
+    alias la='ls -A'
+    alias l='ls -CF'
+
     #alias dir='dir --color=auto'
     #alias vdir='vdir --color=auto'
 
@@ -112,15 +116,25 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
+# some more aliases
 alias winget='winget.exe'
 alias tmuxtach='tmux attach -d -t'
 alias get_idf='. $HOME/Code/tools/esp-idf/export.sh'
 alias idf='idf.py'
+
+# Git aliases
 alias gitammend='git commit --amend --no-edit'
+alias gaa='git add .'
+alias gd='git diff'
+alias gds='git diff --staged'
+# Git functions
+gcm() {
+  if [ -z "$1" ]; then
+    echo "Uso: gcm \"mensaje\""
+    return 1
+  fi
+  git commit -m "$1"
+}
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
@@ -146,12 +160,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH="$PATH:$HOME/go/bin:/usr/local/go/bin:/usr/sbin:$HOME/Code/tools/bin:$HOME/.foundry/bin"
-
-. "$HOME/.cargo/env"
+export PATH="$PATH:$HOME/go/bin:/usr/local/go/bin:/usr/sbin:$HOME/Code/tools/bin"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-# . "$HOME/.local/share/dfx/env"

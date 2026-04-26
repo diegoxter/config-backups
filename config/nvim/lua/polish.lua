@@ -14,6 +14,7 @@ vim.opt.textwidth = 0
 vim.opt.wrapmargin = 0
 -- Linea vertical en la columna XX
 vim.opt.colorcolumn = "80"
+vim.api.nvim_set_hl(0, "MatchParen", { bg = "#505050", fg = "white", bold = true })
 
 
 local ignore_filetypes = { 'neo-tree' }
