@@ -1,4 +1,4 @@
-if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
+-- if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 
 -- AstroLSP allows you to customize the features in AstroNvim's LSP configuration engine
 -- Configuration documentation can be found with `:h astrolsp`
@@ -39,6 +39,12 @@ return {
     },
     -- enable servers that you already have installed without mason
     servers = {
+      clangd = {
+        cmd = {
+          "clangd",
+          "--compile-commands-dir=build",
+        },
+      },
       -- "pyright"
     },
     -- customize language server configuration passed to `vim.lsp.config`
