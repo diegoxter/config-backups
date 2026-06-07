@@ -60,6 +60,14 @@ fi
 source ~/.clarinet.bash
 
 # Git completions
+if [ -f /usr/share/bash-completion/completions/git ]; then
+    source /usr/share/bash-completion/completions/git
+elif [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
+    source /usr/local/etc/bash_completion.d/git-completion.bash
+elif [ -f ~/.git-completion.bash ]; then
+    source ~/.git-completion.bash
+fi
+
 # source ~/.git-prompt.sh
 # GIT_PS1_SHOWUNTRACKEDFILES=true
 # GIT_PS1_SHOWDIRTYSTATE=true
@@ -127,6 +135,13 @@ alias gitammend='git commit --amend --no-edit'
 alias gaa='git add .'
 alias gd='git diff'
 alias gds='git diff --staged'
+alias gchko='git checkout'
+__git_complete gchko _git_checkout
+alias gchkb='git checkout -b'
+__git_complete gchkb _git_checkout
+alias gbr='git branch'
+__git_complete gbr  _git_branch
+
 # Git functions
 gcm() {
   if [ -z "$1" ]; then
