@@ -47,3 +47,33 @@ vim.api.nvim_create_autocmd('FileType', {
     end,
     desc = 'Disable focus autoresize for FileType',
 })
+
+local function swank_running(port)
+  port = port or 4005
+   local cmd = string.format("ss -ltn | grep -qE ':%d([[:space:]]|$)'", port)
+  vim.fn.system({ "sh", "-c", cmd })
+  return vim.v.shell_error == 0
+end
+
+local function ensure_swank()
+  if swank_running(4005) then
+    return
+  end
+
+  vim.fn.jobstart({
+    "ros", "run",
+    "--eval", "(ql:quickload :swank)",
+    "--eval", "(swank:create-server :port 4005 :dont-close t)",
+  }, { detach = true })
+end
+
+vim.api.nvim_create_autocmd("FileType", {
+  pattern = "lisp",
+  callback = function()
+    ensure_swank()
+
+    vim.defer_fn(function()
+      vim.cmd("ConjureConnect")
+    end, 500)
+  end,
+})
