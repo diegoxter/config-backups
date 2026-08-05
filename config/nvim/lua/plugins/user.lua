@@ -6,6 +6,7 @@
 
 ---@type LazySpec
 return {
+
  { "hiphish/rainbow-delimiters.nvim" },
  { "Olical/conjure",
    ft = {
@@ -22,10 +23,10 @@ return {
       vim.g["conjure#debug"] = true
    end,
  },
+"github/copilot.vim",
+  -- == Examplddes of Adding Plugins ==
 
 
-  -- == Examples of Adding Plugins ==
-  --
   -- "andweeb/presence.nvim",
   -- {
   --   "ray-x/lsp_signature.nvim",
