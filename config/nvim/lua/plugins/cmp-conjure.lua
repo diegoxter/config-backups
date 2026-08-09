@@ -14,13 +14,17 @@ return {
   },
   opts = {
     sources = {
-      default = { "conjure" },
+      -- default = { "conjure" },
       providers = {
-        conjure = {
-          name = "conjure",
-          module = "blink.compat.source",
-          score_offset = -1,
-        },
+        -- conjure = {
+        --   name = "conjure",
+        --   module = "blink.compat.source",
+        --   score_offset = -1,
+        -- },
+        --  nvlime = {
+        --   name = 'nvlime',
+        --   module = 'blink.compat.source',
+        -- },
       },
     },
   },

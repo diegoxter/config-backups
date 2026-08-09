@@ -22,7 +22,8 @@ return {
       format_on_save = {
         enabled = true, -- enable or disable format on save globally
         allow_filetypes = { -- enable format on save for specified filetypes only
-          -- "go",
+          "go",
+          "lua",
         },
         ignore_filetypes = { -- disable format on save for specified filetypes
           -- "python",
@@ -45,7 +46,7 @@ return {
           "--compile-commands-dir=build",
         },
       },
-      -- "pyright"
+      -- "alive_lsp"
     },
     -- customize language server configuration passed to `vim.lsp.config`
     -- client specific configuration can also go in `lsp/` in your configuration root (see `:h lsp-config`)

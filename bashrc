@@ -128,7 +128,39 @@ fi
 alias winget='winget.exe'
 alias tmuxtach='tmux attach -d -t'
 alias get_idf='. $HOME/Code/tools/esp-idf/export.sh'
-alias idf='idf.py'
+alias netrepl='janet -e "(import spork/netrepl) (netrepl/server)"'
+alive-lsp-start() {
+  local port=8006
+  local log="${XDG_STATE_HOME:-$HOME/.local/state}/alive-lsp.log"
+
+  mkdir -p "$(dirname "$log")"
+
+  if ss -ltn | grep -qE ":${port}([[:space:]]|$)"; then
+    echo "Alive LSP ya está escuchando en 127.0.0.1:${port}"
+    return 0
+  fi
+
+  nohup ros run \
+    --eval '(require :asdf)' \
+    --eval '(asdf:load-system :alive-lsp)' \
+    --eval "(uiop:symbol-call :alive/server :start :port ${port})" \
+    --eval '(loop (sleep 3600))' \
+    >"$log" 2>&1 &
+
+  disown
+
+  for _ in $(seq 1 150); do
+    if ss -ltn | grep -qE ":${port}([[:space:]]|$)"; then
+      echo "Alive LSP conectado en 127.0.0.1:${port}"
+      return 0
+    fi
+    sleep 0.2
+  done
+
+  echo "Alive LSP no pudo iniciar; revisa: $log" >&2
+  return 1
+}
+
 
 # Git aliases
 alias gitammend='git commit --amend --no-edit'

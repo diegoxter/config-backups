@@ -8,12 +8,24 @@
 return {
 
  { "hiphish/rainbow-delimiters.nvim" },
+ -- "kovisoft/slimv"
+ -- a borrar??
+ -- {
+ --  "northgreen/nvlime",
+ --  build = "make",
+ --  dependencies = {
+ --    "northgreen/parsley"
+ --  },
+ -- },
+ -- a borrar?
+ --
+ --
  { "Olical/conjure",
    ft = {
    -- "clojure",
    -- "fennel",
    -- "janet",
-   "lisp"
+   -- "lisp"
   }, -- etc
    lazy = true,
    init = function()
